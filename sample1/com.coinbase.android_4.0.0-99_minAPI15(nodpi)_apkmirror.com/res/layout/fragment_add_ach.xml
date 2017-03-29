@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="Account Type" />
+        <Spinner android:id="@id/ach_account_type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="Account Number" />
+        <EditText android:id="@id/ach_account_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:inputType="number" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="Routing Number" />
+        <EditText android:id="@id/ach_routing_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:inputType="number" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="Customer Name" />
+        <EditText android:id="@id/ach_customer_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:inputType="textPersonName" />
+    </LinearLayout>
+    <Button android:id="@id/add_ach_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="Create" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+</LinearLayout>

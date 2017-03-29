@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="92.0">
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="10.0" />
+        <TextView android:textStyle="bold" android:textColor="#ff000000" android:gravity="center_horizontal" android:id="@id/scan_the_front_back" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/jumio_scan_the_front" android:layout_weight="5.0" />
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="3.0" />
+        <TextView android:textColor="#ff000000" android:gravity="center_horizontal" android:id="@id/jumio_scan_prompt" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/jumio_scan_drivers_license" android:layout_weight="8.0" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:weightSum="20.0" android:layout_weight="45.0">
+            <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+            <FrameLayout android:padding="40.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="18.0">
+                <ImageView android:layout_gravity="center" android:id="@id/jumio_image_preview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/id_licence_front" android:scaleType="fitCenter" />
+            </FrameLayout>
+            <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+        </LinearLayout>
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="5.0" />
+        <Button android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/continue_button" android:background="@drawable/button_primary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:text="@string/jumio_confrim_title" android:filterTouchesWhenObscured="true" />
+        <TextView android:textStyle="bold" android:textColor="#ff222222" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/retake_button" android:background="@null" android:layout_width="200.0dip" android:layout_height="35.0dip" android:layout_marginTop="16.0dip" android:text="@string/jumio_flashlight_retake" android:textAllCaps="true" />
+    </LinearLayout>
+</FrameLayout>

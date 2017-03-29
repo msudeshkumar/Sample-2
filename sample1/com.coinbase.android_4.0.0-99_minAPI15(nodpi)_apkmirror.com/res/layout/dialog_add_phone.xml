@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@drawable/two_factor_logo" />
+    <TextView android:textSize="@dimen/text_size_normal" android:textStyle="bold" android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/verify_your_phone" />
+    <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/verify_phone_description_large" />
+    <View android:background="@color/divider_light" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <Spinner android:id="@id/verify_phone_country" android:paddingLeft="@dimen/margin_extra_small" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <View android:background="@color/divider_light" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center_horizontal" android:id="@id/verify_phone_country_code" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="@dimen/margin_default" />
+        <View android:background="@color/divider_light" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <EditText android:textSize="@dimen/text_size_normal" android:gravity="left" android:id="@id/verify_phone_input" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:hint="@string/your_phone_number" android:layout_centerVertical="true" android:inputType="phone" />
+    </LinearLayout>
+    <View android:background="@color/divider_light" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <EditText android:textSize="@dimen/text_size_normal" android:gravity="center_horizontal" android:id="@id/verify_phone_2fa_input" android:background="@android:color/transparent" android:padding="@dimen/margin_small" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:hint="@string/tfa_token" android:inputType="phone" />
+    <View android:background="@color/divider_light" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/verify_phone_skip_button" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/skip" />
+        <Button android:id="@id/verify_phone_verify_button" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/verify_caps" />
+    </LinearLayout>
+</LinearLayout>

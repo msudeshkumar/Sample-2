@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/primary" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/frame_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/buttons_layout">
+        <com.coinbase.android.pricechart.LockableScrollView android:id="@id/scroll_view" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/chart_account_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:id="@id/chart_layout" android:background="@color/primary" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <fragment android:id="@id/price_chart" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="false" android:layout_alignParentTop="true" class="com.coinbase.android.pricechart.PriceChartFragment" />
+                </RelativeLayout>
+            </LinearLayout>
+        </com.coinbase.android.pricechart.LockableScrollView>
+    </FrameLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/buttons_layout" android:background="#ff1f7ac8" android:layout_width="fill_parent" android:layout_height="55.0dip" android:layout_alignParentBottom="true">
+        <Button android:textColor="#ffffffff" android:id="@id/charts_buy" android:background="@drawable/button_transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/charts_buy" android:layout_weight="1.0" />
+        <View android:layout_gravity="center_vertical" android:background="#44ffffff" android:layout_width="1.0dip" android:layout_height="40.0dip" />
+        <Button android:textColor="#ffffffff" android:id="@id/charts_sell" android:background="@drawable/button_transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/charts_sell" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

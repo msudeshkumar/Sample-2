@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_size_large" android:textColor="@color/text_dark" android:id="@id/account_settings_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" />
+    <RadioGroup android:id="@id/account_settings_options" android:layout_width="fill_parent" android:layout_height="120.0dip">
+        <RadioButton android:textSize="16.0sp" android:id="@id/account_settings_delete" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/delete_account" android:layout_weight="1.0" />
+        <RadioButton android:textSize="16.0sp" android:id="@id/account_settings_rename" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/rename_account" android:layout_weight="1.0" />
+        <RadioButton android:textSize="16.0sp" android:id="@id/account_settings_primary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/set_as_primary" android:layout_weight="1.0" />
+    </RadioGroup>
+</LinearLayout>

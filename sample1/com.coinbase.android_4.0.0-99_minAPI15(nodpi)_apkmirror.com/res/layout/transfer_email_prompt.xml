@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/transfer_email_prompt_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/transfer_email_prompt_text" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <AutoCompleteTextView android:id="@id/transfer_email_prompt_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:hint="@string/transfer_email_prompt_hint" android:ems="10" android:layout_below="@id/transfer_email_prompt_text" android:layout_alignParentLeft="true" android:inputType="textEmailAddress">
+        <requestFocus />
+    </AutoCompleteTextView>
+</RelativeLayout>

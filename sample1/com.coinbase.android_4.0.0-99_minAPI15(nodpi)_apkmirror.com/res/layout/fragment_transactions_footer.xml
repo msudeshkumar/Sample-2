@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="#ff666666" android:gravity="center" android:id="@id/transactions_footer_text" android:layout_width="fill_parent" android:layout_height="80.0dip" android:text="@string/transactions_loading_more" android:layout_centerVertical="true" />
+</RelativeLayout>

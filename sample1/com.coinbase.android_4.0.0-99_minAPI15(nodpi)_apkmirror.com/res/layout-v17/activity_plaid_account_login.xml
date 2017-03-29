@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.v7.widget.Toolbar android:id="@id/coinbase_toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?actionBarSize" app:popupTheme="@style/ThemeOverlay.AppCompat.Light" app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+        <FrameLayout android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@drawable/bottom_shadow" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/cheque_hint" android:background="#ea333333" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:id="@id/cheque" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/img_cheque" android:layout_centerInParent="true" />
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/routing_hint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-10.0dip" android:layout_below="@id/cheque" android:layout_alignLeft="@id/cheque" android:layout_marginStart="-10.0dip" android:layout_alignStart="@id/cheque">
+                <View android:background="#ffffffff" android:layout_width="2.0dip" android:layout_height="30.0dip" />
+                <TextView android:textColor="#ffcccccc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Routing number" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/account_hint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="50.0dip" android:layout_below="@id/cheque" android:layout_alignLeft="@id/cheque" android:layout_marginStart="50.0dip" android:layout_alignStart="@id/cheque">
+                <View android:background="#ffffffff" android:layout_width="2.0dip" android:layout_height="90.0dip" />
+                <TextView android:textColor="#ffcccccc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Account number" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

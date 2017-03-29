@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/container" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/form_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/debit_card_margin" android:layout_marginTop="20.0dip" android:layout_marginRight="@dimen/debit_card_margin">
+        <android.support.design.widget.TextInputLayout android:id="@id/full_name_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" app:errorEnabled="true">
+            <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/full_name_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/full_name" android:singleLine="true" android:inputType="textPersonName|textCapWords" android:imeOptions="actionNext" />
+        </android.support.design.widget.TextInputLayout>
+        <RelativeLayout android:id="@id/relativeLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/full_name_text_input_layout">
+            <android.support.design.widget.TextInputLayout android:id="@id/card_number_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/card_number_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/card_number" android:inputType="numberDecimal" android:imeOptions="actionNext" />
+            </android.support.design.widget.TextInputLayout>
+            <ImageView android:id="@id/camera_image_view" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="fill_parent" android:layout_marginBottom="8.0dip" android:src="@drawable/camera_icon" android:scaleType="center" android:layout_alignParentLeft="false" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/llBottomFields" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="3.0" android:layout_below="@id/relativeLayout" android:layout_centerHorizontal="true">
+            <android.support.design.widget.TextInputLayout android:id="@id/expiry_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/expiry_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="MM/YY" android:maxLength="5" android:layout_centerHorizontal="true" android:inputType="date" android:imeOptions="actionNext" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout android:id="@id/cvv_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/cvv_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="CVV" android:singleLine="true" android:maxLength="4" android:layout_below="@id/expiry_text_field" android:layout_centerHorizontal="true" android:inputType="numberDecimal" android:imeOptions="actionNext" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout android:id="@id/zip_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/zip_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="Zip code" android:singleLine="true" android:layout_below="@id/expiry_text_field" android:layout_centerHorizontal="true" android:inputType="numberDecimal" />
+            </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+        <android.support.design.widget.TextInputLayout android:id="@id/billing_text_field_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/llBottomFields" app:errorEnabled="true">
+            <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/billing_text_field" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/billing_address" android:singleLine="true" android:editable="false" android:imeOptions="actionNext" />
+        </android.support.design.widget.TextInputLayout>
+        <Button android:textColor="@color/white" android:id="@id/continue_button" android:background="@drawable/button_primary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/continue_button" android:layout_below="@id/billing_text_field_layout" android:filterTouchesWhenObscured="true" />
+    </RelativeLayout>
+    <include android:layout_gravity="center" android:id="@id/buy_btc_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" layout="@layout/buy_bitcoin" />
+</FrameLayout>

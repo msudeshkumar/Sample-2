@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/anchor" android:background="@drawable/signin_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_above="@id/signup_section" android:layout_alignParentTop="true">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/logo" android:layout_width="@dimen/logo_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_small" android:src="@drawable/coinbase_logo" android:layout_centerHorizontal="true" />
+            <fragment android:id="@id/price_chart" android:layout_width="fill_parent" android:layout_height="300.0dip" android:layout_below="@id/logo" android:layout_alignParentBottom="true" class="com.coinbase.android.pricechart.PriceChartFragment" />
+        </RelativeLayout>
+    </ScrollView>
+    <LinearLayout android:orientation="vertical" android:id="@id/signup_section" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <Button android:id="@id/login_intro_signup_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/login_signup" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+        <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/login_intro_signin" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginBottom="@dimen/margin_default" android:text="@string/log_in" />
+    </LinearLayout>
+</RelativeLayout>

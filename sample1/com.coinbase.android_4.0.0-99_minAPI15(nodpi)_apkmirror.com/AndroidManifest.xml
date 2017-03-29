@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.coinbase.android" platformBuildVersionCode="23" platformBuildVersionName="6.0-2704002">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.NFC"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <permission android:name="com.coinbase.android.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.coinbase.android.permission.C2D_MESSAGE"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.flash" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <application android:allowBackup="false" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.coinbase.android.CoinbaseApplication" android:theme="@style/Theme.Coinbase">
+        <activity android:label="@string/title_activity_main" android:launchMode="singleTask" android:name="com.coinbase.android.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <data android:scheme="bitcoin"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <data android:scheme="bitcoin"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <data android:scheme="ethereum"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize" android:label="@string/title_activity_login" android:name="com.coinbase.android.signin.IntroActivity" android:screenOrientation="portrait">
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="coinbase-invite"/>
+            </intent-filter>
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="coinbase-now-link"/>
+            </intent-filter>
+        </activity>
+        <activity android:alwaysRetainTaskState="true" android:launchMode="singleTask" android:name="com.coinbase.android.signin.LoginActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Coinbase.NoWindowContentOverlay" android:windowSoftInputMode="adjustPan|stateVisible">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:pathPrefix="/login" android:scheme="coinbase"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="false" android:name="com.coinbase.android.signin.TwoFactorActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Coinbase.NoWindowContentOverlay" android:windowSoftInputMode="stateHidden"/>
+        <activity android:launchMode="singleTask" android:name="com.coinbase.android.signin.SignupActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Coinbase.NoWindowContentOverlay" android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:pathPrefix="/email_verification_complete" android:scheme="com.coinbase.android.consumer"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="false" android:name="com.coinbase.android.signin.AcceptTermsActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Coinbase.NoWindowContentOverlay"/>
+        <activity android:exported="false" android:label="@string/notifications_title" android:name="com.coinbase.android.notifications.priceAlerts.PriceAlertsActivity"/>
+        <activity android:name="com.coinbase.android.notifications.priceAlerts.create.CreatePriceAlertActivity" android:theme="@style/Theme.Coinbase.Modal"/>
+        <activity android:exported="false" android:name="com.coinbase.android.pin.PINPromptActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:windowSoftInputMode="stateHidden"/>
+        <activity android:exported="false" android:label="@string/title_transfer" android:name="com.coinbase.android.transfers.TransferActivity"/>
+        <activity android:name="com.coinbase.android.deposits.FiatTransactionsActivity"/>
+        <activity android:name="com.coinbase.android.paymentmethods.AddAchAccountActivity" android:screenOrientation="portrait"/>
+        <activity android:exported="false" android:label="@string/transactiondetails_title" android:name="com.coinbase.android.transactions.TransactionDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:exported="false" android:label="@string/manage_accounts" android:name="com.coinbase.android.settings.ManageAccountsActivity"/>
+        <activity android:exported="false" android:label="@string/manage_phone" android:name="com.coinbase.android.phone.PhoneNumberActivity"/>
+        <activity android:exported="false" android:label="@string/manage_payment_methods" android:name="com.coinbase.android.paymentmethods.PaymentMethodsActivity"/>
+        <activity android:exported="false" android:label="@string/card" android:name="com.coinbase.android.paymentmethods.card.CardActivity"/>
+        <activity android:exported="false" android:label="@string/billing_address" android:name="com.coinbase.android.billing.AddBillingAddressActivity"/>
+        <activity android:exported="false" android:label="@string/verify_identity_title" android:name="com.coinbase.android.identityVerification.IdentityVerificationActivity"/>
+        <activity android:exported="false" android:label="@string/connect_plaid_account" android:name="com.coinbase.android.paymentmethods.AddPlaidAccountActivity"/>
+        <activity android:exported="false" android:label="@string/connect_plaid_account" android:name="com.coinbase.android.paymentmethods.PlaidAccountLoginActivity" android:windowSoftInputMode="stateVisible"/>
+        <activity android:exported="true" android:label="@string/app_name" android:name="com.coinbase.android.oauth.AccessGrantActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:pathPrefix="/oauth/authorize" android:scheme="coinbase-oauth"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden" android:exported="false" android:name="com.coinbase.zxing.client.android.CaptureActivity" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="com.coinbase.android.widgets.WidgetChooseAccountActivity" android:theme="@style/Theme.Coinbase.Transparent">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/widget_currency_title" android:name="com.coinbase.android.widgets.WidgetChooseCurrencyActivity">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE"/>
+            </intent-filter>
+        </activity>
+        <receiver android:exported="false" android:label="@string/widget_balance_label" android:name="com.coinbase.android.BalanceAppWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/balance_appwidget_provider"/>
+        </receiver>
+        <receiver android:exported="false" android:label="@string/widget_transactions_label" android:name="com.coinbase.android.TransactionsAppWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/transactions_appwidget_provider"/>
+        </receiver>
+        <receiver android:exported="false" android:label="@string/widget_price_label" android:name="com.coinbase.android.PriceAppWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/price_appwidget_provider"/>
+        </receiver>
+        <receiver android:enabled="false" android:name="com.coinbase.android.transfers.ConnectivityChangeReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.coinbase.android.ReferrerReceiver">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+            <meta-data android:name="forward.Kochava" android:value="com.kochava.android.tracker.ReferralCapture"/>
+        </receiver>
+        <receiver android:exported="true" android:name="com.kochava.android.tracker.ReferralCapture">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.google.android.gms.gcm.GcmReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="com.coinbase.android"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.coinbase.android.transfers.DelayedTxSenderService"/>
+        <service android:exported="false" android:name="com.coinbase.android.widgets.TransactionsRemoteViewsService" android:permission="android.permission.BIND_REMOTEVIEWS"/>
+        <service android:exported="false" android:name="com.coinbase.android.widgets.UpdateWidgetBalanceService"/>
+        <service android:exported="false" android:name="com.coinbase.android.widgets.UpdateWidgetPriceService"/>
+        <service android:exported="false" android:name="com.coinbase.android.googleNow.GoogleNowService"/>
+        <service android:exported="false" android:name="com.coinbase.android.notifications.gcm.InstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.coinbase.android.notifications.gcm.GcmMessageHandler">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="roboguice.modules" android:value="com.coinbase.android.settings.PreferencesManagerModule,com.coinbase.api.LoginManagerModule,com.coinbase.android.event.BusModule,com.coinbase.android.utils.MemoryStoreModule"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="roboguice.annotations.packages" android:value="com.coinbase.android"/>
+        <meta-data android:name="io.fabric.ApiKey" android:value="d209cd26ed4e160a25dc2515d7122fd650be5c1d"/>
+        <activity android:name="com.coinbase.android.signin.StateDisclosureActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

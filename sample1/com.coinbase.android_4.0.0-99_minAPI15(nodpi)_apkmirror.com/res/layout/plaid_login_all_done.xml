@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/plaid_all_done" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:src="@drawable/ic_accept" />
+    <TextView android:textSize="@dimen/text_size_normal" android:textStyle="bold" android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/all_done" />
+    <TextView android:gravity="center" android:id="@id/plaid_all_done_details" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/all_set_details" />
+    <Button android:id="@id/plaid_all_done_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/cdv_verification_amounts_form" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/enter_verification_amount" />
+    <EditText android:id="@id/amount_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:hint="@string/amount_number_1" android:singleLine="true" android:inputType="numberDecimal" />
+    <EditText android:id="@id/amount_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:hint="@string/amount_number_2" android:singleLine="true" android:inputType="numberDecimal" />
+    <Button android:id="@id/cdv_verification_amounts_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+</LinearLayout>

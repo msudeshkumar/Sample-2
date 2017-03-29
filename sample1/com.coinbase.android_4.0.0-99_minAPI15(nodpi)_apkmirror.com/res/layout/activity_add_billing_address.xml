@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar android:id="@id/coinbase_toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?actionBarSize" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" app:popupTheme="@style/ThemeOverlay.AppCompat.Light" app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/debit_card_margin" android:layout_below="@id/coinbase_toolbar">
+        <android.support.design.widget.TextInputLayout android:id="@id/address_line1_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" app:errorEnabled="true">
+            <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/address_line1_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/billing_address" android:singleLine="true" android:inputType="textPostalAddress|textCapWords" android:imeOptions="actionNext" />
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout android:id="@id/address_line2_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/address_line1_text_input_layout" app:errorEnabled="true">
+            <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/address_line2_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/apt_suite" android:singleLine="true" android:layout_below="@id/address_line1_text_field" android:inputType="textPostalAddress|textCapWords" android:imeOptions="actionNext" />
+        </android.support.design.widget.TextInputLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linearLayout2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="4.0" android:layout_below="@id/address_line2_text_input_layout" android:layout_centerHorizontal="true">
+            <android.support.design.widget.TextInputLayout android:id="@id/city_text_input_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="2.0" android:layout_alignParentTop="true" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/city_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/city" android:singleLine="true" android:inputType="textCapWords" android:imeOptions="actionNext" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout android:id="@id/state_text_input_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_alignParentTop="true" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/state_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/state" android:singleLine="true" android:maxLength="2" android:inputType="textCapCharacters" android:imeOptions="actionNext" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout android:id="@id/zip_text_input_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_alignParentTop="true" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/zip_text_field" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/zip" android:singleLine="true" android:inputType="numberDecimal" />
+            </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+        <RelativeLayout android:id="@id/relativeLayout5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/linearLayout2">
+            <android.support.design.widget.TextInputLayout android:id="@id/country_text_input_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" app:errorEnabled="true">
+                <EditText android:textSize="@dimen/debit_card_text_field_size" android:id="@id/country_text_field" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/country" android:singleLine="true" android:layout_centerHorizontal="true" android:imeOptions="actionNext" />
+            </android.support.design.widget.TextInputLayout>
+            <ImageView android:id="@id/imageView6" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="6.0dip" android:src="@drawable/arrow_icon" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <Button android:textColor="@color/white" android:id="@id/continue_button" android:background="@drawable/button_primary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/continue_button" android:layout_below="@id/relativeLayout5" android:filterTouchesWhenObscured="true" />
+    </RelativeLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@id/progress_bar" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout android:id="@id/overlay_layout" android:background="@color/semi_transparent_dark" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+</RelativeLayout>

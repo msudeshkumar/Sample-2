@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/pin_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@drawable/coinbase_logo_blue" android:scaleType="center" />
+        <TextView android:textSize="@dimen/text_size_large" android:textColor="@color/primary" android:id="@id/pin_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="@string/setup_pin_text" />
+        <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/primary" android:id="@id/pin_email" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/pin_number_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/pin_circle_unentered" />
+            <ImageView android:id="@id/pin_number_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/pin_circle_unentered" />
+            <ImageView android:id="@id/pin_number_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/pin_circle_unentered" />
+            <ImageView android:id="@id/pin_number_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pin_circle_unentered" />
+        </LinearLayout>
+    </LinearLayout>
+    <include layout="@layout/keypad" />
+</LinearLayout>

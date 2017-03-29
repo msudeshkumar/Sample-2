@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <com.coinbase.android.ui.AutoResizeTextView android:textSize="@dimen/transfer_amount_primary_text_size" android:textColor="@color/primary" android:id="@id/transfer_amount_primary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" android:layout_marginRight="25.0dip" android:maxLines="1" />
+            <com.coinbase.android.ui.AutoResizeTextView android:textSize="@dimen/transfer_amount_secondary_text_size" android:textColor="@color/primary_light" android:id="@id/transfer_amount_secondary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" android:layout_marginRight="25.0dip" android:maxLines="1" />
+        </LinearLayout>
+        <TextView android:textColor="@color/white" android:gravity="center" android:id="@id/transfer_amount_error" android:background="@color/transactions_sync_error_calm" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/transfer_fxrate_failure" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@id/transfer_amount_switch" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/switch_currency" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/switch_amount" />
+    </RelativeLayout>
+    <View android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginBottom="15.0dip" />
+    <include android:id="@id/keyboard" layout="@layout/number_keyboard" />
+    <Button android:id="@id/transfer_amount_continue" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="@dimen/margin_default" android:layout_marginRight="8.0dip" android:layout_marginBottom="8.0dip" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+</LinearLayout>

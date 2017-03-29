@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="number_keyboard_padding">15.0dip</dimen>
+    <dimen name="number_keyboard_text_size">36.0sp</dimen>
+    <dimen name="transfer_amount_primary_text_size">48.0sp</dimen>
+    <dimen name="transfer_amount_secondary_text_size">32.0sp</dimen>
+</resources>

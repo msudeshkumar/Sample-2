@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/signin_background" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="56.0dip">
+                <ImageView android:id="@id/login_2fa_back_button" android:padding="@dimen/margin_default" android:focusable="false" android:clickable="true" android:layout_width="56.0dip" android:layout_height="56.0dip" android:src="@drawable/back_arrow" />
+                <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/login_title" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/white_box" android:paddingTop="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default">
+                <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/two_factor_logo" />
+                <TextView android:textSize="16.0sp" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/login_2fa_prompt" />
+                <View android:background="@android:color/darker_gray" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="0.20000005dip" />
+                <EditText android:textColorHint="#964f5661" android:gravity="center_horizontal" android:id="@id/login_2fa_field" android:background="#ffffffff" android:padding="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/login_2fa_hint" android:singleLine="true" android:numeric="integer" android:inputType="number" />
+            </LinearLayout>
+            <Button android:id="@id/login_2fa_verify" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginTop="10.0dip" android:layout_marginRight="@dimen/margin_default" android:text="@string/verify" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+            <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/login_2fa_type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/login_sms_button" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

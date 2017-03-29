@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/margin_default" android:paddingBottom="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_size_large" android:textStyle="bold" android:textColor="@color/text_dark" android:id="@id/confirm_buysell_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:text="@string/buysell_sell_title" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginTop="26.0dip" android:layout_marginRight="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_small">
+        <ImageView android:id="@id/buysell_icon_first" android:layout_width="60.0dip" android:layout_height="35.0dip" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/buysell_wallet" />
+        <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:id="@id/buysell_amount" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/buysell_sell_amount" />
+    </LinearLayout>
+    <ImageView android:layout_width="60.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/buysell_dots" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginTop="@dimen/margin_small" android:layout_marginRight="@dimen/margin_default">
+        <ImageView android:id="@id/buysell_icon_second" android:layout_width="60.0dip" android:layout_height="35.0dip" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/buysell_bank" />
+        <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:id="@id/buysell_payment_method" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/buysell_sell_payment" />
+    </LinearLayout>
+    <View android:id="@id/buysell_divider" android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/buysell_payout_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginTop="@dimen/margin_small" android:layout_marginRight="@dimen/margin_default">
+        <ImageView android:layout_width="60.0dip" android:layout_height="40.0dip" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/buysell_calendar" />
+        <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:id="@id/buysell_payout_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/buysell_sell_payout" />
+    </LinearLayout>
+</LinearLayout>

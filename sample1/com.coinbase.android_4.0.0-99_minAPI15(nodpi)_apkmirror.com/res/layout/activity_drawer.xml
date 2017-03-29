@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@id/main_layout" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="?actionBarSize">
+            <android.support.v7.widget.Toolbar android:id="@id/coinbase_toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?actionBarSize" app:popupTheme="@style/ThemeOverlay.AppCompat.Light" app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+            <View android:id="@id/coinbase_toolbar_overlay" android:background="@color/translucent" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/activity_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@drawable/bottom_shadow" />
+    </LinearLayout>
+    <fragment android:layout_gravity="start" android:id="@id/drawer" android:layout_width="@dimen/drawer_max_width" android:layout_height="fill_parent" class="com.coinbase.android.ui.SlidingDrawerFragment"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/signin_background" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:src="@drawable/coinbase_logo_small" />
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/form" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginTop="45.0dip" android:layout_marginRight="@dimen/margin_default">
+                <TextView android:textColor="@color/text_dark" android:id="@id/access_grant_signed_in_as" android:padding="20.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/signed_in_as" />
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="25.0dip">
+                    <ImageView android:id="@id/access_grant_user_image" android:layout_width="62.5dip" android:layout_height="62.5dip" android:scaleType="centerCrop" />
+                    <ImageView android:layout_width="35.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:src="@drawable/ic_horizontal_arrows" android:adjustViewBounds="true" />
+                    <ImageView android:id="@id/access_grant_image" android:layout_width="60.0dip" android:layout_height="60.0dip" android:scaleType="centerCrop" />
+                </LinearLayout>
+                <TextView android:gravity="center_horizontal" android:id="@id/access_grant_permissions" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <LinearLayout android:layout_gravity="end" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="25.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip">
+                    <TextView android:textStyle="bold" android:textColor="@color/text_dark" android:id="@id/access_grant_deny" android:padding="20.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/deny" />
+                    <TextView android:textStyle="bold" android:textColor="@color/text_dark" android:id="@id/access_grant_authorize" android:padding="20.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/authorize" android:filterTouchesWhenObscured="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <ProgressBar android:id="@android:id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="60.0dip" style="@android:style/Widget.ProgressBar.Small" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.coinbase.android.ui.ScrimInsetsFrameLayout android:orientation="vertical" android:background="@color/main_menu_background" android:fitsSystemWindows="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" app:insetForegroundCoinbase="#44000000"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ListView android:id="@id/sliding_drawer_listview" android:background="@color/main_menu_background" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="-2.0dip" android:cacheColorHint="@color/main_menu_background" android:divider="@null" android:layout_weight="1.0" android:isScrollContainer="false" />
+    </LinearLayout>
+</com.coinbase.android.ui.ScrimInsetsFrameLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/spea_deposit_scrollview" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/sepa_deposit_details" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_size_normal" android:textStyle="bold" android:textColor="@color/text_dark" android:layout_gravity="center_horizontal" android:id="@id/sepa_deposit_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/sepa_deposit_title" />
+            <TextView android:textColor="@color/text_dark" android:gravity="center_horizontal" android:id="@id/sepa_deposit_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/sepa_deposit_subtitle" />
+            <android.support.v7.widget.GridLayout android:layout_width="fill_parent" android:layout_height="wrap_content" app:columnCount="2">
+                <TextView android:text="@string/label_iban" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/iban" style="@style/SepaDepositValue" />
+                <TextView android:text="@string/label_swift" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/swift" style="@style/SepaDepositValue" />
+                <TextView android:text="@string/label_bank_name" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/bank_name" style="@style/SepaDepositValue" />
+                <TextView android:text="@string/label_bank_address" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/bank_address" style="@style/SepaDepositValue" />
+                <TextView android:text="@string/label_bank_country_name" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/bank_country_name" style="@style/SepaDepositValue" />
+                <TextView android:text="@string/label_account_name" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/account_name" style="@style/SepaDepositValue" />
+                <TextView android:text="@string/label_account_address" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/account_address" style="@style/SepaDepositValue" />
+                <TextView android:text="@string/label_reference_id" style="@style/SepaDepositLabel" />
+                <TextView android:id="@id/reference_id" style="@style/SepaDepositValue" />
+            </android.support.v7.widget.GridLayout>
+        </LinearLayout>
+        <ProgressBar android:id="@android:id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="200.0dip" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</ScrollView>

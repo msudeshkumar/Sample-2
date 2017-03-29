@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingTop="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="@dimen/margin_default" android:paddingTop="@dimen/margin_default" android:paddingRight="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/iav_logo" android:layout_width="@dimen/iav_icon_size" android:layout_height="@dimen/iav_icon_size" android:layout_marginBottom="@dimen/margin_double" android:src="@drawable/ic_add_bank" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/iav_name_form" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/enter_the_full_name_of_your_account" />
+            <EditText android:id="@id/full_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:hint="@string/full_name" android:singleLine="true" />
+            <Button android:id="@id/iav_name_form_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/iav_type_form" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/choose_the_type_of_account" />
+            <Spinner android:id="@id/iav_type_spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" />
+            <Button android:id="@id/iav_type_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/iav_account_details_form" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/enter_your_account_details" />
+            <EditText android:id="@id/ach_routing_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:hint="@string/routing_number" android:singleLine="true" android:inputType="number" />
+            <EditText android:id="@id/ach_account_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:hint="@string/account_number" android:singleLine="true" android:inputType="number" />
+            <Button android:id="@id/iav_details_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+            <TextView android:id="@id/iav_show_routing_details" android:padding="@dimen/margin_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/where_do_i_find_these" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/choose_cdv_iav_form" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" android:maxWidth="200.0dip" android:text="@string/choose_verification_method" />
+            <Button android:id="@id/choose_cdv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/deposit_verification" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+            <TextView android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/cdv_description" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/cdv_amount_sent_form" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_size_normal" android:textStyle="bold" android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/account_verification_in_progress" />
+            <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:gravity="center_horizontal" android:autoLink="web" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/cdv_verification_details" />
+            <Button android:id="@id/cdv_amount_sent_continue" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+        </LinearLayout>
+        <include android:visibility="gone" layout="@layout/cdv_amounts_form" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/iav_verification_in_progress_form" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/iav_verification_in_progress" />
+            <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" />
+        </LinearLayout>
+        <include android:visibility="gone" layout="@layout/plaid_login_all_done" />
+        <include android:visibility="gone" layout="@layout/buy_bitcoin" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewFlipper android:id="@id/flipper" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:id="@id/fragment_transactions" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.coinbase.android.transactions.TransactionsFragment" />
+    <fragment android:id="@id/fragment_buy" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.coinbase.android.buysell.BuyFragment" />
+    <fragment android:id="@id/fragment_buysell" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.coinbase.android.buysell.SellFragment" />
+    <fragment android:id="@id/fragment_accountsettings" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.coinbase.android.settings.AccountSettingsFragment" />
+    <fragment android:id="@id/fragment_charts" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.coinbase.android.pricechart.ChartsFragment" />
+</ViewFlipper>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider android:minWidth="250.0dip" android:minHeight="110.0dip" android:updatePeriodMillis="3600000" android:initialLayout="@layout/widget_transactions" android:configure="com.coinbase.android.widgets.WidgetChooseAccountActivity" android:previewImage="@drawable/widget_transactions_preview" android:resizeMode="vertical" android:minResizeHeight="40.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/deposit_header" android:padding="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/text_size_normal" android:textColor="#ff777777" android:id="@id/deposit_bank_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/label_pay_out" />
+        <Spinner android:id="@id/deposit_bank" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" />
+        <EditText android:textSize="20.0sp" android:textColor="@color/text_dark" android:id="@id/deposit_amount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:hint="@string/deposit_amount_hint" android:inputType="numberDecimal" />
+        <Button android:id="@id/btn_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/deposit" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+    </LinearLayout>
+    <include android:id="@id/quickstart_layout" layout="@layout/overlay_buysell_deposit" />
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@android:color/transparent" />
+    <ProgressBar android:layout_gravity="center" android:id="@android:id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textColor="@color/text_dark" android:gravity="center" android:layout_gravity="center" android:id="@android:id/empty" android:padding="@dimen/margin_default" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/phone_number_empty" />
+    <com.getbase.floatingactionbutton.AddFloatingActionButton android:layout_gravity="end|bottom|center" android:id="@id/phone_new" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" app:fab_colorPressed="@color/primary_dark" app:fab_colorNormal="@color/primary" app:fab_size="normal" app:fab_addButtonPlusIconColor="@color/white" />
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="#ffe7e7e7" android:layout_width="fill_parent" android:layout_height="40.0dip">
+        <ImageView android:id="@id/widget_icon" android:background="@drawable/appwidget_button_center" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="50.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_launcher" android:layout_centerVertical="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#ff666666" android:id="@id/widget_balance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_balance_default" android:layout_toRightOf="@id/widget_icon" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/widget_scan" android:background="@drawable/appwidget_button_center" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="40.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_action_barcode_light" android:layout_toLeftOf="@id/widget_refresh" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/widget_refresh" android:background="@drawable/appwidget_button_center" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="40.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_action_refresh_light" android:layout_toLeftOf="@id/widget_transfer" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/widget_transfer" android:background="@drawable/appwidget_button_center" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="40.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_action_transfer_light" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ImageView android:background="#ffc2c2c2" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textColor="#ff000000" android:gravity="center" android:id="@id/widget_empty" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="No transactions." />
+        <ListView android:id="@id/widget_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</LinearLayout>

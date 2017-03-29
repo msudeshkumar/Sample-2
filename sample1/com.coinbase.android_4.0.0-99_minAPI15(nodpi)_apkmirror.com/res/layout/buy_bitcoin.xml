@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/buy_bitcoin" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_size_normal" android:textStyle="bold" android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/buy_bitcoin_instantly" />
+    <TextView android:textSize="@dimen/text_size_normal" android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/we_will_use_the_account_just_setup" />
+    <ImageView android:id="@id/coin_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" android:src="@drawable/ic_add_five" />
+    <TextView android:textSize="@dimen/text_size_small" android:textColor="@color/primary" android:id="@id/plaid_bits_estimate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" />
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:src="@drawable/ic_box" />
+    <Button android:textSize="15.0sp" android:id="@id/buy_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/purchase_five_dollars" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+    <Button android:textSize="15.0sp" android:id="@id/buy_custom_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/purchase_custom_amount" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+    <TextView android:id="@id/plaid_no_thanks" android:padding="@dimen/margin_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/no_thanks" />
+</LinearLayout>

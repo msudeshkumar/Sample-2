@@ -1,0 +1,5028 @@
+Manifest-Version: 1.0
+Built-By: 2.1.2
+Created-By: Android Gradle 2.1.2
+
+Name: org/joda/time/tz/data/Europe/Dublin
+SHA1-Digest: bsEFd9Q5c2qBXL1j5neyzLY4Nt4=
+
+Name: org/joda/time/tz/data/Europe/Simferopol
+SHA1-Digest: O9gvRxdLaogROgCJQhzwI+h7jj0=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: UXCDxpOg7UXbnFoDNGrU88J4zC4=
+
+Name: res/drawable-xxxhdpi-v4/fab_bg_mini.png
+SHA1-Digest: xwE2m5H+lQX5mVUPqFQk8p5DRaI=
+
+Name: res/layout/activity_pinprompt.xml
+SHA1-Digest: eECiWFAbKGv4Wjc7gS++SUXvhrE=
+
+Name: org/joda/time/tz/data/America/Cancun
+SHA1-Digest: KOOqRIIaZojSXzCRMNywY73xW48=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_russian.txt
+SHA1-Digest: k/nguda0I1ot8kuzX5C5xNb+MhY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: org/joda/time/tz/data/Africa/Maputo
+SHA1-Digest: lxMaozjeE0hK/j6vIr7gJGCS+Gc=
+
+Name: org/joda/time/tz/data/Antarctica/DumontDUrville
+SHA1-Digest: RMH4A6rLoUi4I5aajojZ25v60BU=
+
+Name: res/drawable/selectable_background_coinbase.xml
+SHA1-Digest: gqi934LpJPsBzqhg6/tJWoL+mh8=
+
+Name: org/joda/time/tz/data/America/Goose_Bay
+SHA1-Digest: 81VNGm+q3bVkaELzW7X8GYOzDXA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greeklatin.txt
+SHA1-Digest: T0MDehullcH0uAY9slGJMUAhTkQ=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: AdlBQF7mCKx3VlJQ4HaRjQeNXyo=
+
+Name: org/joda/time/tz/data/Africa/Luanda
+SHA1-Digest: b5ekcb7J2j+Nl9m/ESA3OXOetBU=
+
+Name: org/joda/time/tz/data/Pacific/Wake
+SHA1-Digest: aluXZWYipJeRWrbi0155LCGuQ3s=
+
+Name: res/layout/fragment_transfer_send.xml
+SHA1-Digest: p1cYjCZzChidDM07EqA9x5V3zmQ=
+
+Name: org/joda/time/tz/data/Australia/Eucla
+SHA1-Digest: BcWca0NDiQTdpNXasVzzuTmS60k=
+
+Name: res/layout-v17/accounts_list_item.xml
+SHA1-Digest: 21MVeoPU+9+PKmSy4LF/KfvSNU8=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_french.txt
+SHA1-Digest: B8soq3ODQdgyws77pmFOVzo66uI=
+
+Name: org/joda/time/tz/data/America/Argentina/Catamarca
+SHA1-Digest: iUkPpLyhT1YWo4ci7KFRXi9GIWI=
+
+Name: res/layout/fragment_intro_trusted.xml
+SHA1-Digest: Ker07Ra4rMLc6S0kwT7Cw2vxkbM=
+
+Name: org/joda/time/tz/data/America/Campo_Grande
+SHA1-Digest: N+xR9czI+hHdyrkgmNyj7HfkI5c=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: WXKtpz66pJSKelShj899BDnb29U=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_czech.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: NJuMq0n7Coq8s/ff6QHhDQhI9uw=
+
+Name: res/drawable-nodpi-v4/indicator_down.png
+SHA1-Digest: 4HDcuvCFXsB7A36RFslLaNihKsg=
+
+Name: res/drawable-nodpi-v4/id_licence_front.png
+SHA1-Digest: Ht4s2zi49Y+HXLYVU1LyOnPiQBg=
+
+Name: res/drawable-nodpi-v4/com_mixpanel_android_rounded_bottom_select
+ ed.9.png
+SHA1-Digest: iXEhBVfaYiCBijmhlft2I2LUgb8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: tTF0QYtVkswHx7xFvFycWVXUxsw=
+
+Name: res/layout/fragment_payment_method.xml
+SHA1-Digest: JPVPeFMwaJvSGK/cNRyMrG/l5bk=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: ClSgPtoML6Q+huXyn/VaW3cNaco=
+
+Name: res/drawable-nodpi-v4/phone_small.png
+SHA1-Digest: 7rRJveqdINq9EDNa5ZzghdHLovI=
+
+Name: res/drawable-nodpi-v4/ic_bank_fidelity.png
+SHA1-Digest: YOHn+wVpBL5U2khCsunOgkMOCN8=
+
+Name: org/joda/time/tz/data/America/Argentina/La_Rioja
+SHA1-Digest: /e43TZ8iZa7Bd20GI3oZCW2vAGM=
+
+Name: res/drawable-nodpi-v4/ab_transparent_coinbase.9.png
+SHA1-Digest: aDNeSX9qGkDgedBhZZZUSOf1dDQ=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: oQKsLWNI0NpSpM+2uW9MLw+44gc=
+
+Name: org/joda/time/tz/data/Atlantic/Faroe
+SHA1-Digest: erKpP4p0+UfGykAfHPMeiso8Gyc=
+
+Name: org/joda/time/tz/data/America/Nipigon
+SHA1-Digest: 67rWwlJsiAVAsZAHnD0i5nM6Btw=
+
+Name: res/anim/com_mixpanel_android_slide_down.xml
+SHA1-Digest: Z/HPyTKInkQEP9qvM+tQOOLjPYA=
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: M6SgdMDGicWvNvgW3DRnBoHmAxM=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 2X8cqpjgNrAZoH3+79fyxaDMXag=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: org/joda/time/tz/data/Pacific/Kiritimati
+SHA1-Digest: r5L/GkzdTM51QrGHbUaGc2JuSDA=
+
+Name: res/layout/list_item_selection.xml
+SHA1-Digest: faIHXgSD/LyIurqfG2oiV8NLGbU=
+
+Name: res/layout/fragment_add_plaid_account_content.xml
+SHA1-Digest: 5AQE9PRBn2raK7L8oyEW/Kjfw5s=
+
+Name: org/joda/time/tz/data/Australia/Melbourne
+SHA1-Digest: gDZQaX7VQgW/YNUxWFgQowdbA0E=
+
+Name: res/drawable-nodpi-v4/rounded_dropdown_rectangle.9.png
+SHA1-Digest: 3qxhz3W/nFMHp2HnisOb7z0o8h4=
+
+Name: org/joda/time/tz/data/America/Guayaquil
+SHA1-Digest: kbUE6/j2lovt95MoHEGe/pSsmh8=
+
+Name: org/joda/time/tz/data/America/Los_Angeles
+SHA1-Digest: wxZ7WUWlLqzDFNPYXeUmOA0UAUA=
+
+Name: res/layout-v17/fragment_payment_method.xml
+SHA1-Digest: RK9xddLRMaLWcpaZnJk3hcT+HRQ=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: p4MFrVwrIR9NCvAUeuFluChoTms=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: wTxntWArKB7sDc4M27U+PpjZhyU=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.
+ png
+SHA1-Digest: LrZts7m/Oija8l6P5TTB5GFdNx0=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_square_nodropshadow.
+ 9.png
+SHA1-Digest: ZGy41swUX+NnEfaH/ZwB5N1OeFw=
+
+Name: res/drawable-nodpi-v4/close_icon.png
+SHA1-Digest: o6OaAJy8h6oETDUOvPgiMtrYlDE=
+
+Name: res/drawable-nodpi-v4/ab_bottom_solid_coinbase.9.png
+SHA1-Digest: amQyTpucsjqxCrIYnm0GSo4eZug=
+
+Name: org/joda/time/format/messages_es.properties
+SHA1-Digest: adI3cbYSIsEEbl0XlGiw8cYeYIA=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_romanian.txt
+SHA1-Digest: 8dJCy93UqGPxUAM5qiwy8UeOCpA=
+
+Name: res/drawable-nodpi-v4/ic_accept.png
+SHA1-Digest: mfj6msVHlP8cY5isqCs2Dl8BXKc=
+
+Name: org/joda/time/tz/data/Africa/Brazzaville
+SHA1-Digest: veL1FfmSGp/zeQTZi+2D94gQsEc=
+
+Name: org/joda/time/tz/data/Europe/Minsk
+SHA1-Digest: mLohn/uRS6LL+br8KZb55FLNWHE=
+
+Name: org/joda/time/tz/data/Asia/Aden
+SHA1-Digest: cR+5nErsxsRCFTgo4ltxBtjdSJk=
+
+Name: res/layout/activity_login.xml
+SHA1-Digest: myvxvO2I7OvVgRDZZ4X7vLWXr/I=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: DTeGNcY/gdR9X+UQ3ft0flJ139w=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: fOZLRa6EGLts4vAJ9jZTI2UOyZ0=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: Lt/DTHQor68skLXPfwfTNiGvGxM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: li/0sswRDphsyRx6Og2NrX1iiB4=
+
+Name: res/drawable-hdpi-v4/master_card.png
+SHA1-Digest: +x525ZAoJtAmeV8i8oJLMKg1O7I=
+
+Name: fabric/io.fabric.sdk.android.fabric.properties
+SHA1-Digest: bZXeCi5Pi/ZDO0wK/vE4z3hkYtA=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_arrowright.png
+SHA1-Digest: AgFkbuemlWkUEeUSD1x7H/LUHWM=
+
+Name: res/drawable-mdpi-v4/cc_back.png
+SHA1-Digest: aN3JGD8ThS0kHaQ5+o3PpSmpapA=
+
+Name: org/joda/time/tz/data/America/Fortaleza
+SHA1-Digest: O8OAjtIJoOHOCSrmODSTpvKDNl4=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: CzvvFFc7BaWc8x/Y+tvpZvFkY9w=
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: WNldXvlIP+4DSero7lT0Ys2Y0Bg=
+
+Name: org/joda/time/tz/data/America/Aruba
+SHA1-Digest: YH93w6dUR09UWjawpfn5lpY33Ro=
+
+Name: res/drawable-ldpi-v4/com_mixpanel_android_arrowleft_faded.png
+SHA1-Digest: nJUr+lf41J+EHhK41rzYFhAwKZs=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_arrowleft.png
+SHA1-Digest: taKGH39rrwsTAvHZTjh//xO65fs=
+
+Name: res/drawable-nodpi-v4/spinner_ab_disabled_coinbase.9.png
+SHA1-Digest: qIUfTCfupknuTmmgQ33P1ikLuLY=
+
+Name: res/drawable-nodpi-v4/indicator_up.png
+SHA1-Digest: q3IUcXD1Jo2NDzQt2mOfErUP9Zw=
+
+Name: res/layout/design_navigation_item_header.xml
+SHA1-Digest: hjycJN52OMmaQg5JbQ8k1xTW7tA=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: 5whZWZwuRck5OpUfQtK68/nh9Ac=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_square_nodropshadow.9.
+ png
+SHA1-Digest: wqQTcCWkN7OVtTknltuI45uvhT4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: res/layout-v17/abc_dialog_title_material.xml
+SHA1-Digest: OD8df8fzC/3PlWVjQpakK9IKE4s=
+
+Name: res/layout-large-land-v17/fragment_transactions.xml
+SHA1-Digest: s6Wl51urRmBcju5MzguOLi12YzQ=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_english.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: qyyA8++tpZMeE5woicJ8hRb+SDY=
+
+Name: res/drawable-mdpi-v4/discover.png
+SHA1-Digest: r4kdgvvXW2ikHEJwbCEuTaDMjaM=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_logo.png
+SHA1-Digest: g8jtAlOu6FcTqHBdbTyYfu3hv1Y=
+
+Name: res/drawable-nodpi-v4/buysell_calendar.png
+SHA1-Digest: beQ4ITnXFIezFfhyty6NbQsdo9g=
+
+Name: res/drawable-nodpi-v4/btn_cab_done_pressed_coinbase.9.png
+SHA1-Digest: /Dtui8JYYDYCU7J9f2bW7a5ny58=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: c4WhrXmf1QDquO48zO95xrhdWlo=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: fT/nzND36MfgjxDkV6kbMCZosPU=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: byuQvpWXS6brcdPpZzFwfkUGtWE=
+
+Name: org/joda/time/tz/data/Europe/Berlin
+SHA1-Digest: TFtVEPwyjihb5Z3lsU7A2q5aT+Q=
+
+Name: org/joda/time/tz/data/America/St_Johns
+SHA1-Digest: 9P3P47qUjf/88w1ryWYvznO7cBA=
+
+Name: res/drawable/btn_cab_done_coinbase.xml
+SHA1-Digest: R/mXuTRQiw7InJSTnR1b4x38FS8=
+
+Name: org/joda/time/tz/data/Atlantic/Reykjavik
+SHA1-Digest: SiBGAapkvs+4C++bWycoJaBAirY=
+
+Name: res/layout-v17/fragment_transfer_send_content.xml
+SHA1-Digest: orOqkFPegSUhQcRrTjrV1sV0SeA=
+
+Name: org/joda/time/tz/data/Indian/Kerguelen
+SHA1-Digest: 651Jv25DYLgrl+i1GGcQrzuyvSw=
+
+Name: org/joda/time/tz/data/Pacific/Fakaofo
+SHA1-Digest: lZwVCjz/uqTCdhyKMa4iGnumPcM=
+
+Name: res/layout-v17/notification_template_part_chronometer.xml
+SHA1-Digest: z9JYKIYMyfi3S7A5d5WIFZEziOU=
+
+Name: org/joda/time/tz/data/America/Halifax
+SHA1-Digest: k2p6rN9SPjziHNfshq1HfEPnXRs=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_arabic.txt
+SHA1-Digest: aiKloEKci+btR6nGlhZQNE+8Hiw=
+
+Name: res/layout-v17/dialog_confirm_buysell.xml
+SHA1-Digest: ggmn74W3isuVrFpBb+Lxpn4dFeI=
+
+Name: res/drawable-xhdpi-v4/cc_back.png
+SHA1-Digest: rIb+70qYhdJTO0WUIUjHGpLphds=
+
+Name: res/layout/list_item_plaid_mfa.xml
+SHA1-Digest: mq4FxGEY9WjTWfyeGHJrWYsP2Dc=
+
+Name: org/joda/time/tz/data/America/Tegucigalpa
+SHA1-Digest: c2hT72kv6Cg5CIK5qdz/DD/jmWY=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 8uS5dzxcWfvqLPd6VcABucDe9VM=
+
+Name: org/joda/time/tz/data/Australia/Darwin
+SHA1-Digest: XtHZzfAJUXKdPylb/EISPBhKjvc=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: EW42e7xg8hfawoOwLPSTzkwmAvI=
+
+Name: res/drawable-nodpi-v4/ab_solid_coinbase.9.png
+SHA1-Digest: iRXQEz8JB/xorNdOv71MV34Sve8=
+
+Name: res/drawable-nodpi-v4/menu_invite_friends_default.png
+SHA1-Digest: eM9WyIPhn7vxGuo9CCVWwe/lQEg=
+
+Name: res/drawable-xhdpi-v4/discover.png
+SHA1-Digest: smcsjT6LA9QM6YFHGQOf01U9n+4=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: BmwsKC3uNvwcF8agRRgehS1CAm0=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_checkmark.png
+SHA1-Digest: QgYxd1Bz8qyZqw0470wU+mkSXHo=
+
+Name: org/joda/time/tz/data/CET
+SHA1-Digest: ST78skZ7oTGQxbZ2VRoygobpE9A=
+
+Name: org/joda/time/tz/data/Antarctica/Davis
+SHA1-Digest: I6XqHTuk9xeCBITQOqP94w+QMHg=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_polish.txt
+SHA1-Digest: YtjlwefN2I0RWdC2euL3eS1iTgQ=
+
+Name: res/drawable-nodpi-v4/ic_sent_bitcoin_dark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/layout-v17/fragment_phone_number.xml
+SHA1-Digest: JaK8gFFkpsaut64NvcQDbgdu+RY=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: BbZ5fQPMRgqGJu1UUDW6mTEBuNY=
+
+Name: res/layout/overlay_buysell_deposit.xml
+SHA1-Digest: VFF0TqZ1IYWLQgvj5C9w/K4EMAw=
+
+Name: org/joda/time/tz/data/Europe/Copenhagen
+SHA1-Digest: +6/aqXF1Wx0e6subMhll1xWux7Y=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_romanian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_cyrillic.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: res/layout/account_settings_section_header.xml
+SHA1-Digest: nxGwZAbUwyx3WGAwfqG2/0cIktA=
+
+Name: org/joda/time/tz/data/Asia/Rangoon
+SHA1-Digest: wr+Z8MaIBbVEtDRRDndB+fpxbp8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: org/joda/time/tz/data/Pacific/Norfolk
+SHA1-Digest: xzxYXyqhvjOfc35gBYAU4xHCvbk=
+
+Name: res/drawable/tab_indicator_ab_coinbase.xml
+SHA1-Digest: xwe7PXLImGHk9PVsYhw2FWDKyCU=
+
+Name: res/drawable-nodpi-v4/ic_bank_citi.png
+SHA1-Digest: V31/XGN91VTl2DRdicYNvJ6rCAk=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Beulah
+SHA1-Digest: 24LX9p3SwxKcY69zJM1ehpVibFM=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 4YsKb2IwvWnlnKLr79msGTpIdXg=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greek.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/Pacific/Efate
+SHA1-Digest: CgNL4HhB/1VsIODtEdv858a/tTc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: org/joda/time/tz/data/America/Edmonton
+SHA1-Digest: 3pe+l5o7lZoddI7QitPzqqTntn4=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: L12XNgC05BSQghB6JCrs8Us9eEo=
+
+Name: res/layout-v17/select_dialog_multichoice_material.xml
+SHA1-Digest: JEUrjqdfmlokF1ub+LnQjIziKk8=
+
+Name: org/joda/time/tz/data/Asia/Ulaanbaatar
+SHA1-Digest: jVboQGxgHLde6IvN6GiyLRO1TEg=
+
+Name: org/joda/time/tz/data/Indian/Chagos
+SHA1-Digest: 1KsLXvX8IWEdzwMeS036NrFqSzQ=
+
+Name: res/layout-v17/list_item_quickstart.xml
+SHA1-Digest: PX3JOxWUHTbjQhVvTY7EButpk5o=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: res/drawable-nodpi-v4/account_vault_default.png
+SHA1-Digest: Sqs9XRV5Ej6lMhlmQxQG+GqY0gM=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_any.txt
+SHA1-Digest: 31+z+V5I9I/BsRgZo688C7Nmz5c=
+
+Name: res/drawable-nodpi-v4/progress_primary_coinbase.9.png
+SHA1-Digest: Ahwr7wOdY7wD25b+B9LCMWHwpec=
+
+Name: org/joda/time/tz/data/America/Boise
+SHA1-Digest: JlDGJLV54uGyS86rMWmT504Is48=
+
+Name: org/joda/time/tz/data/America/Argentina/Mendoza
+SHA1-Digest: +bGRUoLhNrPVsh7J7iRe8emKXEk=
+
+Name: res/layout/fragment_text_dialog.xml
+SHA1-Digest: GmEiYjK6/bpnkKQvMiZm4NyFV8w=
+
+Name: org/joda/time/tz/data/America/Santiago
+SHA1-Digest: sRF3wYmboxTo4I2/14bQsFCxyx0=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_polish.txt
+SHA1-Digest: C2oXvKtemOA5+wbuURYYZrRXawk=
+
+Name: res/layout-v17/fragment_payment_method_verification.xml
+SHA1-Digest: GCWnDLRdWNNxLBBr/EG86k9BRQM=
+
+Name: res/layout-v17/notification_template_lines.xml
+SHA1-Digest: sCXFS3aez8XbDOi7M5RM2yV6uGY=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_english.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/joda/time/tz/data/Europe/Volgograd
+SHA1-Digest: DyduNMmZ8c3EXRIxKmy2TRQa6rs=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: zswdlAwmLMUdC8KexYY+VmSOxS8=
+
+Name: org/joda/time/tz/data/Asia/Tbilisi
+SHA1-Digest: QIOfXvovyfe6oqZJ2JRXUmHr0VU=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: meTbFvJL0s3oA4sDj2GzpobVb3Q=
+
+Name: res/drawable-nodpi-v4/ic_add_bank.png
+SHA1-Digest: 40ogpP2wOf1vIDIu4dC9EpK2KMo=
+
+Name: res/layout/list_item_quickstart.xml
+SHA1-Digest: ynCUP09nJLAjMc92kRaC/QYJqPo=
+
+Name: res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 4+eOcfr2Xjw9675joeNvAJCPtO8=
+
+Name: res/layout/fragment_jumio_document_scan.xml
+SHA1-Digest: 81MXip+PZ2ozbN3NGvPnGKqjp/4=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: fDShwzepkR49aya4UNh+v22s1Nw=
+
+Name: res/drawable-nodpi-v4/jumio_scan_guides.9.png
+SHA1-Digest: sJbqaMRWh4MXZac08IXZVTXbHts=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_arrowright_faded.png
+SHA1-Digest: /1V4dbhMlnO/OKZAvNaPOEtG3NQ=
+
+Name: res/drawable-nodpi-v4/blue_back.png
+SHA1-Digest: 4LTYJEHiejYcpCaRCa2zcUpUS0I=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: 0X9TT99BcftPy4eHwS3wQ6LDxKc=
+
+Name: META-INF/services/com.fasterxml.jackson.databind.Module
+SHA1-Digest: q/73/llcL6A+0DZ4zVxjS8r+0pE=
+
+Name: org/joda/time/tz/data/Africa/Gaborone
+SHA1-Digest: p3IKOY+Krl3ZbqBH/2PpHiTdWBg=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/EST5EDT
+SHA1-Digest: QLT7hjJpvVA7rwM0hCsvYt6Dl6o=
+
+Name: res/drawable-nodpi-v4/i_d_icon_blue_2.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/Etc/GMT+12
+SHA1-Digest: thke1eLpIqyKmhr0wyfMu37yHS0=
+
+Name: org/joda/time/tz/data/Etc/GMT+11
+SHA1-Digest: noifbiu6JBC7d2n0b10Kx7a1wFo=
+
+Name: org/joda/time/tz/data/Etc/GMT+10
+SHA1-Digest: exSRHffVtoIl9rpeyTpT9UAfh8Q=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_turkish.txt
+SHA1-Digest: rN+fxuizg39UWtnHiV1G1d2AaVY=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: Lmbbn/xEkJ/Gz9nw0D1EPfsAb5E=
+
+Name: res/drawable-xxhdpi-v4/fab_bg_mini.png
+SHA1-Digest: lKAYSJ9vIpch0azV5S4QZRSpEOI=
+
+Name: res/layout/spinner_option_country.xml
+SHA1-Digest: fOxHgBmsNAYqN637Pb7DmEN3joU=
+
+Name: META-INF/services/com.fasterxml.jackson.core.ObjectCodec
+SHA1-Digest: mECZ0InRcm6Sm6/P0dIQdmb5YtU=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: e08kbab0hCmZ+bodjZ7WbbBG5g4=
+
+Name: org/joda/time/tz/data/America/Chihuahua
+SHA1-Digest: OlO8AFfk+9ylpzRN0CZwqXgnBzQ=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: rUnkAm0dyiQi2ww8F++dyM/nGW4=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 8fFdZoyOA0FyEP0K/a0QnLk0bbE=
+
+Name: res/drawable/buysell_instant_indicator.xml
+SHA1-Digest: wiMVYSRhCHKPN5/b+nP3AB4hP3Y=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: BGQAexwm+TIdFscbfdGTzegS8po=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/layout/fragment_identity_verification.xml
+SHA1-Digest: dFyJfg4EL8aZ7Qvv8U5RvWoDBrw=
+
+Name: org/joda/time/tz/data/America/Puerto_Rico
+SHA1-Digest: k6JOKPiJlirnf3cwi5mN5AZ8ibc=
+
+Name: res/layout/widget_price.xml
+SHA1-Digest: PMQ+2FqcsUkNw1ToyzqB7E6+ZYs=
+
+Name: org/joda/time/tz/data/Europe/Bucharest
+SHA1-Digest: Cs7mJassiUhI0ijzdCKTiJaFDfM=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: Nf6ibkpDnoOpw2U4dGWuq5o3biY=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: org/joda/time/tz/data/Asia/Vientiane
+SHA1-Digest: ZRelt64S8CjCaVtoLp2/mA5m9Fk=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: hMf/FoHQ1ncswR3Ha2oj+rtb3FA=
+
+Name: org/joda/time/tz/data/Europe/Brussels
+SHA1-Digest: 27O9F0/OSD/En8TCZFlRbmMaXhM=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: o8tokBtB1IInrT75jmmE83PytyQ=
+
+Name: org/joda/time/tz/data/Pacific/Tarawa
+SHA1-Digest: RWcV2SA6T9bAIamiaavpyspucMI=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: cljd5mVAssc4X4e74ERwgr7g19E=
+
+Name: res/xml/balance_appwidget_provider.xml
+SHA1-Digest: JhOEtfBTkEu8/NKFIW6yZhZAURA=
+
+Name: org/joda/time/tz/data/Atlantic/Bermuda
+SHA1-Digest: +WhLX1+xiJ8ox69NPDatKcF6ptA=
+
+Name: res/drawable-nodpi-v4/ic_join.png
+SHA1-Digest: MIjR9cYqbl49HYCBkSsX5s1JUE4=
+
+Name: res/layout/fragment_transfer_amount.xml
+SHA1-Digest: Li+J9QEImlXawiEMVNRcRfqzZ9Y=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: org/joda/time/tz/data/Asia/Kamchatka
+SHA1-Digest: so44SFnFf0XfkopJKAnfG5Gm0tc=
+
+Name: res/layout/list_item_billing_address.xml
+SHA1-Digest: XZz0fOhdc+53c58bNIZeqGI8+UU=
+
+Name: org/joda/time/tz/data/Europe/Oslo
+SHA1-Digest: JjsEWfxlIjl64CliO+uXFFIvs2c=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: res/drawable-nodpi-v4/spinner_ab_default_coinbase.9.png
+SHA1-Digest: FMtNd4SqBRXYJwFKD9gjndUJrZg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: res/drawable-nodpi-v4/account_wallet_default.png
+SHA1-Digest: paQaznJf0RGdlEs3iAUjZso9erQ=
+
+Name: org/joda/time/tz/data/Australia/Adelaide
+SHA1-Digest: XmZm3CFNF0pxIc8LDD78x7uSVt8=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: RuIrosuTr5OJHQud/C7ROtsC4Do=
+
+Name: res/drawable-xxxhdpi-v4/fab_bg_normal.png
+SHA1-Digest: wYkZ/FvXqZv9UxPHKx38qvrA3rc=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_french.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/Europe/Belgrade
+SHA1-Digest: F+uWhibayqp9jwl6TGNaCszCV7c=
+
+Name: res/drawable-nodpi-v4/com_mixpanel_android_rounded_top.9.png
+SHA1-Digest: RolTpsINYAt7kvd5orwtlG1nC/E=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_square_dropshadow.9.
+ png
+SHA1-Digest: nETE2ZC7lycTCMqiAymKN+oe5ho=
+
+Name: org/joda/time/tz/data/Pacific/Wallis
+SHA1-Digest: QccW6FTJwnJvBextg3Qo4rQpkEs=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA1-Digest: RdYcJF7RHQR7GyeRVIIXtoeB4zc=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 3kAOCvPKDybNG1/Fr21Y+cg522o=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_russian.txt
+SHA1-Digest: lulM+eX+omlYPVagYcZ7S+1OOAg=
+
+Name: org/joda/time/tz/data/America/Whitehorse
+SHA1-Digest: 3rGHOhJRfTduFPq83HPwIihXH4U=
+
+Name: res/drawable-nodpi-v4/ic_plane.png
+SHA1-Digest: Stl128pNAfV1FOlRzxMs61PiZV8=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: LigMt7uS2gu4VwQAGfEaQUh/4VA=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/raw/remaining_verifications.json
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: org/joda/time/tz/data/America/Montreal
+SHA1-Digest: ZoqZchqR5fyAFKSZGlZRuhMTxw0=
+
+Name: org/joda/time/tz/data/Pacific/Funafuti
+SHA1-Digest: epXgg5Kuwq5Voyvbeg6PF4zIIIU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: org/joda/money/MoneyDataExtension.csv
+SHA1-Digest: nur8RHpculwzmnJkJumgsVmjP4U=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ibv1DrsR7ZeowzhuVqu/VyNw5qs=
+
+Name: res/anim/com_mixpanel_android_fade_in.xml
+SHA1-Digest: JycpLVWkJ1TjmUs0zeMdWIRql3c=
+
+Name: res/drawable-nodpi-v4/notification.png
+SHA1-Digest: tWt76wx1wLewlH0t/h5WdLjuRyw=
+
+Name: res/layout/fragment_plaid_account_test.xml
+SHA1-Digest: KGeIVuaI5VdbxMMwVkK+QTvEayA=
+
+Name: res/drawable-nodpi-v4/account_multisig_vault_default.png
+SHA1-Digest: 4p3jbs6dit5oWmLwa3F+CPDAuyc=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: 5mRZ2sFLI0LRLV8zEdkzMhgnR9I=
+
+Name: res/layout/activity_price_alerts.xml
+SHA1-Digest: EoXnEnn9cjE6bW6+ug7FcbOThns=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_dark.x
+ ml
+SHA1-Digest: qc2peCXERW/MbZ/lW//j/aZBlAI=
+
+Name: res/layout/com_mixpanel_android_last_choice_answer.xml
+SHA1-Digest: sSSfuTVwH/OfGlymD9/Fc7VW9sc=
+
+Name: org/joda/time/tz/data/Pacific/Easter
+SHA1-Digest: rkzLdutmFEPk7pE8l+k/m0TxISs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_arrowleft_faded.png
+SHA1-Digest: LmI62mt4dwhUKjkNLucLQWfvUp4=
+
+Name: res/layout/fragment_select_state.xml
+SHA1-Digest: LGiBWktwobVY4GX65/a+C6duLXI=
+
+Name: org/joda/time/tz/data/PST8PDT
+SHA1-Digest: 3xZTASwNjyGFqQ5GwVZh636dlkY=
+
+Name: org/joda/time/tz/data/Pacific/Enderbury
+SHA1-Digest: 3IEXYa2i0j9AdJpTeWL5aDwKXtg=
+
+Name: org/joda/time/format/messages_da.properties
+SHA1-Digest: vh5wD5qEuNrpgwJON5iELZL0RHw=
+
+Name: org/joda/time/tz/data/America/Bahia_Banderas
+SHA1-Digest: LwDox13KAGUPWdA94eWhPvnosJw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: res/layout/fragment_transfer_bitcoin_dialog.xml
+SHA1-Digest: 8aiVjSAr0m6znaI7ZCwMRlwOGmM=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-mdpi-v4/fab_bg_normal.png
+SHA1-Digest: SFr7qUcC1HP6xvep8BFOD+IGwrs=
+
+Name: org/joda/time/tz/data/Atlantic/Madeira
+SHA1-Digest: tjbV4TVy/ix1esWQ3lI2dwobD1Y=
+
+Name: res/menu/fragment_sell.xml
+SHA1-Digest: b+FA6i4nh7jrLWY2BHqnggxHaPc=
+
+Name: res/drawable/com_mixpanel_android_checkmark_states.xml
+SHA1-Digest: SZqvl36iQ2pXmbUlNncyNZYrv0c=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_arrowleft.png
+SHA1-Digest: XCdMBQ3p9IwPXaUqWq9+FQA/PR0=
+
+Name: org/joda/time/format/messages_ja.properties
+SHA1-Digest: CPeTTje//FFM3L7e1Ip92fM/OAc=
+
+Name: org/joda/time/tz/data/Asia/Nicosia
+SHA1-Digest: C5aioZxtWesYxL6/9e5lzMwjBms=
+
+Name: org/joda/time/tz/data/Asia/Ust-Nera
+SHA1-Digest: Q7kaOyM/uSGpvQiQJTBLvIk2oKo=
+
+Name: org/joda/time/tz/data/Asia/Kuala_Lumpur
+SHA1-Digest: qyJqSMvLFIxupYwjnI9vus64Po4=
+
+Name: org/joda/time/tz/data/Europe/Stockholm
+SHA1-Digest: Uf7t9c8AVKoQlIYTV6skM4WlwkM=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: org/joda/time/tz/data/America/Indiana/Vevay
+SHA1-Digest: 4lD9oI9teCWmTuviydddiy6jq5k=
+
+Name: res/layout-sw600dp-v13/design_layout_snackbar.xml
+SHA1-Digest: SQq2gW9r5CdbKsMhQIenlDqkr+c=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jniuuw+ps9CtTIC7MeCedJBG1rs=
+
+Name: org/joda/time/tz/data/America/Creston
+SHA1-Digest: P773cAmu+sdqE5kU7aSMxfrJdYY=
+
+Name: org/joda/time/tz/data/Atlantic/Canary
+SHA1-Digest: uDl44xVJa7C2z1nzOgXo7IaaD9o=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: org/joda/time/tz/data/Atlantic/Azores
+SHA1-Digest: 6OqY7G+vsvydmHqwXpeEVjxd4cM=
+
+Name: org/joda/time/tz/data/Europe/Amsterdam
+SHA1-Digest: ZHvEKB2aKSqqv8FZE2UEWQn4rpE=
+
+Name: res/layout/buy_bitcoin.xml
+SHA1-Digest: X5/GJ2SwdTjpe9d/21GXjbY1y70=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: QZ9FkSY1uLrLNUoYvFP8D6yQGLQ=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: sayxlLYpcwDYAyHOyJOv364NYzE=
+
+Name: res/drawable-ldpi-v4/com_mixpanel_android_arrowleft.png
+SHA1-Digest: 2t8hNd4P1PfxaelqU/Xu4GGDlD4=
+
+Name: org/joda/time/tz/data/America/Mazatlan
+SHA1-Digest: 2I5yaeygblzq2rqDOJs1Jymi4DE=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: res/layout/com_mixpanel_android_activity_notification_mini.xml
+SHA1-Digest: f1E/73aMzzd9q0oXOjFSM77hPwo=
+
+Name: res/drawable-xxhdpi-v4/visa.png
+SHA1-Digest: LKJJEs5hlxnbrqeJnNUSDJIFZZs=
+
+Name: res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: dCGOKd8rjcNtTlp9Dx7UpiSfuC8=
+
+Name: res/drawable-xxhdpi-v4/discover.png
+SHA1-Digest: 6UCAECoiwoqBy44nT7Oipzf9KwU=
+
+Name: res/layout-v17/fragment_transfer_amount_content.xml
+SHA1-Digest: +oaEYNqeRHE0L8mI6sJY+esh76A=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: JGVp1h0ggjZpve2nz79i1pzbO1k=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: Uu75SRhtiW3DBM3Tdc73jklkI4g=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: Ika054E+8Y/VzNsUIw/SsVUES7w=
+
+Name: res/drawable-hdpi-v4/fab_bg_mini.png
+SHA1-Digest: xvOeQ8zM2OJis4KAImYM2tZ6mTI=
+
+Name: res/drawable-nodpi-v4/cab_background_bottom_coinbase.9.png
+SHA1-Digest: vT+sxmiuEYX112qylrq8PaN7Au4=
+
+Name: org/joda/time/tz/data/America/Inuvik
+SHA1-Digest: CNEqMcKViE6j5b42IoNQCtKQfjI=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_logo.png
+SHA1-Digest: N1oVoTn+841n4r6W9qtzkhG4SLk=
+
+Name: org/apache/commons/codec/language/bm/sep_lang.txt
+SHA1-Digest: 2YKpv82dZbPde1mb5Xs9Ktt7sZ8=
+
+Name: org/joda/time/tz/data/America/St_Vincent
+SHA1-Digest: ILl/PlTjjymQT42NDE7IS70r530=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: IT2yPI/h8CFre45tyKbFEPF8huQ=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: FBgnLKC1855O6QsmClvm7ETltXk=
+
+Name: org/joda/time/tz/data/Africa/Ceuta
+SHA1-Digest: 35KqxNd9fW0PdXhuZ4rLNkVBpS0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: org/joda/time/tz/data/Africa/Djibouti
+SHA1-Digest: SO8sN0Jg/oVHDR4wQMlt1o8NJBk=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: 4128u0ZeIlzGH64Ik2oxp1O5idU=
+
+Name: org/joda/time/tz/data/Pacific/Midway
+SHA1-Digest: NeRy7vIQIC/lD69ahpJk5T8lzoo=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: T5slVQklwytRhhFRjSw66UZR3vQ=
+
+Name: res/layout-large-land-v4/fragment_iav_login.xml
+SHA1-Digest: eak/rqXNMsgh6O67Ho0K+FhTyUM=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: W6K3P94iAz0CiSFCp6GiJlxogqs=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: qQpaYoGWL908h/WoyV81hrJSp9E=
+
+Name: res/raw/states.json
+SHA1-Digest: bsHMKxmsdlcgTwm6X2dgkEomvf8=
+
+Name: org/joda/time/tz/data/Asia/Hebron
+SHA1-Digest: Y+25ZdjU8HxGH+bvtGFVEsLeF1Q=
+
+Name: org/joda/time/tz/data/Pacific/Kwajalein
+SHA1-Digest: n+WLd/jeyBhn+ahI1xYUeHxMj4Y=
+
+Name: res/anim/barcode_stop_enter.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_german.txt
+SHA1-Digest: mAlmr1wYk70NnXW0RQwawD6KjPo=
+
+Name: res/layout/notification_template_lines.xml
+SHA1-Digest: rR0EzEuBtLKj01kgdJJAfbhy03o=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: res/drawable/price_range_background.xml
+SHA1-Digest: smyRun9aWzpNZecgMxBhaZBs/wM=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_logo.png
+SHA1-Digest: FuKTWEqTRIoroAjuyT84638gP1M=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: HvBnKfx7kTT35jAm4SxNol+ADmE=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/layout/fragment_acceptable_documents_content.xml
+SHA1-Digest: ls31tphofxrAAYGA7vBkpkkKN7c=
+
+Name: com/coinbase/api/coinbase-callback.pub.der
+SHA1-Digest: kiqUQ9EeQn1LTBS/cCVOThiTA00=
+
+Name: org/joda/time/tz/data/America/Bahia
+SHA1-Digest: 93lJGZpmGHrYx3MM/JXVzuCVvXk=
+
+Name: res/layout/activity_modal.xml
+SHA1-Digest: EE6JrH9TuTbMdec5wa4LjliK6L0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_portuguese.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/Africa/Cairo
+SHA1-Digest: P1Ui+FG89HFoYFhZGDR/tx+VIuQ=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_arrowleft_faded.png
+SHA1-Digest: o4WXQJWkeu1SWZfgtcvYxsiacUI=
+
+Name: res/drawable-nodpi-v4/ic_add_five.png
+SHA1-Digest: TCoMkVrReHCXyAGpLTBRYRvXhXg=
+
+Name: res/layout/list_item_iav.xml
+SHA1-Digest: I0ptGk9z2kfc8Z1v+/LcCPLYVQc=
+
+Name: res/drawable-nodpi-v4/tab_unselected_focused_coinbase.9.png
+SHA1-Digest: ObuxbNJnDNYTAPoQ15SWGqIVFWM=
+
+Name: org/joda/time/tz/data/America/Belem
+SHA1-Digest: R5DCEo4JdPdaqFIrE+BCNZ0i1Eo=
+
+Name: org/joda/time/tz/data/America/Havana
+SHA1-Digest: e657hDuh0CAXY4uj0VeIvEnQBE0=
+
+Name: res/layout/fragment_jumio_document_scan_content.xml
+SHA1-Digest: mhEu7ZSZE1J3zUrOWWKxFlFiI4w=
+
+Name: org/joda/time/tz/data/Africa/Ouagadougou
+SHA1-Digest: e8MpzOx3zHvy5a4D7JvFqvy7H4k=
+
+Name: res/layout/fragment_add_payment_method_content.xml
+SHA1-Digest: Y9V4o3vY6UST+l1ls94PVx30/ZU=
+
+Name: res/drawable/com_mixpanel_android_arrowright_insets.xml
+SHA1-Digest: Br52Kte67yO/hd1XPh+/D1npn/E=
+
+Name: res/drawable-nodpi-v4/ic_payment_success.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/layout-v17/activity_login.xml
+SHA1-Digest: lqu7btGn0iXKGBP2WIn7GlQVXBc=
+
+Name: res/drawable-nodpi-v4/widget_price_preview.png
+SHA1-Digest: 9A+HN9T4eZlM7Eomdv3BVE2Q9sc=
+
+Name: res/drawable-nodpi-v4/payment_icon_gray_1.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable/menu_buy.xml
+SHA1-Digest: S7/V6jRcc2b7Pshyv7Ol5uD5BvY=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: BXDE161JXSLFbwwhG6rZ2HvdEzw=
+
+Name: res/drawable-nodpi-v4/ic_withdrew_bitcoin_dark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_cyrillic.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/joda/time/tz/data/Asia/Gaza
+SHA1-Digest: C/RxJMCNocoypqjffinKOhvbDAs=
+
+Name: org/joda/time/tz/data/America/Boa_Vista
+SHA1-Digest: Qut/PQKBv+I0koO0sAG3xC/wgE8=
+
+Name: org/joda/time/tz/data/America/Managua
+SHA1-Digest: O7jBCo0hVSfAD0VrviUHtq0+yps=
+
+Name: res/layout-v17/fragment_transactions_header.xml
+SHA1-Digest: id/p2v5VgYtbRgS7hhtwMSTCegY=
+
+Name: org/joda/time/tz/data/Asia/Pyongyang
+SHA1-Digest: G63H81Lo+uvd+y4CA8LhYY4nGIs=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: F2dnmkEVRySVhEoyxqXk2n0JOW8=
+
+Name: res/drawable-xxhdpi-v4/unknown_cc.png
+SHA1-Digest: 5+GpQPSUTKGvkrqo8MViXr4WCWs=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: LbbYy6UYdEe23cd50u1FYHs5iGc=
+
+Name: res/layout-v17/widget_price.xml
+SHA1-Digest: A6UHPgMZr8D7on0naqFcS9oxU70=
+
+Name: org/joda/time/tz/data/America/Toronto
+SHA1-Digest: OW3/04RBNCoTxWSlGwdXu8NEsDI=
+
+Name: res/drawable-nodpi-v4/ic_wallet_blue.png
+SHA1-Digest: De+eXpNbBULrQRt5nxLsz5ejcPI=
+
+Name: org/joda/time/tz/data/Africa/Maseru
+SHA1-Digest: Rs3ow2xzSW0J3WG5/lbWKfD9FzI=
+
+Name: org/joda/time/tz/data/Asia/Vladivostok
+SHA1-Digest: nmN/i+u36axxbmkMwlVxOI5p4Ss=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: cXFcAggW0hrUOgjpclHGOaPt3Qw=
+
+Name: res/drawable-nodpi-v4/ic_sold_bitcoin_dark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/anim/cycle.xml
+SHA1-Digest: Ldhxm5Y6hORN3K9j4sF1OZ67Kcw=
+
+Name: res/layout-v17/fragment_charts_account_list_item.xml
+SHA1-Digest: sY41D5t0+nea/MdLC4skjEhhQpg=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_spanish.txt
+SHA1-Digest: 604dJC1I4/8Oy3q/B/iDaSTWh7Y=
+
+Name: org/joda/time/tz/data/Africa/Algiers
+SHA1-Digest: YhDByfITesPsdfU4MlQGbfLf5iE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: org/joda/time/tz/data/Antarctica/Palmer
+SHA1-Digest: n47zxUddUWLc7C87Xwu4/2rsIn0=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_checkmark.png
+SHA1-Digest: qVDNe2xzyobQBNKG1k6e2rSLXOA=
+
+Name: res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: wggblUkcuOPGigm90qzU/eHfgxU=
+
+Name: org/joda/time/tz/data/Asia/Oral
+SHA1-Digest: WyG2IsCglmhbTKow7QzzK43o/dU=
+
+Name: org/joda/time/tz/data/Asia/Chongqing
+SHA1-Digest: Ug/nwggPa2MGUG1IKz52puHosu4=
+
+Name: res/anim/activity_slide_in_bottom.xml
+SHA1-Digest: zUe1+EG8v+0fLlcQ3RqiDhzoXPc=
+
+Name: res/drawable/circle_blue.xml
+SHA1-Digest: H3cjAB2JIRvVCOOXxKq5gm92+ak=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 6tbYXJzP23CYwmZO6OyfgxmQ+eE=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: PpIbY/dh7zP5/O4GFNAAVkekQWs=
+
+Name: res/drawable-nodpi-v4/appwidget_inner_pressed_c.9.png
+SHA1-Digest: VHWPUFmeGwmFa5Ysz2s3/0c8QDM=
+
+Name: res/drawable-nodpi-v4/email_verification.png
+SHA1-Digest: qKIHKMF0qN83zvTw8Hhjq9mcfCI=
+
+Name: res/drawable-nodpi-v4/ic_action_image_flash_on.png
+SHA1-Digest: PdR5oqNwagX/3sLIkyl33qoj07w=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: org/joda/time/tz/data/Europe/Zaporozhye
+SHA1-Digest: vvMV1wTeEZ5hn9UewjXwQLo7zJ0=
+
+Name: res/layout-large-land-v4/fragment_add_payment_method.xml
+SHA1-Digest: 8B0K0SsZ1YRQg4P/Vu2ak6ENtT0=
+
+Name: res/drawable-nodpi-v4/coinbase_logo_small.png
+SHA1-Digest: XOivqJwtc2xXNGUCXGQMRoxRXO0=
+
+Name: res/layout/plaid_login_all_done.xml
+SHA1-Digest: Et/IxXYpq3T0r0WelWZuRN1TX1Y=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: 7X2zFd3z84vpfBpeBUSzycNfGM4=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: p9584WImSwr0082/N/zkcvVq7yo=
+
+Name: res/drawable-xxhdpi-v4/master_card.png
+SHA1-Digest: JSnNdaikIVm7da8Ns2Ozpb7nPCo=
+
+Name: res/layout/fragment_deposit.xml
+SHA1-Digest: g/H+B9BR7nq8Vf+O0IL+hiOJpQo=
+
+Name: org/joda/time/tz/data/America/Thunder_Bay
+SHA1-Digest: 9iO4Gy3bRbG8sMa7ZiLEJAGFXH0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_french.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/Indian/Mauritius
+SHA1-Digest: Vo7zCBvwlnWhIJLv6QkfhsylOu4=
+
+Name: res/drawable-nodpi-v4/account_wallet_selected.png
+SHA1-Digest: VD5dMe4D1Bstk6Oh9QeMEyPvNkQ=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: BfJI7vUEMxij6ayidZMRSIeme2w=
+
+Name: res/drawable/pin_circle_unentered.xml
+SHA1-Digest: PNmt42/1Ar37hd0PQWHc3hcQkXs=
+
+Name: org/joda/time/tz/data/Asia/Khandyga
+SHA1-Digest: D4YfAUSZKKsWjRE2OTtoC8Djnr0=
+
+Name: org/joda/time/tz/data/America/Bogota
+SHA1-Digest: vjW0wRjoHFHCI+Ms0/0Nyi5M5Fk=
+
+Name: res/drawable-nodpi-v4/bank_icon_white.png
+SHA1-Digest: 3CXS+A1UlDzvEhvTzla4tOlvL8w=
+
+Name: res/drawable-nodpi-v4/ic_email_bits.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_arabic.txt
+SHA1-Digest: 35RzSnClE1f2weP0D5j5YP7ubPM=
+
+Name: org/joda/time/tz/data/America/Hermosillo
+SHA1-Digest: 2SmhBUpidtbGuxqjvJNl46vh8vw=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: peBbzuN1bAcgjdnv88RfhuoGMWc=
+
+Name: org/joda/time/tz/data/Asia/Makassar
+SHA1-Digest: HZCChqzIY4RpeUADOvByfy1sfKA=
+
+Name: res/drawable/com_mixpanel_android_text_answer_border.xml
+SHA1-Digest: FukZT9SZcfpcrMxRlhjXorZQONA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: res/drawable-nodpi-v4/ic_bought_bitcoin_dark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/Asia/Phnom_Penh
+SHA1-Digest: l/2nkIXh6Mu/joRdpgkjtmw9o8s=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: VI4dX5B2Y48SEkB7kbHeKlBvZ4s=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: org/joda/time/tz/data/Europe/Uzhgorod
+SHA1-Digest: 67g6PVNBdQqNaUFg+66ArKOJtQI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: res/menu/activity_manage_accounts.xml
+SHA1-Digest: EWhct6jFXHIlzktZqPqeKg/PyGU=
+
+Name: org/joda/time/tz/data/Asia/Omsk
+SHA1-Digest: XvbID5cwa2qV7gNUl0gNE7oFfLU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: res/drawable/design_snackbar_background.xml
+SHA1-Digest: l406MYF/0TrafZsvbQRYzVWX4sU=
+
+Name: org/joda/time/tz/data/Antarctica/Syowa
+SHA1-Digest: T6VvasEr7nkh40P6e0dSi7jExXo=
+
+Name: res/anim/login_intro.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/menu/activity_my_address.xml
+SHA1-Digest: ItUVJHglGYSk4+V/IE2PKCsDg7E=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: 23YoDSKgi99/D2Uyna2uEKb8lXY=
+
+Name: org/joda/time/tz/data/Asia/Brunei
+SHA1-Digest: 5B4k8XRvo/PhziWy3d5hzseSfaY=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: mptNldfmeW+3UMDCxkF8SKDyWhU=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_dutch.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: org/joda/time/tz/data/America/Thule
+SHA1-Digest: 7lxz14YsvaiEIiRexrbF5smq//g=
+
+Name: org/joda/time/tz/data/America/Panama
+SHA1-Digest: SfTAYldKrOiN6eKEFjnAcf1eDik=
+
+Name: res/drawable-nodpi-v4/ic_withdrew_bitcoin.png
+SHA1-Digest: 0pEy+vLJZgpuSv2dZfVhy/wi+1A=
+
+Name: res/drawable-nodpi-v4/warning.png
+SHA1-Digest: RQQ5hcjmRdi/TWX3WLuoygq9wUE=
+
+Name: org/joda/time/tz/data/Africa/Malabo
+SHA1-Digest: kpXLxz5hYTkB6rSBhuvtHE9jN8c=
+
+Name: res/drawable-ldpi-v4/com_mixpanel_android_logo.png
+SHA1-Digest: Zg9BqkoFIMf4Tkayi6Wcx0tK3A4=
+
+Name: res/drawable-nodpi-v4/ic_trust.png
+SHA1-Digest: w4awFrYIyZ7OBdr8Dn80ngWZVOw=
+
+Name: org/joda/time/tz/data/Asia/Bangkok
+SHA1-Digest: nN32evS/mwA3A79Ly1X2V/yRrF8=
+
+Name: res/layout/activity_signup.xml
+SHA1-Digest: arOrBbKrR+Mo4hxWPr1JSdV0l8o=
+
+Name: res/drawable-nodpi-v4/currency_gbp.png
+SHA1-Digest: HDEvYjIwBhV3iMzvFnxUS8PGylU=
+
+Name: res/layout/design_navigation_item.xml
+SHA1-Digest: 5uEwW5+KMldpXhRNxW7tnlQSkpQ=
+
+Name: classes.dex
+SHA1-Digest: VuQV7AucFnIzzq9hY3SwLIC7GKg=
+
+Name: org/joda/time/tz/data/Asia/Dili
+SHA1-Digest: jy4vLwan2rYBOnNW8TkocrLHmHU=
+
+Name: org/joda/time/tz/data/Antarctica/Rothera
+SHA1-Digest: jQnmsbHaOS6RbI3UI/zQw7SpPFQ=
+
+Name: res/layout/fragment_intro_send.xml
+SHA1-Digest: 77CxC58ZXmK9+m6/5lirmXaX02M=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: res/drawable-nodpi-v4/ic_received_bitcoin.png
+SHA1-Digest: HZ0gd5w+BWPXb10TPQD50lm5KzE=
+
+Name: res/drawable-nodpi-v4/coinbase_logo.png
+SHA1-Digest: X1eDVnK4pX3PpLABRhy2fNIIBUE=
+
+Name: res/layout-v17/widget_transactions_list_item.xml
+SHA1-Digest: dx8zs9pXmod9gOA+HdZx2ka1ul8=
+
+Name: res/layout/fragment_phone_number.xml
+SHA1-Digest: oBn8NNKdPCKQUDZkN+HKLvMw5Z4=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_arrowright_faded.png
+SHA1-Digest: /T+v8jDtGwo1jGevFwsgIaYKpf0=
+
+Name: res/layout-v17/select_dialog_singlechoice_material.xml
+SHA1-Digest: jCKC0iyjb5lJoQaNFg/OqOorZa0=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: eQ8hrqPRD0qhhaJWghhXuxRIxBA=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_common.txt
+SHA1-Digest: yMn8iqUiPF5RM7J9xhj6gb3A6E4=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: org/joda/time/tz/data/Indian/Christmas
+SHA1-Digest: 53V91l0+w45mLJINCvncJsMVMYw=
+
+Name: org/joda/time/tz/data/America/Nome
+SHA1-Digest: cZgwjIbSxZ349egybKAcQdVJRYg=
+
+Name: res/drawable-mdpi-v4/amex.png
+SHA1-Digest: 5BBhukzAmosEiFBQPk+vRsAFby8=
+
+Name: res/menu/fragment_transfer.xml
+SHA1-Digest: wzJ5m2uvFd2hKvUrvce2lj7L22U=
+
+Name: org/joda/time/tz/data/America/Argentina/Ushuaia
+SHA1-Digest: yp+UTyz7rBcFAYDdA+UpLD8bjYA=
+
+Name: res/drawable-nodpi-v4/id_capture_button.png
+SHA1-Digest: mWVXiToa8SZKA/G8Emtw2wwirdE=
+
+Name: res/layout/fragment_add_ach.xml
+SHA1-Digest: CC5clW99wSTExEMcY3NcyLUsVdo=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: bHADGZ86aGisr0oBfZBoU7RHX/g=
+
+Name: org/joda/time/format/messages_en.properties
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: org/joda/time/tz/data/Etc/GMT
+SHA1-Digest: e8fmiOUPCBNOHil/pHgAFu/xslk=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: 7m6wBr8qEYZ5CpHjC8EqQqNKB2g=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: bZVk/7JyPqpb9FPgqFjfBJURWhA=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: bwjSzuahpvwVgJavscLUKen/ZqQ=
+
+Name: res/drawable/com_mixpanel_android_cta_button.xml
+SHA1-Digest: DK6F39GdQ4BK1EDxX5vcFWMzSzY=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: MoCLKmenbTlsz905dAkmwWiKKG0=
+
+Name: res/layout/fragment_transactions.xml
+SHA1-Digest: MkRzWRyDqPI1j4LrMJphAjgYwrk=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: VPmKAqmLJ6ke7a8XellbYKiIBh8=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: 7EZ0Ju8vP9q1LYgQQ+nTA5jdNWk=
+
+Name: res/drawable-nodpi-v4/ic_bank_chase.png
+SHA1-Digest: wM8KIpDGSJm1x+kwABT45pO/xJc=
+
+Name: res/layout/fragment_sliding_drawer.xml
+SHA1-Digest: DWttJxULEH64mfeHJPy3wMdtN78=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_italian.txt
+SHA1-Digest: 4OtvhiYVCX6Pngy4UP1SKrIDoro=
+
+Name: res/drawable-nodpi-v4/menu_settings_selected.png
+SHA1-Digest: u4Ny0BOxKG4jknhbmJubz/iLHkM=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: 09SUiE1KU99jg9Hjz2/nH5TO7kY=
+
+Name: res/menu/fragment_buy.xml
+SHA1-Digest: 9arbLCpCpZZz9JL8O+4Rn6hexlo=
+
+Name: org/joda/time/tz/data/Africa/Douala
+SHA1-Digest: +VZsi3GaHKzXFAs++99KEDxVbk8=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: Y8JBEuP27AepF9L5BLvAvbTNYjU=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: QqPpbBwEr9nywoEL/OHp+2+gZ1Q=
+
+Name: org/joda/time/tz/data/Africa/Dakar
+SHA1-Digest: WSR9oCuBGaqhf61Yjc/BU3p12+s=
+
+Name: org/joda/time/tz/data/Asia/Damascus
+SHA1-Digest: QXI9arkzD1qPcJRWJgXJqdlBsO4=
+
+Name: org/joda/time/tz/data/Pacific/Chatham
+SHA1-Digest: YJ8ssGZGHeYgXr/j8Xgq6aIGoxY=
+
+Name: res/drawable-nodpi-v4/left_drawable_button_selected_pressed.9.pn
+ g
+SHA1-Digest: CQdNkuERvMeJYZJ0GOT5SkjCalI=
+
+Name: org/joda/time/tz/data/Europe/Budapest
+SHA1-Digest: GdO4mVQzfpkDO2/twdiqxw1yfp4=
+
+Name: org/joda/time/tz/data/America/Porto_Velho
+SHA1-Digest: uiXEVCLtva6k4wJ+7UO47NSohs8=
+
+Name: org/apache/commons/codec/language/bm/ash_languages.txt
+SHA1-Digest: x5ijgzijaJwexI8tGvYq1Ys8W0o=
+
+Name: org/joda/time/tz/data/America/Scoresbysund
+SHA1-Digest: 25ILIzE4NolS3OQgpsYAk1OBHOw=
+
+Name: res/layout-large-land-v4/fragment_transactiondetails.xml
+SHA1-Digest: bGGa+MsGZNfOK2EM659pxhc+Sto=
+
+Name: res/layout/widget_transactions_list_item.xml
+SHA1-Digest: t6v39VTne4tHQstGlbKNFx6bfMo=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: aGoDqShCvfRBOcYadujzbODhe1U=
+
+Name: res/layout/fragment_card_form.xml
+SHA1-Digest: yLjST+UKPr0XMiiiPQ2kDDArN20=
+
+Name: res/layout/fragment_jumio_complete.xml
+SHA1-Digest: 0Hvgl9kA0IuJQFQZyKqIYOGQiyg=
+
+Name: org/apache/commons/codec/language/bm/gen_lang.txt
+SHA1-Digest: 1pkL6uBc1IVQOzqYfGqy1QkLNQY=
+
+Name: res/layout/list_item_mfa.xml
+SHA1-Digest: HNHsdy1pS8wxwjnYOPRgCgwxZbk=
+
+Name: org/apache/commons/codec/language/bm/sep_hebrew_common.txt
+SHA1-Digest: pLUCmc4T/RjuklQ1aIULtSUwHKI=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: sSo2eVyCVNeDBah+XyDsR3c+eao=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: org/joda/time/tz/data/Pacific/Guadalcanal
+SHA1-Digest: p4wGr0ria/Ioi12UFz+EgTlzM+g=
+
+Name: res/anim/activity_slide_out_bottom.xml
+SHA1-Digest: R/1rxmmSjYtBocgex/w0/Y/v1eQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Uaax8TsSlV1ssfdd4JM/P9lAyjc=
+
+Name: res/layout-v17/list_item_phone_number.xml
+SHA1-Digest: V/ziernQLQ9H+m3PLW5GHtdK9QY=
+
+Name: res/layout/fragment_plaid_account_login_content.xml
+SHA1-Digest: eDcgWbAgKVBLWywvWDKYqXMEoTQ=
+
+Name: org/joda/time/tz/data/America/Winnipeg
+SHA1-Digest: qUKn/EW3yfoaZKaREtcfvu7SPNI=
+
+Name: org/joda/time/tz/data/Asia/Novosibirsk
+SHA1-Digest: 3AI3jC657JH1eqmHk/FR8tml/UE=
+
+Name: res/drawable-nodpi-v4/ic_notif_delayed.png
+SHA1-Digest: KS/Eq0SXL6g8+xeowy8nVhKL+9I=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: X+nE+eNp3RrqEPSCrnvBW9KDZXY=
+
+Name: res/drawable/account_fiat.xml
+SHA1-Digest: yTi3hQ4xfR84z5oZWzAXQ12ytEo=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: h5X7BIPdIFf8dpb/b/WA1vYdwkc=
+
+Name: org/joda/time/tz/data/America/St_Thomas
+SHA1-Digest: jIY5N9psqnymLBe0H5qNaf4/7sU=
+
+Name: res/drawable-nodpi-v4/back_arrow.png
+SHA1-Digest: GNzmEzzuT/UYO3Y/hGTjxNBE/Fk=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000
+ .png
+SHA1-Digest: VW4JPwMwHw0CzAlOEqerGs/L5mk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: res/anim/still.xml
+SHA1-Digest: R9ZJNylX41WJGd0BNxX33PsaG8I=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: res/anim/barcode_start_enter.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-nodpi-v4/two_factor_logo.png
+SHA1-Digest: bPjfSbJvTYBU+gXoz87xxeaW8GQ=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hungarian.txt
+SHA1-Digest: w312gpWjUSsWx0VAK7N26JpOv3E=
+
+Name: org/joda/time/tz/data/America/Santo_Domingo
+SHA1-Digest: S/7K2qppFXCFnVdXAbcpXks4LbY=
+
+Name: org/joda/time/tz/data/Pacific/Pitcairn
+SHA1-Digest: Qfb4xTxdwlur4ERSPxOHMy6BlVk=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_any.txt
+SHA1-Digest: tBhirNuraiANjlje0HNzz2Rd8XY=
+
+Name: res/color/drawer_item_text_color.xml
+SHA1-Digest: m8LMf6bJM00sEIxVMrKV6v2APvU=
+
+Name: res/layout/account_settings_section_divider.xml
+SHA1-Digest: UXAxxmjEcMNwERo4Pjgic6muo18=
+
+Name: res/layout/activity_drawer.xml
+SHA1-Digest: B7869JSByL6cRet76LJI44CYRv4=
+
+Name: org/joda/time/tz/data/America/Vancouver
+SHA1-Digest: MXeUcqe+Db2PluDTm9fyTZGK9Jc=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: /VbRiE7IYswo+4yffNgMrPbDet4=
+
+Name: res/layout/fragment_jumio_choose_country.xml
+SHA1-Digest: fZpJuYWbzWeSymUE8J+dwRks+tc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: Yq5HoWLW1F/u1kVDMfrxjLA2Z9Q=
+
+Name: res/drawable/abc_ratingbar_full_material.xml
+SHA1-Digest: y6SEoZyZi+9c8uPkZwRqOzH1mtU=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greek.txt
+SHA1-Digest: /j/A9h8+FfAazMODJJHekOCQB5c=
+
+Name: fabric/com.crashlytics.sdk.android.beta.properties
+SHA1-Digest: COyl5R2RZInjPJziC5wKug20sYk=
+
+Name: res/layout/fragment_billing_address_list.xml
+SHA1-Digest: z/faJ2/VbGPTA/JW+N1plX4uu4s=
+
+Name: org/joda/time/tz/data/Africa/Libreville
+SHA1-Digest: inIVY1n2Liw6koqbJj4ihIVgneg=
+
+Name: org/joda/time/tz/data/Australia/Hobart
+SHA1-Digest: w+DcqtmhGmhH2rTPNb0zOHQZAY8=
+
+Name: res/layout/fragment_iav_login_content.xml
+SHA1-Digest: RyktY3NBJC/tAOcLMB7B3AIMYoU=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_any.txt
+SHA1-Digest: nDoOvNpJP5FGoUpNRV3ah/+AcBs=
+
+Name: res/layout/drawer_list_header.xml
+SHA1-Digest: YBUaPdEy40OzDQDV6oBFFBP0WvE=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_french.txt
+SHA1-Digest: fG8iHIY7dmE+dzMnRN1V8U+CAWs=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: res/anim/barcode_stop_exit.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: org/joda/time/tz/data/Europe/Riga
+SHA1-Digest: +E5WnIvfUkek3StICT1tGsFgLHE=
+
+Name: res/drawable-nodpi-v4/id_icon.png
+SHA1-Digest: ZHH9pQgYJ1kMKWN/aW2C/RWN3nI=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_arrowright.png
+SHA1-Digest: R2XRUnDsOSF6b4w9vGPCjV/SLwY=
+
+Name: res/drawable-nodpi-v4/settings_section_divider.9.png
+SHA1-Digest: i8+0scQdGfTqUA+mdXBr6bf8YZ4=
+
+Name: res/drawable-nodpi-v4/id_flag_default.png
+SHA1-Digest: Lf+6lMO+oqfyapgKgBqpGuREoNY=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: F8nLQoXKGiQPJCjl3TNIR/eklGw=
+
+Name: res/layout/fragment_transactions_header.xml
+SHA1-Digest: wpMCPD60jY34ZA7gl98a8y55muo=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_english.txt
+SHA1-Digest: xDM5Kj+RvDu2y5bXf+6seM3O0Ww=
+
+Name: org/joda/time/tz/data/America/Indiana/Indianapolis
+SHA1-Digest: vwAQESTEy8WYOKc3nTY/60Mcoyg=
+
+Name: res/drawable-nodpi-v4/progress_bg_coinbase.9.png
+SHA1-Digest: swDWB15a1JDXhpMJKcUGZ+8iBuU=
+
+Name: org/joda/time/tz/data/Asia/Krasnoyarsk
+SHA1-Digest: 9w6y6+cN3HDthigi0GVQlZgvfQU=
+
+Name: res/drawable/price_alert_gradient.xml
+SHA1-Digest: E5EbZYo+B7Oe/fTok0BCrWeHcOA=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: TqC5FoJC2129YGaxWjvL+sK5Wg8=
+
+Name: res/drawable/pricechart_gradient.xml
+SHA1-Digest: 0nR3kBnFahvrwu9SsTuoGU0RExQ=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_turkish.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/MST7MDT
+SHA1-Digest: nEaut0W5VsaDetYLCyBim5YHxj0=
+
+Name: res/layout/spinner_option_deposit.xml
+SHA1-Digest: 6R2vSavcfQiJuj/jvxFMo+pVxdc=
+
+Name: res/drawable-mdpi-v4/diners_club.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/layout/keypad.xml
+SHA1-Digest: +xSBc4utvcrI/4OG0rAo/QrjhYQ=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.p
+ ng
+SHA1-Digest: MCXQ3UO/ZjROJv+Q9oQkLeDNszE=
+
+Name: res/drawable-nodpi-v4/camera_icon.png
+SHA1-Digest: eV7wbmViT5jhX4qlf6fjK07rcQI=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 07+MMsIKk8a3BObx9eEkeKwYSSk=
+
+Name: res/drawable-nodpi-v4/currency_usd_notification.png
+SHA1-Digest: DGy6t1p77EIzIt1XLPdVnsUHqDI=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_arrowleft.png
+SHA1-Digest: F+TqFmwbYEgDMYIy0XgsIDvLdgM=
+
+Name: res/drawable-nodpi-v4/ic_action_transfer_light.png
+SHA1-Digest: KB+7mqece3bEDi29usmiDu+CHiY=
+
+Name: org/joda/time/tz/data/America/Lima
+SHA1-Digest: wo+BTbiTyuzlhI7Kaka0U/pGRtI=
+
+Name: org/joda/time/tz/data/Africa/Mogadishu
+SHA1-Digest: Tf6eLVnZLFzfrLz7V+Xjik3BM+4=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: K3ucg8inS6QEpdWRjFnNMV6IIbo=
+
+Name: org/joda/time/tz/data/America/Cuiaba
+SHA1-Digest: XBrlQ4E6pMjgJlhjk4V4767+iL8=
+
+Name: org/joda/time/tz/data/America/Santa_Isabel
+SHA1-Digest: MbqnrLEUo0UguArJfel4eLV87lA=
+
+Name: res/drawable-nodpi-v4/com_mixpanel_android_rounded_bottom.9.png
+SHA1-Digest: uy4lEFrwnQWkjhFZ7qtMIkXmbAk=
+
+Name: res/layout/fragment_account_settings_dialog.xml
+SHA1-Digest: y7SP7UQpdnVwZrAUrvXHMUWmjn4=
+
+Name: org/joda/time/tz/data/Antarctica/Vostok
+SHA1-Digest: j3Thl2CYMMAseJSKtay0nbu3nnU=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: LHNDVgsME9Yj4JPg5CLyVd0Eld4=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: iN/uNjBfhVbAIr76ujTy7rKk9Iw=
+
+Name: res/layout/fragment_transfer_send_content.xml
+SHA1-Digest: 5iHRTDhLPd13KqljqAVV2ziibeU=
+
+Name: res/layout-v17/design_layout_snackbar_include.xml
+SHA1-Digest: wHNqfnaRYaUxH4yK2AWQQR8sZYQ=
+
+Name: res/layout-large-land-v4/fragment_add_plaid_account.xml
+SHA1-Digest: l6IwtJoZtHhry69WDF/LH3sxri4=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: lrjYks50Jx8BFRjgBgVf5wbOtUU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: org/joda/time/tz/data/America/Argentina/Rio_Gallegos
+SHA1-Digest: W4tZpOkUefFxiEPC4CQxIEgUsOA=
+
+Name: res/layout/list_item_payment_method.xml
+SHA1-Digest: oIwTirBlxBst9aka8VAgHWN7GIw=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_any.txt
+SHA1-Digest: JmRs55HO0vxV4XiThBKBrwYHKts=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: 9Mayzo3VlTBfDDgUgDiNnwTEtfE=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: 6ga3ohDAgjszm8vt3QE6o48ucng=
+
+Name: res/drawable-ldpi-v4/com_mixpanel_android_checkmark.png
+SHA1-Digest: mklTUocd4xdaRiWTtnZmUlCrR1g=
+
+Name: org/joda/time/tz/data/Africa/Asmara
+SHA1-Digest: WUQDCjEKffKqCHJQreNU1+Ybf98=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: rG5iJ8LJqs0d2oExcr38IP+z/7s=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: Zpm+uanjIZounXjdWPevociI0a8=
+
+Name: org/joda/time/tz/data/Asia/Karachi
+SHA1-Digest: Zxebx6KWkHLUXF4h9cq4NHGKYS8=
+
+Name: res/drawable-nodpi-v4/identity_modal.png
+SHA1-Digest: QEmJJURwqvR4aM+CZ1FQBqaQQgY=
+
+Name: org/joda/time/tz/data/Europe/Tirane
+SHA1-Digest: 50ZZDF8CDaIjLk5N0HRyO/TUDjI=
+
+Name: res/drawable-xhdpi-v4/visa.png
+SHA1-Digest: EKh6RKu0enTfjYSNWdk+TtK9tD8=
+
+Name: org/joda/time/tz/data/America/Jamaica
+SHA1-Digest: JPwV41yo3yW529C0uf6jNgYYad8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: u6/uL8RpuH0uA4j5k6GHmFtKKaA=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: res/drawable-nodpi-v4/payment_icon_blue_2.png
+SHA1-Digest: d/OyWNhx9ALGHqUHnmO4gYNcb54=
+
+Name: res/xml-v17/transactions_appwidget_provider.xml
+SHA1-Digest: C/wseKsxJr5yDcv2S9IJYK1V81w=
+
+Name: org/joda/time/tz/data/Asia/Tokyo
+SHA1-Digest: vJMIZG0MFTn6C/6Wgdfivt5EWi8=
+
+Name: org/joda/time/tz/data/Pacific/Palau
+SHA1-Digest: uurQ3QtOSH880oDc7ZcB5ctLVKA=
+
+Name: org/joda/time/tz/data/America/Argentina/Buenos_Aires
+SHA1-Digest: 172JzRkBwpbsCdzM1inRvLUdUvM=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_cyrillic.txt
+SHA1-Digest: EsR+HI42mjkQMSRBChc6UJMNHnk=
+
+Name: org/joda/time/tz/data/America/Moncton
+SHA1-Digest: Y8b/YTFC0ooO14Qx8uRRG3saKJY=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: qtdy9yZtPE1i5ELFCsAkEKDYPxs=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_arrowright.png
+SHA1-Digest: VJQwsk1drfMgNdrBZWTCSQ8RiDA=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: tB4B5H9j3pm0Xv62OAovdHEjuyk=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: gbEk4DnZAhc1h3FVYlN49nBY1HE=
+
+Name: res/layout/fragment_list_dialog.xml
+SHA1-Digest: keR6RYLtRvF2MTMfE6ZjVFH3VZg=
+
+Name: org/joda/time/tz/data/HST
+SHA1-Digest: V6UJncznY+JETJHs3i+8Ku4siLk=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: HkD/NkfDWtecidPL497J3bHN7oo=
+
+Name: org/apache/commons/codec/language/bm/sep_languages.txt
+SHA1-Digest: N9Nby7yZl/CNB4XLYMOy4NPkDns=
+
+Name: res/menu/fragment_payment_method_details.xml
+SHA1-Digest: AfaY6q/EC1zV2Qu/b6AYWWlOJQ4=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: +BAInzzGimhbNKEsUcg4H+12pT0=
+
+Name: res/layout-large-land-v4/fragment_acceptable_documents.xml
+SHA1-Digest: GOCT5sEOqAuv46fw5+7N2GZP3Lc=
+
+Name: org/joda/time/tz/data/America/Rio_Branco
+SHA1-Digest: 2q4BqCMVX1tm/v+JvtyBmMPTwNc=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: 4ukFrEf0pxkpVnXsiZ7tRTRfJYU=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_dutch.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: h7WKJOQ+CvsX1YPCFxUDpu+6vDo=
+
+Name: org/joda/time/tz/data/Pacific/Chuuk
+SHA1-Digest: fOSqnJ8oQXL6tdoWxjNfjxdRj2s=
+
+Name: org/joda/time/tz/data/Asia/Muscat
+SHA1-Digest: 97AZlOtVqaWGjccnAvSAZQbCoQY=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: oJkL4xtlN87pNrCzPgueqqvY2nU=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: 5usDLyYH80Z8xkt/gq56YmTJBFo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: org/joda/time/tz/data/Pacific/Marquesas
+SHA1-Digest: ok2EXsESYP3bhD/LfOAF21pz6Kk=
+
+Name: res/layout/design_navigation_menu.xml
+SHA1-Digest: e5bc7NxQycoxLHdL/z9hSiDKYpg=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: 6eABC2pWHe0RRW+5Vf7nsAqB0xY=
+
+Name: org/joda/time/tz/data/Indian/Reunion
+SHA1-Digest: wbMhS/3cNfwaDrZpDZENJGoa41Q=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: BV2iovrhahJ1W1lnBez6fdJOmRI=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_turkish.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: org/joda/time/tz/data/ZoneInfoMap
+SHA1-Digest: fGCui71uPFZvKSnkCo1fLFT97PY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: MNi9MV8wCkdDwmYH6J7+SbIAI1k=
+
+Name: res/drawable-mdpi-v4/master_card.png
+SHA1-Digest: JugHgquUNBDkmVv4KK6qCtaEecU=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: PugLHGV2U697k73UxO5qTz3d1Vc=
+
+Name: org/joda/time/tz/data/Asia/Urumqi
+SHA1-Digest: gzZZa7SKD5inuUPwQ8huV6iiWdo=
+
+Name: org/joda/time/tz/data/Indian/Maldives
+SHA1-Digest: tRYYRjj2I2U1+R3Aap5aqcdYhUI=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: z0xEJNNl6qN3MKa3Uq4y93mF7Cw=
+
+Name: res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: i0voRy2o+K4S+iB515Scp+rkhhY=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: 0KwjX60K0WTrqZSWkYY9f9L10ug=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: Lf9oPArTwtMs8sww7bxXhRMt+IY=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_dutch.txt
+SHA1-Digest: ubXAOlBgTG6cluGh9Yg9omLd9gY=
+
+Name: res/layout/widget_balance.xml
+SHA1-Digest: F9KKUsfqiIqzKKYiPzSK0m0Dbgw=
+
+Name: org/joda/time/tz/data/Asia/Harbin
+SHA1-Digest: S/W9BaSr9wUENqC9fm8a7PcdEG8=
+
+Name: res/drawable-nodpi-v4/tab_selected_focused_coinbase.9.png
+SHA1-Digest: BU2qQ8Xw7DT21Se1bK6OZHoBGLk=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: W063SlyrzTvVLq8T+B8TBmOdWCk=
+
+Name: org/joda/time/tz/data/America/Cayenne
+SHA1-Digest: Etf0W//3NPkPG86PFbQkIfV8yMU=
+
+Name: res/drawable-nodpi-v4/right_drawable_button_selected_pressed.9.p
+ ng
+SHA1-Digest: cJkCVWF2QhQnJKmZ5ITs7lNsgvA=
+
+Name: org/joda/time/tz/data/America/Phoenix
+SHA1-Digest: 5zPtbNE/yuyvIFF2tc91fVsv16k=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 0MMPUBC/hxFmt1Ak92Vmj3X0hfs=
+
+Name: res/layout/zxing_capture.xml
+SHA1-Digest: G382yLlcaYZceKJQcldGCZD7c6A=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 5DJcJTVQZ/5EfOcHn52XOrGisZk=
+
+Name: org/joda/time/tz/data/Europe/Paris
+SHA1-Digest: Pk88ZdISmYAMe2/+bl5d8i66n2U=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: ycp+w2dbLU7b81Rb76I/u9fYPrc=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: WqxwEUexvYh0cT/zvmtdxmv8z34=
+
+Name: org/joda/time/tz/data/America/Dawson_Creek
+SHA1-Digest: 97d1jg2AbAl7+KiJwyi/YoCX7EU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: res/layout-large-land-v4/fragment_transfer_amount.xml
+SHA1-Digest: 5pd2Hy+x8Lsq3OCSZov/Wya+Kao=
+
+Name: res/layout/dropdown_item_contact_suggestion.xml
+SHA1-Digest: y2YyGaRAah2NFU7OgnWy3siMki8=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 5rSZbdJDOTdM5kJhhIdl8m8briI=
+
+Name: res/drawable-nodpi-v4/ic_sold_bitcoin.png
+SHA1-Digest: ocDS586Hc+1MDO0nx3HsilfJkRQ=
+
+Name: res/drawable/grey_square.xml
+SHA1-Digest: jIIjz2Cp92buLavRYO87r7O/GlA=
+
+Name: org/apache/commons/codec/language/dmrules.txt
+SHA1-Digest: oq3DYCOFBx+GwYIeoMSjXb7ISBc=
+
+Name: org/joda/time/tz/data/Africa/Kinshasa
+SHA1-Digest: 6IlkZHbNcdeW+T4Buik9xlAmqqE=
+
+Name: org/joda/time/tz/data/America/Montevideo
+SHA1-Digest: WpSgc6sGG1EZKl7HUqwtdLw/j0s=
+
+Name: res/drawable-nodpi-v4/left_drawable_button_deselected_pressed.9.
+ png
+SHA1-Digest: jNPFG6eGMNeyRitZNn8k4gEGvrA=
+
+Name: res/layout/activity_card.xml
+SHA1-Digest: AvHN0UcEQlW0ac9RHDKo5YqA1SQ=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: OGTAGSMNcF0Z/ZC0uBc4qemdptI=
+
+Name: res/drawable-nodpi-v4/drawer_shadow.9.png
+SHA1-Digest: NP4XWP/Gd+1DIGSKhKAUT81YnAc=
+
+Name: res/layout-v17/fragment_transfer_bitcoin_dialog.xml
+SHA1-Digest: m8z++X4I1DENz+1iRqeiNcvD0DY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: KIYugo5B63wF8x3CvZ09gu29qTk=
+
+Name: res/layout/fragment_transactiondetails.xml
+SHA1-Digest: xurBKju/vipjg2V0xYiPmEZfTBE=
+
+Name: res/layout/fragment_take_document_photo.xml
+SHA1-Digest: Bd+DcYiS4palQtDWa8dPP+UuDak=
+
+Name: res/layout-v17/fragment_buysell_content.xml
+SHA1-Digest: v47P8UhlTmPknFlk5rl2cAkyLLk=
+
+Name: res/anim/barcode_start_exit.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 8QLweU4p1rehkS9Zii3jepzESPg=
+
+Name: res/layout/list_item_phone_number.xml
+SHA1-Digest: gw8OT8q6vi96WzPDOnoD8mQBEBI=
+
+Name: res/drawable-xxhdpi-v4/cc_back.png
+SHA1-Digest: a+IYTiVlClxDRf1ZrhCd0XExZtE=
+
+Name: res/drawable/white_box.xml
+SHA1-Digest: Dw6K+SZvMGFVsKmgaPQiczVeL80=
+
+Name: org/joda/time/tz/data/Africa/Lagos
+SHA1-Digest: Wnq0rx3MPdQfc+MyvNtAOYLRQrg=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_checkmark.png
+SHA1-Digest: rfePZxSCnJtzUqOycK5ts7/V58A=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: q9NSpMouLl4mSiAzE+z1iopyjpg=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_german.txt
+SHA1-Digest: 0/CejklscQ18lQIcpLZ4h2ZwsQ0=
+
+Name: org/joda/time/tz/data/Antarctica/McMurdo
+SHA1-Digest: Ig5BUDUWWet5+0y77oov320j0uo=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: Vhfvv1y0wkBw2X/iXEqs7JGlm+o=
+
+Name: res/layout/com_mixpanel_android_first_choice_answer.xml
+SHA1-Digest: 0uCuOPjwPT/iBJo6wiCbFoTwEts=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hungarian.txt
+SHA1-Digest: KxrQuSBewEePK/XN5khH0PWw7yE=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: RnQxBqnfZP2w/UH+bBFTojv2UoA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: kDSszDiZe8hk35ju9SuJSIV4H/c=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: 5IVYUs+DMmiHJLT3Sb8adVW1F3A=
+
+Name: res/layout/fragment_transactions_item.xml
+SHA1-Digest: NSbeszLr+babcwMTRcK2UOqqRX0=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: xBrheiQe3hRvdKx9rpGnBWz597A=
+
+Name: org/joda/time/tz/data/America/Asuncion
+SHA1-Digest: pAen7bmpMMPMCoI/GeKfldamPEk=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: dEml7NSraw7t0+4lZ4iFeNS5MxI=
+
+Name: org/joda/time/tz/data/Africa/Abidjan
+SHA1-Digest: a9ZJ2vrcC0vLaScp9hAj0P9qiQs=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: rfa33K70s5xGd/k/eKd3Rq4l6UA=
+
+Name: res/layout/fragment_intro_join.xml
+SHA1-Digest: n4U6v6YA9E6fBKRec/B+MMYynUQ=
+
+Name: res/drawable-nodpi-v4/menu_sell_default.png
+SHA1-Digest: vxHk30geQg/lTQVUW4ZKICM3aMc=
+
+Name: res/layout/fragment_pin_settings_dialog.xml
+SHA1-Digest: wuzTREJuk3jsip4gDUDwes/MkZg=
+
+Name: res/drawable-nodpi-v4/ic_sent_bitcoin.png
+SHA1-Digest: FTtWsq2rZ14J+bQIjl1/8n2G/OI=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: q8RqfUM2laeQX8n/UUH1IoDcBlg=
+
+Name: res/anim/design_snackbar_out.xml
+SHA1-Digest: tSHapqXFI6k7SCynouBmerWDWcs=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: SfY+3G0ROn26yscNfyqLheYZY3o=
+
+Name: res/layout/grid_item_bank.xml
+SHA1-Digest: jYg0B0ncs4L4CC3t/+4EWKCUhTg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: res/layout/fragment_charts_account_list_item.xml
+SHA1-Digest: YhxMCZ2K54bpf5z94mILyQZZVx4=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: WvazyKPHGN7DcTmhPWllEqzaoY0=
+
+Name: org/joda/time/tz/data/Asia/Singapore
+SHA1-Digest: eWXuPvYecZmkbS/n1M+P6PDDL6U=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: sM1tzoxIgcK5w/PwGSZxzucCBqY=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: tccUOIw+wwShOm1ZhkTFX+cBUZA=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: CBej+P8bwYybMFQCDCEkHRsc8Sk=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: rWEkIJT/DhekegJTLoLY7vlStb8=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_italian.txt
+SHA1-Digest: sQ1CrX8M+aYXtqb+FaAQJlodnx0=
+
+Name: res/layout/widget_transactions.xml
+SHA1-Digest: jq4fHS1m6e9ZjnSg1/uz8y/atHo=
+
+Name: res/layout/list_item_jumio_profile.xml
+SHA1-Digest: jOi+taRf0fiJT0DW9D6dxYchrJ4=
+
+Name: res/layout/activity_main_content.xml
+SHA1-Digest: Vc+nAt+640VeNlMTbhJMpdxkIsE=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: QiVcuJTq5cAew4FpeeQt+OAk+OA=
+
+Name: res/drawable-xhdpi-v4/master_card.png
+SHA1-Digest: IPYGySh6y7IEfSzZmjookmZrlkI=
+
+Name: res/drawable/com_mixpanel_android_arrowright_states.xml
+SHA1-Digest: gF525GmYRijMDl8+tg7MfozcEvo=
+
+Name: res/layout-v17/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: 1gsCUmqGowebek1ptEMKmZ+aQTE=
+
+Name: res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: fOJdCAF6RpPXxj8bxhTT6gfjGvk=
+
+Name: org/joda/time/tz/data/America/Grenada
+SHA1-Digest: y/KiNOUn87HJhYYsb+fk41e9fno=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: RXME9rsLesqqCazNEACF/4ZKlS4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: 1uqhFvgtVXGAYszv0Kl27g03dD0=
+
+Name: res/anim/design_fab_in.xml
+SHA1-Digest: 88HYAVsN9aX1xNbLpWMveab3t7w=
+
+Name: res/drawable/button_transparent.xml
+SHA1-Digest: aMAcxL3CeGbs8l43bwM430O1M3I=
+
+Name: res/drawable/widget_left_drawable_button_selected.xml
+SHA1-Digest: faigZRsaTTkCdz+u0yaXcvJX8u4=
+
+Name: res/layout/activity_add_billing_address.xml
+SHA1-Digest: g+hLt8u7ZUjxc9ILOt5jzBFpb3o=
+
+Name: res/layout/fragment_buysell_dropdown_item.xml
+SHA1-Digest: ypoX/tHimoMqtW0yGBOoQMuvtpY=
+
+Name: org/joda/time/tz/data/America/Paramaribo
+SHA1-Digest: bIOYJaqs6aclW5gYTP20hwexzNw=
+
+Name: org/joda/time/tz/data/Africa/Kigali
+SHA1-Digest: +2OlILRghpllVunlloXVcSiUw4A=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hungarian.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: res/drawable-nodpi-v4/list_pressed_coinbase.9.png
+SHA1-Digest: 4y3zuP4V8XLYLUFTx2ZfN2nrhVA=
+
+Name: res/drawable/fab_label_background.xml
+SHA1-Digest: G0hGJCvMnlnPGLEFtmiMzEMNRmk=
+
+Name: res/drawable-nodpi-v4/ic_bought_bitcoin.png
+SHA1-Digest: zTPAi6bEFQbPrTGcyH0cUPTCoys=
+
+Name: res/drawable-nodpi-v4/i_d_icon_gray_1.png
+SHA1-Digest: t/hLx9BKX1Q43MSmOKySDhTACdM=
+
+Name: res/drawable-hdpi-v4/diners_club.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/Asia/Dhaka
+SHA1-Digest: KxLP3rWGBUbxeQAVAOrThJG1Wls=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_arrowright_faded.png
+SHA1-Digest: OkTWQgXwfiBk5fGbsQejHVkQiQo=
+
+Name: res/layout/fragment_new_york.xml
+SHA1-Digest: bJYlrkrVsSubZ3gQi8v7en5arAg=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: +bjkZfnp7jH8HvA5wzYQ85O04Ic=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_arrowright.png
+SHA1-Digest: neqzj1TSnisIiy8IY3j9ia7Hejo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: org/joda/time/tz/data/America/Santarem
+SHA1-Digest: rHxwkczKbN2q8MgwLIodlvJwLd4=
+
+Name: org/joda/time/tz/data/Asia/Tashkent
+SHA1-Digest: ng7dzpUOrRzoJEGSUKwWI1wioDk=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_checkmark.png
+SHA1-Digest: RHuHPRs1+5nyBa8Ke1t01ydbmoQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: fgv4pn1ZscEiezQ/5kUmg+STbxU=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt
+SHA1-Digest: zhdfuG3lpctSYxuUJ7xTMIjSPNs=
+
+Name: res/drawable-xhdpi-v4/amex_back.png
+SHA1-Digest: HXHr2VjTeyDY9uw8hPQoRsclFp0=
+
+Name: res/drawable/com_mixpanel_android_arrowleft_states.xml
+SHA1-Digest: IOQQSZtCB8Z8i+Bd3N9zM9lH0bU=
+
+Name: res/layout-v17/fragment_pricechart.xml
+SHA1-Digest: RpNwpd5lS8DLIPtrqV1lH0Y1FD0=
+
+Name: res/drawable/progress_horizontal_coinbase.xml
+SHA1-Digest: +EiV7GJbfQn3It5OZSJDzwmyHgI=
+
+Name: res/layout-v17/account_item.xml
+SHA1-Digest: ShSlQal1vVjJbNZM4Kd21YrwEzY=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: 7d6iPXGyIs52HGuXwN1Z2U/UMtg=
+
+Name: res/drawable/widget_right_drawable_button_selected.xml
+SHA1-Digest: beU+uZPOucmupxXjZXuDV3b7sMg=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_french.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_polish.txt
+SHA1-Digest: e4PksIbpzRqmyfXiE+gxLVhuVNA=
+
+Name: org/joda/time/tz/data/Europe/Istanbul
+SHA1-Digest: yC6MPIhU1iYspy3+ylXiaJbF618=
+
+Name: res/drawable/widget_left_drawable_button_deselected.xml
+SHA1-Digest: IZtVnuPZ+6oWWLte+eI1E7wXi7g=
+
+Name: org/joda/time/tz/data/Africa/El_Aaiun
+SHA1-Digest: aQv9dklouabuUfVXgxWt3CTqYjw=
+
+Name: res/drawable-nodpi-v4/menu_sell_selected.png
+SHA1-Digest: bdQAVC1bp5DN2HcJZ8p0N+7AiI8=
+
+Name: org/joda/time/tz/data/Africa/Addis_Ababa
+SHA1-Digest: 0SXqf33Jj74AT7qxOa1/la+TmV8=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_any.txt
+SHA1-Digest: 5ViEbDH9Wew1OduwN4UOvXYp5QM=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 3ocjamXiDDzZQ9Er9Iv+AG/CvIc=
+
+Name: org/joda/time/tz/data/Asia/Kathmandu
+SHA1-Digest: 5Qxt3lltxZrjYYnUEoGlXjEhdLQ=
+
+Name: org/joda/time/tz/data/Africa/Niamey
+SHA1-Digest: EzSmxtwNDB+3zytgT334RKEbBU0=
+
+Name: res/drawable/account_vault.xml
+SHA1-Digest: y9Opk4smtLHHmpAC7YdHrfXnN9o=
+
+Name: res/drawable/grid_item_bank_bg.xml
+SHA1-Digest: C2HArlcnp32l6WbhqOlSX/9wUx0=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: wiFr7HkUAmyXa2FnNtgR6idKpcw=
+
+Name: res/layout-v17/activity_manage_accounts.xml
+SHA1-Digest: wcuLuuhpMIh7ZuSyRac5N//87z4=
+
+Name: org/joda/time/tz/data/Europe/Andorra
+SHA1-Digest: xoYek9IpiLAc0FpqA6xFmI/12uI=
+
+Name: org/joda/time/tz/data/America/Indiana/Vincennes
+SHA1-Digest: T38DSfCil9Jl8JEzIK+xC+OZHWE=
+
+Name: res/drawable-nodpi-v4/menu_payment_methods_default.png
+SHA1-Digest: J4KBBjlKkrtLlKDlNLW1jlCTckw=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_portuguese.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: rRjIC9V51TgZe2Muk+QxNRxDB4k=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_cyrillic.txt
+SHA1-Digest: T3Kwm8H/aw/kkF6SaYfagX9J1mw=
+
+Name: res/drawable-nodpi-v4/ic_add_one_hundred.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/America/Menominee
+SHA1-Digest: y7v16XsaMzbluOFoJUZFJLs1Ae8=
+
+Name: res/drawable/btn_border.xml
+SHA1-Digest: fa9zDfJBoa8VZHZjm4UYMIG7LIM=
+
+Name: org/joda/time/tz/data/Asia/Pontianak
+SHA1-Digest: us8qQxIS0eHNPnNJmoEAMp41vJo=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: res/drawable-nodpi-v4/ic_action_share.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hungarian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/layout/fragment_transfer_amount_list_item.xml
+SHA1-Digest: /vPJTV7QZVKDTgftQQpURXIpv0E=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: gNguGxIBvUy3qQWkY+B3ShC9JDg=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: Zlmbg+JWzYfCIIOn1SxRANlh8xo=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: org/joda/time/tz/data/Asia/Baghdad
+SHA1-Digest: YVb4rlnx/Gg0Q7KIRjFYKI9nk8I=
+
+Name: res/drawable-nodpi-v4/ic_received_bitcoin_dark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/Asia/Ho_Chi_Minh
+SHA1-Digest: pmt0xpdGYxkruSBm5HzrCxe1/58=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 5LeNKf2Di1jUSAKDjrtFAYF0634=
+
+Name: org/joda/time/tz/data/America/Detroit
+SHA1-Digest: si1sxexXbZYtbVkNQm7vQY1Xcxc=
+
+Name: org/joda/time/tz/data/Europe/Luxembourg
+SHA1-Digest: 7AVlYj72Zmh8N28BCpdWkeF6bsw=
+
+Name: org/joda/time/tz/data/America/Port-au-Prince
+SHA1-Digest: XUTzxlQ8/0Y6PacciSmAd/gmRgQ=
+
+Name: org/joda/time/tz/data/Africa/Monrovia
+SHA1-Digest: luKeMKnjRjd8pbkcMqy2IWRVIDw=
+
+Name: res/layout/account_item.xml
+SHA1-Digest: PiBFlu4DgJvdXujg3uSzAW+z3mA=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: CHXhI4CjPt9ZdBUHBhGRcxMl3JU=
+
+Name: org/joda/time/tz/data/Pacific/Pago_Pago
+SHA1-Digest: uP1XGeT1/JhzJJiB+zaYCGIl6Ak=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_czech.txt
+SHA1-Digest: iPK8bJaVzSZc5K5rvtJ99cdrL3g=
+
+Name: org/joda/time/tz/data/America/Indiana/Knox
+SHA1-Digest: /7ia7crn+R69VhCRqJ0JqUKNQy0=
+
+Name: res/anim/com_mixpanel_android_fade_out.xml
+SHA1-Digest: LA8NRYUU/jJRkg5sqRWpE2+wVA4=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_approx_common.txt
+SHA1-Digest: 2wGOF99LQlKr0epBg2LDfgg5c/k=
+
+Name: org/apache/commons/codec/language/bm/ash_lang.txt
+SHA1-Digest: Ivu8sltWVZH53wpk0TU+1TKbWWg=
+
+Name: res/drawable-nodpi-v4/ic_bank_us.png
+SHA1-Digest: QuQkCVYT+zW0KmpYexaPv80E7Ow=
+
+Name: res/drawable/country_spinner_bg.xml
+SHA1-Digest: vduUArbaR19L2+AY3sZZsYGgqZk=
+
+Name: res/layout/list_item_contact_suggestion.xml
+SHA1-Digest: MpoNDWpZowlJ+6S24F8+S3IglUg=
+
+Name: res/drawable-hdpi-v4/fab_bg_normal.png
+SHA1-Digest: xufbRMQ3vN83Y4GaZSgXY9AkK+E=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: lSzbhln6wiB5ZJ+07NxXXd4xalI=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: SC6BEoWbQN0P2/j+7oI2UDRWh3w=
+
+Name: res/layout/dialog_verify_phone.xml
+SHA1-Digest: c71X5hQQXR2uersr8fN2Lv8pRfQ=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hebrew.txt
+SHA1-Digest: 1d23tX+8Zs6txZql1HQugopK6Dw=
+
+Name: res/raw/time_zones.json
+SHA1-Digest: 9lnDwEkyuJbKa5bv5E7d5u16hlg=
+
+Name: org/joda/time/tz/data/America/Guatemala
+SHA1-Digest: mvXtt6MbNul16BFxBPsb77okAxQ=
+
+Name: res/drawable-nodpi-v4/spinner_ab_pressed_coinbase.9.png
+SHA1-Digest: 0tTSyH4lseAu/DKz9mrFV6a8MLA=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Liu4ZSvXVbRTfKfw/Sf1BCXStdc=
+
+Name: org/joda/time/tz/data/Africa/Bamako
+SHA1-Digest: 3g5+S6WX375WBz+0gJi+cjrY6JI=
+
+Name: org/joda/time/tz/data/Europe/Madrid
+SHA1-Digest: RGUnkbjayxTqjlHQ794/IqR3PjI=
+
+Name: res/drawable-nodpi-v4/com_mixpanel_android_close.png
+SHA1-Digest: aEDyWafdJldOj8ZQc+YQg75jURM=
+
+Name: assets/crashlytics-build.properties
+SHA1-Digest: 1hQ/8G7lJI7iDE31sPYycoILvvg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: res/layout/fragment_new_account.xml
+SHA1-Digest: jOtco0vaN15rxKx18Uw/1gtKPJs=
+
+Name: org/joda/time/tz/data/America/Caracas
+SHA1-Digest: 7zFWZxqb0v0s5GpKRHQShqGUj00=
+
+Name: org/joda/time/tz/data/Australia/Brisbane
+SHA1-Digest: 4CRqXZWnTG3Ss39M7EwkJLuCkos=
+
+Name: org/joda/time/tz/data/Europe/Kaliningrad
+SHA1-Digest: 5jNsfIrgnO8O+1i6U1A75SLhoTs=
+
+Name: org/joda/time/tz/data/Pacific/Rarotonga
+SHA1-Digest: spu9436IqtqGxnc3eiHIICYIl4g=
+
+Name: res/layout-v17/fragment_transactions.xml
+SHA1-Digest: cv4FUAnaJljf2d3DYuOfNqFm7/4=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: kBG1gtv3r0AKtRMQRJeeGdtStSk=
+
+Name: org/joda/time/tz/data/Africa/Tripoli
+SHA1-Digest: gnZwPKKuanF/5QJAk1fHd/DYTzU=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: GEgVUHgezybdIGh+tMP310Dychw=
+
+Name: res/layout/design_navigation_item_separator.xml
+SHA1-Digest: ZrVCT50MLzsYssSmPSnwC2kz/Hs=
+
+Name: res/drawable-nodpi-v4/buysell_dots.png
+SHA1-Digest: +g+xkIQlGnqvOYr0WEEk+n0Q400=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: org/joda/time/tz/data/America/Anchorage
+SHA1-Digest: BgCTKA1m+Ug7p3qHUeudLE/585g=
+
+Name: res/layout/list_item_create_price_alert.xml
+SHA1-Digest: F5CXfucKP5L/+fp5oMuDwKRCRp8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZBOhi6O0UqcAx0uwGK/ojg3SSWQ=
+
+Name: res/layout/fragment_state_list_dialog.xml
+SHA1-Digest: 8Wz2xQ1faS7pIU+25iWH7gbq1Sw=
+
+Name: res/drawable-nodpi-v4/right_drawable_button_deselected_normal.9.
+ png
+SHA1-Digest: 0mj6Danw7nFIKdN8gCjQBRxqWVU=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: MtrqRaF9hHgDajQUiUZsdukbh0o=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: A80z7EQVH3VaI+snqTKe2tfbNho=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: e//ti7f9UjoZyXMyT5IRTahD3PQ=
+
+Name: org/joda/time/tz/data/Pacific/Tahiti
+SHA1-Digest: FElwO2iIOFHb+CgBx2kSiZ67SSM=
+
+Name: res/layout/dialog_confirm_instant_exchange_transfer.xml
+SHA1-Digest: ELeo9JuNUxdZfXipoLBi8YXx2eM=
+
+Name: res/layout/dialog_verify_identity.xml
+SHA1-Digest: 70gvo8CEAOI6OomWC7dYbRBCtYk=
+
+Name: res/layout/fragment_transactions_rate_notice.xml
+SHA1-Digest: jdpOSrLE6SYtdQRIfFMsytCBZls=
+
+Name: res/drawable-xxhdpi-v4/diners_club.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: F15Y7TDgoQ90hOj/LqmJmzvUv5I=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: uwVkAtAph8QLJ3Z9JNsU0kIbss4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: org/joda/time/tz/data/America/Pangnirtung
+SHA1-Digest: 5uCQdfrRd/jEXM8hk5GGE6w6wIw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: org/joda/time/tz/data/Pacific/Niue
+SHA1-Digest: GNh9uhD7mEdpVTPkSpB8uPfKPFg=
+
+Name: org/joda/time/tz/data/Africa/Ndjamena
+SHA1-Digest: VbVDNmBbRwgTFgmANODKzN/wGCM=
+
+Name: res/layout-large-land-v4/fragment_plaid_account_login.xml
+SHA1-Digest: wGdG5/BTmMcWM8g8BUqL83WgZJE=
+
+Name: org/joda/time/tz/data/Pacific/Apia
+SHA1-Digest: k200ufBtV7H5hX8CQvuJyhW12KU=
+
+Name: res/layout/fragment_verify_payment_method.xml
+SHA1-Digest: rQq4Ut12jLidnnrTkoQ+TW6Sj4Y=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: VVPpOIkIXKESIxO4+F9+oBqaMmE=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: zeUJW+N1oH+oj9U7hL70+0TC4pk=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_common.txt
+SHA1-Digest: u/mGD68aVPmhFiWBCiQdju9UoVw=
+
+Name: org/joda/time/tz/data/Asia/Kabul
+SHA1-Digest: jcf15hsBSV+6NFUJfJfGSzF9/Og=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: HWzUgf9L1T9Yd5y8VHBBoGduEBg=
+
+Name: assets/Roboto-Light.ttf
+SHA1-Digest: pjPMJmlNtysc9kyqUeZLQ8N3mzo=
+
+Name: org/joda/time/tz/data/Asia/Macau
+SHA1-Digest: gUbMLOTA6tqdrJlur54c8WeF+t8=
+
+Name: org/joda/time/tz/data/Asia/Yakutsk
+SHA1-Digest: 40tFaqABWP+1ozlZKCwYe6q5n94=
+
+Name: res/layout/cdv_amounts_form.xml
+SHA1-Digest: +k5idFUYwQZR5K/d7y3zreNDvsk=
+
+Name: res/layout-large-land-v4/fragment_identity_verification.xml
+SHA1-Digest: /iq37Ljt3mKvyaMEBthr8IOQheQ=
+
+Name: res/xml-v17/price_appwidget_provider.xml
+SHA1-Digest: r07efO5LZdE1tXNj01pAwQiDryQ=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_german.txt
+SHA1-Digest: 3GlHgMBkvi2mEoFnPYxoBXIh4No=
+
+Name: org/joda/time/tz/data/America/Curacao
+SHA1-Digest: FeGmiUsYchKkHaeBI+vkOONK0XY=
+
+Name: res/drawable-ldpi-v4/com_mixpanel_android_arrowright_faded.png
+SHA1-Digest: DPOUb+1UhIbK983hxePZBgs9Gm0=
+
+Name: res/raw/countries.json
+SHA1-Digest: cWpnchN1AeZDpQyzZi4wrYtk0MQ=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_square_nodropshadow.9
+ .png
+SHA1-Digest: RS/EmZBOOzVdXXmx/uzkq8JjZSM=
+
+Name: res/drawable-nodpi-v4/cancel.png
+SHA1-Digest: 3EzLT9bD/KbhwMG9+a6Kw7048G4=
+
+Name: org/joda/time/tz/data/Asia/Irkutsk
+SHA1-Digest: p2cAtFkdHnjcB51l1tFez1AwHi8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: gLHAZPEH/WYlWCNIPwRV1Ypbx70=
+
+Name: res/drawable-nodpi-v4/left_drawable_button_selected_normal.9.png
+SHA1-Digest: TExr5517yuRF/sIwptPe01AGwI0=
+
+Name: org/joda/time/tz/data/America/Guyana
+SHA1-Digest: s74I6K53zXj3UVJ2mWIzE+o7IhY=
+
+Name: res/drawable/signin_background.xml
+SHA1-Digest: YLDeLAFVhP0eM1UVIKfP20iQW+M=
+
+Name: org/joda/time/tz/data/Asia/Magadan
+SHA1-Digest: XuU5OXWfM/110ogYO4yiis0ztTU=
+
+Name: res/drawable-xhdpi-v4/amex.png
+SHA1-Digest: uHmjt+2Pyj8Q/qQaGDBPNF0ix60=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: org/apache/commons/codec/language/bm/gen_hebrew_common.txt
+SHA1-Digest: WqChP+6AbrtkNbew9F9rKDEHhoY=
+
+Name: assets/Roboto-Medium.ttf
+SHA1-Digest: rbw73kJLz328OPFIAFyDGYJYkfI=
+
+Name: org/joda/money/MoneyData.csv
+SHA1-Digest: 34zMdZLew8GZpjHXeGCjJKy9XZY=
+
+Name: res/drawable-nodpi-v4/location.png
+SHA1-Digest: lxwDV8ZqqYAAFz+I1mPY4IMZHQE=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 2QMB30NbhD31pg8xjiANeCuf9Q4=
+
+Name: res/drawable-nodpi-v4/ic_globe.png
+SHA1-Digest: 1OFG2/yab+7uFhYInCi98sDU7dI=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: dwFUdug4NjwgVYs5hQeYd0LoDqY=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: 9HQ/1855rVEVRqUXGHO7UZK0yT8=
+
+Name: org/joda/time/tz/data/America/Guadeloupe
+SHA1-Digest: h8TNX0owAep7cz3iCt1y2rDQPFA=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: J10MbRypNxo+JeKfGf61OMkWgdY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: R1Lv+apJOCS6dUNQwI1UE8jwb9w=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_common.txt
+SHA1-Digest: 4KUii83+gs6HZqsqdVTJKWmbKLE=
+
+Name: org/joda/time/tz/data/Asia/Qyzylorda
+SHA1-Digest: nyjFAxDxSsPV/WNeQtW3SnFbfX8=
+
+Name: res/layout/design_layout_snackbar.xml
+SHA1-Digest: Did2KXzlOovQdT7WzIoRE/NMguc=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greek.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: res/layout/fragment_wyoming_locked.xml
+SHA1-Digest: B8Qh4iXHYwM/Vy1PK8lk9tK65HM=
+
+Name: res/drawable-nodpi-v4/spinner_ab_focused_coinbase.9.png
+SHA1-Digest: SZV4dmPIDzfmEA6ut9QD3N17nNQ=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_spanish.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/Europe/Vienna
+SHA1-Digest: 8Ki+7v92fF+hmbmbV8oz14pKPlY=
+
+Name: org/joda/time/tz/data/Europe/Sofia
+SHA1-Digest: PBFoVb7YzJ/7A8KaDHBFJ5ldsX0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_romanian.txt
+SHA1-Digest: 9XU05+EK41PC/HwRw9zxny5awCw=
+
+Name: res/drawable-xxhdpi-v4/amex.png
+SHA1-Digest: qW1o/GLFQapUEuMTdBcB1dY3bdA=
+
+Name: res/layout/email_confirm.xml
+SHA1-Digest: ikPzpz1uB30lXwk49GL4CXFbOds=
+
+Name: org/joda/time/tz/data/Africa/Casablanca
+SHA1-Digest: QZHZGlCvN7Xxf0RFwaUfNT1f6FY=
+
+Name: res/layout-v17/activity_create_price_alert.xml
+SHA1-Digest: MYtRnpwCLhb7EFAhKB6YT+2Ud0Y=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: org/joda/time/tz/data/EST
+SHA1-Digest: TZR2FXFXr0cn4G+q1poY6CUx/b4=
+
+Name: res/drawable-nodpi-v4/ic_receive.png
+SHA1-Digest: /EMc//jO70/587QlurRggv1/n/w=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_german.txt
+SHA1-Digest: w4DMVKfl4a7tpge4d91vRsE09Uc=
+
+Name: org/joda/time/tz/data/Africa/Dar_es_Salaam
+SHA1-Digest: LgzclUXO30SVTbyS7FlCDFyOHs8=
+
+Name: org/joda/time/tz/data/Pacific/Pohnpei
+SHA1-Digest: KB6kir+u6MDXRwTzfBw4nr1nlqE=
+
+Name: res/layout/two_button_widget.xml
+SHA1-Digest: hHryd3lsVyP1lPrjVHsJvwSCG/Q=
+
+Name: res/layout-v17/fragment_transactions_item.xml
+SHA1-Digest: GMeYx4oiMfXgQxmTzoGtbTOYdVU=
+
+Name: org/joda/time/tz/data/Pacific/Honolulu
+SHA1-Digest: 74vd9GmaLOs86/trLcQDHhfjPyE=
+
+Name: res/layout-v17/fragment_card_form.xml
+SHA1-Digest: RzGX/F6ZFJjAjB/eG2qPA5w2gRo=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: org/joda/time/tz/data/Pacific/Majuro
+SHA1-Digest: CZde5IUZw418nY6TA1iNg6lM6ms=
+
+Name: res/drawable-nodpi-v4/ic_action_barcode_light.png
+SHA1-Digest: q2M8h4rtfHvUnC4o77/wkjdvcCE=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: 7HpkfQXcTxrewbqOQTtoDixKAiE=
+
+Name: res/drawable-nodpi-v4/i_d_icon_blue_1.png
+SHA1-Digest: r5uvv31hwsP2qgYZuCd3OPycOqs=
+
+Name: res/layout-v17/notification_template_part_time.xml
+SHA1-Digest: zslB3fG6g4WxeJXHiaGpmT0oBWE=
+
+Name: res/drawable-nodpi-v4/ab_stacked_solid_coinbase.9.png
+SHA1-Digest: l2GZ7v2BGispVLop3umwokc7Wkg=
+
+Name: res/drawable/background_white.xml
+SHA1-Digest: iEJwZtLaFH6mllv0HBMlnIfVXFE=
+
+Name: res/drawable-nodpi-v4/ic_action_copy.png
+SHA1-Digest: nWRVpV7SoIL0GVT1LM++pmkxFWc=
+
+Name: res/layout/design_menu_item_action_area.xml
+SHA1-Digest: +CaSrRO+YIeuLR//AbmNORoSW6o=
+
+Name: org/joda/time/tz/data/Asia/Yerevan
+SHA1-Digest: GpI9Mn7Tqi7Q5CvywUMIiC9kL9E=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_russian.txt
+SHA1-Digest: T4ZqaaGytR6k0txV4R9HaAMRd8M=
+
+Name: org/joda/time/tz/data/Asia/Riyadh
+SHA1-Digest: 6osDmihc2l5I7MG5BYKWJukXH2o=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greeklatin.txt
+SHA1-Digest: epTnnPkJV3kP2U6NeMgMH2hMESs=
+
+Name: res/drawable-nodpi-v4/cab_background_top_coinbase.9.png
+SHA1-Digest: 9YTOXA3Y+XjfMiENl066yVQ7f9Y=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: nBTvyBGxoYOwtEimwriJiCjISkk=
+
+Name: res/drawable-nodpi-v4/account_fiat_selected.png
+SHA1-Digest: VD5dMe4D1Bstk6Oh9QeMEyPvNkQ=
+
+Name: res/drawable-mdpi-v4/visa.png
+SHA1-Digest: 42q8vaeNtB9QpqRDmExy+dx0Yao=
+
+Name: res/drawable-nodpi-v4/widget_transactions_preview.png
+SHA1-Digest: vzzEwI1YzasLoarTcxSIH0ZQsW8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: Kj0/wiyaoVL/F+MdyivUWU7NQUA=
+
+Name: res/layout/activity_access_grant.xml
+SHA1-Digest: 8yWxoqTR74NAxIj/Ch6lu6p2VOY=
+
+Name: res/layout/activity_plaid_account_login.xml
+SHA1-Digest: 4ArQqpDA/E/Mp0hhHAKL2lcDNvE=
+
+Name: org/joda/time/tz/data/Atlantic/St_Helena
+SHA1-Digest: CjElboOxuzJqh0lgFo+LbVynr2M=
+
+Name: org/joda/time/tz/data/Europe/Prague
+SHA1-Digest: 8mRzo2GA6GoFALtY89wc0uwl4BA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: dX7kVhabIEKRvdWnmONWJAK0FCU=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: JCchW37ep9rQAe5fTxcGI2f2woY=
+
+Name: res/layout-v17/fragment_wyoming_locked.xml
+SHA1-Digest: AyNJQsirjI+iWC1JPti74xfxSf8=
+
+Name: org/joda/time/tz/data/Etc/GMT-14
+SHA1-Digest: hGG/1kQx9T58YXQL7T36yyHWaUA=
+
+Name: org/joda/time/tz/data/Etc/GMT-13
+SHA1-Digest: mPX2GN0/Ylhlaaj4q1LW3R5EG3k=
+
+Name: org/joda/time/tz/data/Etc/GMT-12
+SHA1-Digest: w9wUmN5srOg3/gT9GBEAGG11voo=
+
+Name: org/joda/time/tz/data/Etc/GMT-11
+SHA1-Digest: tzf2HNVNs/gjDp86pOCHVr5HpSc=
+
+Name: res/drawable-nodpi-v4/buysell_bank.png
+SHA1-Digest: 8CjlkswhZ9HGxQzYXB3rLKVM9dI=
+
+Name: org/joda/time/tz/data/Etc/GMT-10
+SHA1-Digest: qqpjWKytEHBpVvK2wCPcGR2nk9Q=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: co+pW0+xme4l0m6WE+SgOOn2PRc=
+
+Name: res/drawable-nodpi-v4/tab_selected_pressed_coinbase.9.png
+SHA1-Digest: AiguJQJ9Iwir6eEbes1Xi2aONDE=
+
+Name: res/layout-v17/activity_price_alerts.xml
+SHA1-Digest: 43bT05T4Ma8Y1bZz0JOBhGYqzwQ=
+
+Name: org/joda/time/format/messages_nl.properties
+SHA1-Digest: aLzFsmmYoVEipb5oc0A+nQ95rhc=
+
+Name: res/layout/drawer_listitem.xml
+SHA1-Digest: ++r2oQl02E/fpu4YCC6m66s+pOU=
+
+Name: org/joda/time/tz/data/America/Merida
+SHA1-Digest: UO1PqrJ3gyXp+WAIwF0atcqErEM=
+
+Name: res/drawable-nodpi-v4/card_icon_white.png
+SHA1-Digest: pUtngxtfJuyWKyfM6Xk52m8OnLs=
+
+Name: res/drawable-nodpi-v4/qr_scan.png
+SHA1-Digest: iIdHcuuh1rMeTcM4JBlowd17ADU=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_arrowleft_faded.png
+SHA1-Digest: lz1/6ZUP+k/XHUGmk8lKKgrm3mQ=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_italian.txt
+SHA1-Digest: fpEQsllQFifzCfJ/dp1xEwvBVdg=
+
+Name: org/joda/time/tz/data/Asia/Sakhalin
+SHA1-Digest: pJYZcm/vAmByenacVZJUWk//d/A=
+
+Name: org/joda/time/tz/data/America/Glace_Bay
+SHA1-Digest: 4KqIBKh0dTsnsRkYvUYrYj+1vbg=
+
+Name: res/layout/fragment_account_settings.xml
+SHA1-Digest: cGdC+voXmhA0QPLL5gcJw0fC3WU=
+
+Name: res/layout-v17/fragment_select_state.xml
+SHA1-Digest: PG6d8Nbo9W11W89zsHJDXb5mqNU=
+
+Name: res/layout/dialog_scanqr_address.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: Kp+MV1iXyHBCXL27G/dUvIG0m2M=
+
+Name: org/joda/time/tz/data/Asia/Dushanbe
+SHA1-Digest: 9KocYfgF+jhomWB9DaZCwYh2pMk=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: 3u3fLmehvZBhy/5ikwcph94VGWM=
+
+Name: res/layout/fragment_payment_method_details.xml
+SHA1-Digest: wkGgzhnmjVH2Xoq3IlyD+uaom1M=
+
+Name: org/apache/commons/codec/language/bm/ash_hebrew_common.txt
+SHA1-Digest: QU4hJUxXnLj/5PS6X1jAn3F2Vd0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: org/joda/time/tz/data/Asia/Dubai
+SHA1-Digest: ahYJszZMdHwqL9xdHEWH1G/U85w=
+
+Name: org/joda/time/tz/data/Pacific/Nauru
+SHA1-Digest: qVz2AXBVPtDxrRTd0g34nkDG3xA=
+
+Name: org/joda/time/tz/data/Asia/Almaty
+SHA1-Digest: YRXYw/oCpljRhumNeifB3fkaw2k=
+
+Name: res/drawable-xhdpi-v4/diners_club.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: aq5cANIr/vTvCHyumnezd3Qtn7M=
+
+Name: res/layout/fragment_sepa_deposit_withdraw.xml
+SHA1-Digest: b8gnHjsWsLZCCdA7WNqwmmjXgE4=
+
+Name: res/layout/fragment_transfer_amount_content.xml
+SHA1-Digest: wuYEW5iVveXM16mSvTmXD4toZlM=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_common.txt
+SHA1-Digest: VLGwCVv3uxq8eYkWPr7gmtHLOnU=
+
+Name: res/drawable/transfer_send_contact_background.xml
+SHA1-Digest: deSN83od1drEsqEiGd7PbNWqBo8=
+
+Name: res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: K8Ka36v5Gp/Ky4ixaQLv2738fYc=
+
+Name: org/joda/time/tz/data/America/Adak
+SHA1-Digest: nskUp1OqMWoa2C6NAPZiVxG5OFs=
+
+Name: res/drawable/cast_ic_notification_connecting.xml
+SHA1-Digest: L5EVcL0DU99iTX1U1BReSZjuoLA=
+
+Name: org/joda/time/tz/data/Asia/Yekaterinburg
+SHA1-Digest: rOU2gzF9yrZ1KEvPq6aXjRVYS2I=
+
+Name: res/drawable-nodpi-v4/account_fiat_default.png
+SHA1-Digest: paQaznJf0RGdlEs3iAUjZso9erQ=
+
+Name: org/joda/time/tz/data/Atlantic/South_Georgia
+SHA1-Digest: bJy69jVxneU4tf3wBB9sLbayVq8=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_square_dropshadow.9.pn
+ g
+SHA1-Digest: JtIRbH6JZGGX+SnGZO4spQ9PJO8=
+
+Name: org/joda/time/tz/data/America/Monterrey
+SHA1-Digest: uas+nxmvOqyxEB+61u9nsOpQ6nM=
+
+Name: res/drawable-ldpi-v4/com_mixpanel_android_arrowright.png
+SHA1-Digest: X/LD3cXG1UJWxNbuUiR5hM13kHw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 01+2TEE2CX2Z5YXlPeH2ccbDiMI=
+
+Name: res/layout-large-land-v4/fragment_my_address_content.xml
+SHA1-Digest: hQJvp91h01iILQD9jGnCtqjLSJM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: +96NH1NJOncqgaIjD9wfzefrtIw=
+
+Name: org/joda/time/tz/data/Asia/Beirut
+SHA1-Digest: NbbmHhvZRBo31n6Nid0rIUMobnY=
+
+Name: res/drawable/widget_right_drawable_button_deselected.xml
+SHA1-Digest: BUKzTzaIkgW4TkRUHP9F6Fj6qDM=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_italian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/America/Kentucky/Louisville
+SHA1-Digest: tsnsF9dkLHrrpU76+cWvculLkNc=
+
+Name: org/joda/time/tz/data/Pacific/Noumea
+SHA1-Digest: qCBJEVRi9VUQZPNRYyKmWrS9Y3M=
+
+Name: res/drawable-mdpi-v4/unknown_cc.png
+SHA1-Digest: jy4dk84tmsOGjSFxzRla0nb2eJw=
+
+Name: org/joda/time/tz/data/America/Montserrat
+SHA1-Digest: gYoqCEEjp8wkMx4ghLfdTeULUHg=
+
+Name: res/drawable-nodpi-v4/i_d_icon_blue.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: MwwGJLH2efymXowiOLX/FrHQ8uI=
+
+Name: res/drawable-nodpi-v4/ic_box.png
+SHA1-Digest: N/DTTbejEg9Bq15RxmuwdMULnSQ=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ONZ16YRuPa6MY/n88oM4JUsaV7Q=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: res/drawable-nodpi-v4/btn_cab_done_focused_coinbase.9.png
+SHA1-Digest: EtnGmwxgEbJCKNyjXcywSEdaR/4=
+
+Name: org/joda/time/tz/data/America/Tijuana
+SHA1-Digest: G5wi9dn6e+dYgMViyHAqS6NmXzM=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_spanish.txt
+SHA1-Digest: T+njbAJy1Bqc9+cbiIJMwcI9HrU=
+
+Name: res/layout/acceptable_doc_item.xml
+SHA1-Digest: lPxnQo7kVf5H4HOF6o941zfQkwA=
+
+Name: org/apache/commons/codec/language/bm/lang.txt
+SHA1-Digest: AD6FFivVBylxGVLJQf03Jn9ZKoM=
+
+Name: com/google/thirdparty/publicsuffix/PublicSuffixType.gwt.xml
+SHA1-Digest: q7QhlslKPNaomxpwlSMFRaM4swg=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_spanish.txt
+SHA1-Digest: lGrj01vFVhIZq42vqijMqqlw+eo=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: uVr5t9kICvyWmzSrG/2CcPmBMck=
+
+Name: res/drawable-nodpi-v4/qr_scan_grey.png
+SHA1-Digest: ktJcYTlSq+kq7RcZai0P4szjxqo=
+
+Name: assets/RobotoCondensed-Regular.ttf
+SHA1-Digest: xyJpZQGoZj1kII11Tk24Fl05NvY=
+
+Name: org/joda/time/tz/data/Australia/Broken_Hill
+SHA1-Digest: U+WQquxI4jEY0/P8/FEXFAMUY3E=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: LVFgBAoPE9W6WKtEYtOUGWf+dzk=
+
+Name: org/joda/time/tz/data/Etc/UCT
+SHA1-Digest: YWpMvPcqBBLta1BQPSxQISFfiGU=
+
+Name: res/drawable-nodpi-v4/primary_color_drop_shadow.9.png
+SHA1-Digest: FEilR77dzfKy52X6tAjXtYrkj7o=
+
+Name: org/joda/time/tz/data/Asia/Amman
+SHA1-Digest: xIDpTleIuf2TLE/rfi9K3R0NXNQ=
+
+Name: com/coinbase/api/ca-coinbase.bks
+SHA1-Digest: f7ut7tjUfohbKQNwWmJIos3waoE=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: mtgMXZE7hreEmqDe9Sm7MomopLw=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA1-Digest: hDFkVLCYGYsGQpHc0p7CO0KNYLw=
+
+Name: org/joda/time/tz/data/America/Iqaluit
+SHA1-Digest: m7mhgOy/I6vB9YJM3wHRNUrmnWk=
+
+Name: res/drawable-nodpi-v4/account_vault_selected.png
+SHA1-Digest: IDqgFOJgmpbYicGFtT+8tuSnrqw=
+
+Name: res/drawable-nodpi-v4/coinbase_logo_blue.png
+SHA1-Digest: 2X+GxgEmGia+aSs0+EgUPrL9zr8=
+
+Name: res/drawable-nodpi-v4/list_focused_coinbase.9.png
+SHA1-Digest: y9uZ71fS0mYRUOmlSULlA+qVU8M=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: deH5E0yKjBo6CYdnvx70e1ZcVb4=
+
+Name: res/drawable/menu_settings.xml
+SHA1-Digest: VeSQQcojx1FHAGnGhuPVn4IR+Og=
+
+Name: res/layout/activity_login_intro.xml
+SHA1-Digest: gDODXXlR9p3YyqUOgAJS5Sr3sec=
+
+Name: org/joda/time/tz/data/America/Yellowknife
+SHA1-Digest: 1W7/HzHVbrFZu3mYwjHMJYyR9Mg=
+
+Name: org/joda/time/tz/data/Africa/Tunis
+SHA1-Digest: WJ/tBMDk3TjTKydyFQ0i1lWrQSI=
+
+Name: org/apache/commons/codec/language/bm/gen_languages.txt
+SHA1-Digest: Wd+YcHRM0F23bj/qZsPhOjYOa+4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: res/drawable-nodpi-v4/menu_invite_friends_selected.png
+SHA1-Digest: RFBn0cRcE+VaNpUW/GpxhAsmOqg=
+
+Name: org/joda/time/tz/data/Pacific/Saipan
+SHA1-Digest: SOuvER2FnxlQHXgzowxPcSZGCrU=
+
+Name: org/joda/time/tz/data/Europe/Chisinau
+SHA1-Digest: MT62X5VaJ0d4HyxvszMRoArgJF0=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: SKK1m6s40vpllerJwDqR0Hg9oAc=
+
+Name: res/layout/fragment_jumio_choose_country_content.xml
+SHA1-Digest: OzjO833/2vEGqY8gJigbZJir/Aw=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.p
+ ng
+SHA1-Digest: VyxMaY4GkM7F0rJ6OUhPiMeP/GU=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: D6dilO+UMcglambujyMOhNbLZuY=
+
+Name: res/layout-v17/fragment_charts_account_empty.xml
+SHA1-Digest: xaG1/o23fiDdtgnwTdVXCYQddiM=
+
+Name: org/joda/time/tz/data/America/St_Kitts
+SHA1-Digest: Mh+v14U6Hf5/pl+nMf2w7an4uBk=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: DVBX9SO92lStCRmZbxE3WeIe28w=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_common.txt
+SHA1-Digest: F1Y4oxZoHGbyIjkpb/UZKL528Yg=
+
+Name: org/joda/time/tz/data/Australia/Sydney
+SHA1-Digest: ssiTAsuDOZbE828rmVK3UdRA6OE=
+
+Name: res/layout/list_item_pending_payment_method.xml
+SHA1-Digest: 9+LbtNZfp0kbvcLLUoMJx6HDLLs=
+
+Name: org/joda/time/tz/data/America/Dominica
+SHA1-Digest: fYTP6ZX6nNW0BU/sY272x1njh30=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: org/joda/time/tz/data/Africa/Conakry
+SHA1-Digest: W5sFXjnoTjK0f5Kawbnpr+VFH7U=
+
+Name: org/joda/time/tz/data/Atlantic/Stanley
+SHA1-Digest: Tp0gJpD+9/DCFOXOPTXC9JyC3Eg=
+
+Name: org/joda/time/tz/data/Australia/Currie
+SHA1-Digest: iQS5Nm7lw7YvfTiW1hhUbXoUBZM=
+
+Name: res/layout/fragment_wyoming.xml
+SHA1-Digest: lYgiSvLY4oD+4J51Lx2olyk+rpQ=
+
+Name: org/joda/time/tz/data/America/Rainy_River
+SHA1-Digest: AaXJ+GnJWWzsfxw56CYcvDbIrq8=
+
+Name: res/layout/activity_accept_terms.xml
+SHA1-Digest: lC+J4/QF5uWGZrDgTX/v7SiQJnk=
+
+Name: org/joda/time/tz/data/America/Denver
+SHA1-Digest: 6KiZdzXS/GhYhJsoaDaeLEbrTrY=
+
+Name: org/joda/time/tz/data/America/Recife
+SHA1-Digest: DtikvK9qEym83wkQR0a2SFpkNvY=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: DnUPb3c/aCYMPIdhLVRqT1eh/J8=
+
+Name: res/drawable-nodpi-v4/currency_btc.png
+SHA1-Digest: slVxxWZe1qM9pEFu5hD/cPT13BE=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_any.txt
+SHA1-Digest: vokBnqDrzgh7ubmg4N5ltqYJsgY=
+
+Name: res/layout/spinner_option_plaid.xml
+SHA1-Digest: 8GNlu8dkgljulOEnh+kw/YLMIh4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: n7GlKV/TekDD9mf7mkks37JbLFg=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: JDTDEc26/7TiP0RjzS3Y1/hxae0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_polish.txt
+SHA1-Digest: BKwAayJJNnmipd/rFV3jPkaErSE=
+
+Name: org/joda/time/tz/data/Pacific/Tongatapu
+SHA1-Digest: fQidI7LZRGGIzL+kNuCLEgguI84=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: WYYEXP9zXPHmkO70T8BA20aSj+U=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: SssY7Y+JSwie7CyWtCNGPabvucs=
+
+Name: res/drawable-nodpi-v4/ic_bank_capone360.png
+SHA1-Digest: YTvbn9CV1TuZLDsxIB/jHU3HiwU=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_spanish.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/joda/time/tz/data/Europe/Malta
+SHA1-Digest: YZT8LQxJ0pE1V4uB1NJdAg4Rcag=
+
+Name: res/drawable-nodpi-v4/no_avatar.png
+SHA1-Digest: ULKGGB/GuVUIB7+a4y31MOFnKiY=
+
+Name: org/joda/time/tz/data/America/Argentina/Jujuy
+SHA1-Digest: cs+nGjhv2LpRFCwlTgzzKTmJ4P0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_cyrillic.txt
+SHA1-Digest: Yg5q1pDwdRE2199a3lBn//aVSZ0=
+
+Name: res/drawable-nodpi-v4/ic_horizontal_arrows.png
+SHA1-Digest: pcEyNApyOBOrbM3KEDVyF+GDTuA=
+
+Name: res/drawable-nodpi-v4/ic_bank_usaa.png
+SHA1-Digest: 2nesUNcFNjXjCUaLkekBkuImIRU=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: oyCNLjP03+938QXST445tgTxqxU=
+
+Name: org/joda/time/tz/data/Asia/Thimphu
+SHA1-Digest: S9L4/C7a8bYjI/aUyRoDGMb/NK8=
+
+Name: res/layout-v17/dropdown_item_contact_suggestion.xml
+SHA1-Digest: npo384D4wq9rXlqwaVGoIDqAZXE=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_any.txt
+SHA1-Digest: 0mWytx3QfDcxQYesfSLfKaaiPGc=
+
+Name: org/joda/time/tz/data/America/Araguaina
+SHA1-Digest: ApVbo7DlJ5uTX7ydr/YXyvmLKy4=
+
+Name: res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: TDv0yS8gn+DhjrSCLViF3e4l1o8=
+
+Name: org/joda/time/tz/data/Asia/Manila
+SHA1-Digest: 5hASyuEgnbK9LVV9UwEOjXPvvGE=
+
+Name: org/joda/time/tz/data/America/North_Dakota/New_Salem
+SHA1-Digest: KuYyt3PXCSOjMXnVsX+9R6BhF28=
+
+Name: res/drawable-nodpi-v4/menu_settings_default.png
+SHA1-Digest: +OZ+yR7S+4zdU5/TKQNKWSPn6gk=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: e6ZxO30OB+oHpoct3gGLBY0gYXA=
+
+Name: res/layout/spinner_dropdown_deposit.xml
+SHA1-Digest: nqZOk5DGM1YcGlVkUoVI1qWBsj4=
+
+Name: res/drawable-nodpi-v4/transaction_details_arrow.png
+SHA1-Digest: dkrnVIrapUpGvPNkOD8zzRHBsJs=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_spanish.txt
+SHA1-Digest: wGpv/4nTHPd+c4HkTvDnN2PUYOU=
+
+Name: org/joda/time/tz/data/Atlantic/Cape_Verde
+SHA1-Digest: O+8a3vyFBUNQ8OoFzfHipMR47xo=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_common.txt
+SHA1-Digest: yS2sa7XOOFwSxoUc91KBAdRZ5QA=
+
+Name: org/joda/time/tz/data/America/Martinique
+SHA1-Digest: /7sXnp65GMrKq6UWgr7zccIEafs=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: rIBNxxH8rn0XchnrLO+YkM759P8=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hebrew.txt
+SHA1-Digest: 80bIa465/ozUslfQBb84wPL42nY=
+
+Name: org/joda/time/tz/data/Indian/Cocos
+SHA1-Digest: wYjm+pZB2PUEK/v1i0QFibZSUfM=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: IwzRNkVJWfy8agwdJdTuG1InFsM=
+
+Name: res/drawable-hdpi-v4/amex.png
+SHA1-Digest: OCHPHaHwXC35LTVrQU5bQmSJSe0=
+
+Name: org/joda/time/tz/data/Asia/Choibalsan
+SHA1-Digest: D3Tzkcw/gorlHkhMV/+cdNif9iU=
+
+Name: org/joda/time/tz/data/Asia/Baku
+SHA1-Digest: GPWAjwxOpel8c096yBfwrj+e/mE=
+
+Name: org/joda/time/tz/data/Australia/Lord_Howe
+SHA1-Digest: CFXDA9sLa041UTkV0VJbWzuk5JI=
+
+Name: org/joda/time/tz/data/Asia/Hovd
+SHA1-Digest: FJthZ4G6+vqFmDR/epbJeman7E8=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: dwCi8REd8Li4eCeDlFR5VLkA/bU=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: TGHVlpw1mq1IC2cB7ulwjQ18wdc=
+
+Name: org/joda/time/tz/data/America/Dawson
+SHA1-Digest: 9VcCBBF/FGCih3SBkIGPsZhFwrQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: org/joda/time/tz/data/Africa/Freetown
+SHA1-Digest: g7+x0qMq/HL0HIvyp5jz1F7y5C0=
+
+Name: res/drawable-nodpi-v4/menu_charts_default.png
+SHA1-Digest: Qi6Y4iqnhL/XAWG8Q01Y341WrCw=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: y4DqLE9ZMUXA7mpN9gzH7cgYblE=
+
+Name: res/layout/fragment_add_plaid_account.xml
+SHA1-Digest: 8JWwFQsbJSZ7/LLiFqRd+repnh4=
+
+Name: res/layout/dialog_confirm_buysell.xml
+SHA1-Digest: +XQAhOdkyLmlRGwzDjeTegCU2t8=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SBKgHrI8+WG2Q5nUL763ra3tcmc=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_spanish.txt
+SHA1-Digest: v/X501bGOhAvKUt41xXerI3WFvE=
+
+Name: res/layout/com_mixpanel_android_question_card.xml
+SHA1-Digest: HtBU8KgvRPoy/7ONXTAZhL0IurA=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: IgT0lCbG3uY9vQQnsJCrHog+mlg=
+
+Name: org/joda/time/tz/data/Asia/Samarkand
+SHA1-Digest: gug3J62kMftOSNZwNZs70Hi8hNI=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Juan
+SHA1-Digest: LA5+bZ6IZ9JzF3mAJ+75+tmouK0=
+
+Name: res/drawable/abc_dialog_material_background_dark.xml
+SHA1-Digest: Si5dmzQD8cIwa8xXAVdJxTztHx0=
+
+Name: org/joda/time/tz/data/America/Juneau
+SHA1-Digest: ZSaBNR8C5Wjsu64pP9XK1U9bmFc=
+
+Name: org/joda/time/tz/data/EET
+SHA1-Digest: RgNB00CdaXsLbTgWyLw5HuSvytQ=
+
+Name: res/drawable/rounded_corner.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout/activity_main_drawer_profile.xml
+SHA1-Digest: 4ZfIin6Dqo3O+m1UPYQ1qxfg7W0=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: htM2N95U3z+hWc5I52TnVVzgDLM=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: u8lEY+2Bl006RY/NojCiasl0Huw=
+
+Name: org/joda/time/tz/data/Africa/Juba
+SHA1-Digest: FTbYq6gbdTGnBS+O5HkB+mzoP4M=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: rkfYN21U5rNNgOOcXyHtDvlAuDE=
+
+Name: res/drawable/spinner_background_ab_coinbase.xml
+SHA1-Digest: ouQZykDLiuq3VxCWGstO+4uA78w=
+
+Name: res/layout-large-land-v4/zxing_capture.xml
+SHA1-Digest: 00pNF1irlyBSub62G7aFscQEB3o=
+
+Name: res/layout/number_keyboard.xml
+SHA1-Digest: MtRjiTxsql+THUD6rz1h/qvVF/I=
+
+Name: org/joda/time/tz/data/Africa/Sao_Tome
+SHA1-Digest: g3e7QAg872geXHiCjZ71gKTJkFw=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: Ay1qOaJ2aLiCf8NAaujbkp0H1cQ=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: MMKza6JKYuNGEA2ptbmO2mvznAs=
+
+Name: org/joda/time/tz/data/Asia/Jayapura
+SHA1-Digest: Pz5cmd7tVMX7o5Xg70CnkjZRqhA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: A1jmf+4/FK84T7WYmxH0Y09wAFg=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_spanish.txt
+SHA1-Digest: jxaPlVZm4rC0Egc7UWeCEFaLVsQ=
+
+Name: META-INF/services/com.fasterxml.jackson.core.JsonFactory
+SHA1-Digest: wj+dD6oGz5YGyIP+iorCZD19Vfo=
+
+Name: org/joda/time/tz/data/America/Godthab
+SHA1-Digest: 9TKiycAtJdUhEvCkgFZswoG3ZhM=
+
+Name: res/drawable-nodpi-v4/ic_bank_schwab.png
+SHA1-Digest: MC/re1BhcZeNLgiKqDkDM7hS6zQ=
+
+Name: res/drawable/bg_transactions_list.xml
+SHA1-Digest: J6z5clnJSSUjnx8LXVoU8io78DQ=
+
+Name: res/drawable-nodpi-v4/ic_transferred_bitcoin_dark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_italian.txt
+SHA1-Digest: kpJ0pEDOyFBEu6wl4QdynsUq6jE=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: RsYa9PHKHTGXi9SGr7dikHjzRmA=
+
+Name: res/drawable-nodpi-v4/ic_bank_wells.png
+SHA1-Digest: A3Lx/ECzsABeUNFHUubJI6xY/W0=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable-hdpi-v4/discover.png
+SHA1-Digest: Sh/Q4HVYjjv7g4BfKRuj6Y31B/I=
+
+Name: org/joda/time/tz/data/MST
+SHA1-Digest: Vp8CiU0eYzc6XmGY99j1zqmeKac=
+
+Name: org/joda/time/tz/data/Africa/Windhoek
+SHA1-Digest: /V8uZy5DlVdwMtRwvs73Y9RPEEQ=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: 9P9HNDTAH6I3mTjIaSKDc/WLqb8=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: 15Em2L2dzqYc4FpCIRN6G9jDl+w=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: /7bw14nZmssFy3hqySiiFfoRLtE=
+
+Name: res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: xwdo2lCc361ea9dDoy+/MuIl4Y4=
+
+Name: res/layout/transfer_email_prompt.xml
+SHA1-Digest: e7kQ004RJ+XvG4CGufhT8itYu/U=
+
+Name: org/joda/time/tz/data/Asia/Novokuznetsk
+SHA1-Digest: GWfjt6esJNgau2iBL+aijihQUtI=
+
+Name: res/drawable-nodpi-v4/com_mixpanel_android_square.9.png
+SHA1-Digest: mUrUUPfXHQY5BPHleeYTdO8HFFU=
+
+Name: res/drawable-nodpi-v4/tab_selected_coinbase.9.png
+SHA1-Digest: qRr3H3JGcPJ0LDkaTRIg4GOXwN0=
+
+Name: org/joda/time/tz/data/America/Ojinaga
+SHA1-Digest: MP2Wl8JxvJU5TjCTz04s4DOOt90=
+
+Name: res/drawable-nodpi-v4/menu_dropdown_panel_coinbase.9.png
+SHA1-Digest: BuFFCWts7zLuAZEgfbNmq7s+9Rs=
+
+Name: org/joda/time/tz/data/Africa/Bujumbura
+SHA1-Digest: 1S+YoxAIFV+dduDr9ylEAbn8FEE=
+
+Name: res/drawable/menu_payment_methods.xml
+SHA1-Digest: /3u0RTMmYXkB2lk+I/+AN5ieop4=
+
+Name: org/joda/time/tz/data/America/Maceio
+SHA1-Digest: i06je978xwi6IrLsTNj9Tj7lNlE=
+
+Name: res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: k6w3Rt+wcCPl35s+T2nLmf5yoTo=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: 2O0mSlPjhQIHCfDBvzE/WueGwuQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_romanian.txt
+SHA1-Digest: h57+YZWPX1cnEcSdoXhfGLuta3s=
+
+Name: res/layout/fragment_buysell.xml
+SHA1-Digest: hQnko1nuuJMLyoaJmzSk+NOPp/w=
+
+Name: org/joda/time/tz/data/America/Cambridge_Bay
+SHA1-Digest: BGoeG9HFufz9OXrfFYuR95NIHaE=
+
+Name: res/drawable-nodpi-v4/com_mixpanel_android_rounded_top_selected.
+ 9.png
+SHA1-Digest: L6KPDA6tltqmYDj1iez38FyNynA=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hungarian.txt
+SHA1-Digest: 604dJC1I4/8Oy3q/B/iDaSTWh7Y=
+
+Name: com/coinbase/api/ca-coinbase.jks
+SHA1-Digest: iglTwQDnpvzh94rFY2F+UmLkq5s=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_light.
+ xml
+SHA1-Digest: UgNVPq0E4al9kIwaXtfwFoRQpIM=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: hOoziuoJ3C2IMcfDzYzmL7E6Tm8=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_square_dropshadow.9.pn
+ g
+SHA1-Digest: 4ln8KVYzR4ek+QBY1BC8SKhQYy0=
+
+Name: res/layout-land/com_mixpanel_android_activity_notification_full.
+ xml
+SHA1-Digest: KXTzOlO/yDS8xONBUP7Xf1CnKGk=
+
+Name: res/drawable-nodpi-v4/ic_vault_blue.png
+SHA1-Digest: gBKEbG96K53fktgy1dD5/Pl7nR0=
+
+Name: res/drawable-nodpi-v4/menu_buy_default.png
+SHA1-Digest: y8JVSezBvvI+FSNhquH+CZxJpXM=
+
+Name: org/joda/time/tz/data/MET
+SHA1-Digest: PVA/dC9fOBANm1qJhRFox0u1UTg=
+
+Name: res/drawable/gradient.xml
+SHA1-Digest: p3eKORSD6kZxsmIGWHxCBQSpfv4=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: kNN5YtGzB9jLDWZCcDJlqWqY3MM=
+
+Name: res/drawable-nodpi-v4/ic_withdraw.png
+SHA1-Digest: W87W9yT2jT+Wt4cIw7naVl11K9g=
+
+Name: res/drawable-nodpi-v4/ic_deposit.png
+SHA1-Digest: P1X3oGV/vFfeTJpB1QSVk8RPMWY=
+
+Name: res/layout/list_item_jumio_country.xml
+SHA1-Digest: bgaOye20YpBV1T9bj5AsBl4+04k=
+
+Name: res/drawable-nodpi-v4/buy_verification.png
+SHA1-Digest: WZ5xsZVNTf66GvfcJKtrKozTBCw=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: org/joda/time/format/messages_fr.properties
+SHA1-Digest: YtfgoKiKIGpKiJT6eTTW1dLfGm4=
+
+Name: res/drawable-mdpi-v4/fab_bg_mini.png
+SHA1-Digest: eU3pyyvH2c5QdMmB+3kusApHjCw=
+
+Name: res/drawable/button_grey.xml
+SHA1-Digest: RrNWXW6YBt9r+AyyDAHGsyGO1Sw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: org/joda/time/tz/data/Africa/Mbabane
+SHA1-Digest: sJVuENkAtSBfOCbZ8WF8Sq2mz5I=
+
+Name: res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: a3WOgotGuNvyxVkPAMRgiQEpFY8=
+
+Name: res/layout-v17/activity_plaid_account_login.xml
+SHA1-Digest: 5uJNjd4Ooaq/7utLwqgN9GxZFkU=
+
+Name: org/joda/time/tz/data/Africa/Harare
+SHA1-Digest: stSBUYvXZGbA9YjNXKvELfLejQk=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: zYEVoFXucmJpZuzXxsGneYWIlNU=
+
+Name: org/joda/time/tz/data/Europe/Moscow
+SHA1-Digest: VsDfz9ZaNIZT09ztVvzu3BfKMuI=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: p9AZr65Fs0yg5A5RKqfJElcikR8=
+
+Name: res/drawable-xhdpi-v4/com_mixpanel_android_square_dropshadow.9.p
+ ng
+SHA1-Digest: Lg8B5oWOIWdtwBkh95a+m7rVp7k=
+
+Name: org/joda/time/tz/data/America/Barbados
+SHA1-Digest: xSYP1+Zo1Aq+j3UVl5MN6tU13qU=
+
+Name: res/drawable/com_mixpanel_android_arrowleft_insets.xml
+SHA1-Digest: kVRfwdhaW6md8OFAuoKava9qDtk=
+
+Name: res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: 5iLROOYG5d5JVeNSeWP1Z/5OApc=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: cR/cTGrFU0cktUWOI+nxenR1v3A=
+
+Name: org/joda/time/tz/data/Indian/Antananarivo
+SHA1-Digest: vvQnFUHHIM3ifCvqoROR2dydMd0=
+
+Name: res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: vWn1eL032ov2gYVJC9c6/1+8p3s=
+
+Name: res/drawable-nodpi-v4/check_icon_gray_1.png
+SHA1-Digest: I6FTXiTemVL7NPZZGaTD+JyJ5aI=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: 9I5uBrEaa3rXA0AACtIBgaW++Q4=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_russian.txt
+SHA1-Digest: i18jgMcJnz+/whRVChudyvXR6bQ=
+
+Name: res/drawable-nodpi-v4/currency_gbp_notification.png
+SHA1-Digest: +mdSRtYNeCTo36kQFp/1nEm0NTk=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Txi4nHde0NvRVGH4WjelV6dyOKU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: /hpvHveM+a3Mx49n/3P19bBBgiI=
+
+Name: org/joda/time/tz/data/Pacific/Kosrae
+SHA1-Digest: 0b6wddzyQ6sPNXW1xPJn+T2+qZ0=
+
+Name: res/drawable/menu_invite_friends.xml
+SHA1-Digest: HtBSHZG/XOcPLjJ5/zJj4BrEB0k=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: S/+WIalIT7QGoZ4J/VOqr0XEGEM=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: flC6lHnAjBTAm50KRuJ1LFJ2uu8=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: tbKOWkoq8X/O9SqZLE2Z7VwIrfw=
+
+Name: res/drawable-nodpi-v4/payment_icon_gray_2.png
+SHA1-Digest: CO0ckY7LkbNGUnJXB6N6NmTDE6g=
+
+Name: res/layout-v17/fragment_take_document_photo_content.xml
+SHA1-Digest: Fm0iDCgzt54Y7k2VKS1dibAe01Y=
+
+Name: res/layout/fragment_iav_login.xml
+SHA1-Digest: ZwPPotht0e+6qtNh7i+1llrNrAI=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: kvy6NVZis2HTuWhGbjSTUHivrS8=
+
+Name: res/drawable/account_wallet.xml
+SHA1-Digest: H/tWfJUbjd4WonDcaIN4/cu/QLA=
+
+Name: res/layout/accounts_list_item.xml
+SHA1-Digest: 5qZGgHc16axM0m8q58LehYB5a80=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: nRtiU5b/2GCMrB/FhPJC0XFk+lU=
+
+Name: org/joda/time/tz/data/Asia/Jerusalem
+SHA1-Digest: yrtDWObMj/Cuek2aBs+GS8CAB0A=
+
+Name: res/color/price_range_background_color.xml
+SHA1-Digest: 3yJnRfT4f1AJ2ENbdjJ3ATSJ2iI=
+
+Name: res/drawable-nodpi-v4/arrow_icon.png
+SHA1-Digest: fe1XsYPzIkLymTSHK9yOinxC7zQ=
+
+Name: res/drawable-nodpi-v4/currency_btc_notification.png
+SHA1-Digest: shkSFlzbrrCl0bhUOJH3kr1R3/g=
+
+Name: fabric/com.crashlytics.sdk.android.crashlytics-core.properties
+SHA1-Digest: yLab6cYADfwMhKVoP2Ds8T+oExc=
+
+Name: res/layout/fragment_charts.xml
+SHA1-Digest: 1zJmKH00q2OTxnqoHg2EsTZbcrA=
+
+Name: org/joda/time/tz/data/Indian/Mayotte
+SHA1-Digest: lyLcKZDxq2+IfJPx2Vlie9CSM+g=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: T9ljaoylaHYZJMDfqcOha61Q8m0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_arabic.txt
+SHA1-Digest: 4SBFNrG98TzuXlMOjPmZQBanVeg=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_portuguese.txt
+SHA1-Digest: ZyRdA9Y1nTUQmmRm1z2kwmyl9Xk=
+
+Name: org/joda/time/tz/data/Europe/Kiev
+SHA1-Digest: uqAQOACl0oeMAK2W3EVWhPBwaNc=
+
+Name: res/layout/activity_create_price_alert.xml
+SHA1-Digest: 8yPFxVgcjyJ4pwXM9ZKtj40mDTU=
+
+Name: res/drawable-nodpi-v4/account_multisig_vault_selected.png
+SHA1-Digest: oSfEytYLlHxFuFjO+Sk/L1o4WVA=
+
+Name: res/drawable-nodpi-v4/ic_cross.png
+SHA1-Digest: zY2IVnoXFy3nmFkj2Gf6j4Rjm28=
+
+Name: org/joda/time/tz/data/Pacific/Auckland
+SHA1-Digest: 4hAOgtYhUBU2e8nSScVUjTEjdvI=
+
+Name: org/joda/time/tz/data/Etc/UTC
+SHA1-Digest: 0NKlJHbrL1W+rqUxb+swhrySrqQ=
+
+Name: org/joda/time/tz/data/Africa/Khartoum
+SHA1-Digest: VLPhBWb70WHHyPw0x65zAgqOxBY=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: lCH6FNrw5J3fDcygOL8/VtOhcy8=
+
+Name: res/layout/currency_selector.xml
+SHA1-Digest: zjt6vO4qbhdu2aIbW+HbKy/MqL4=
+
+Name: org/joda/time/tz/data/Africa/Bangui
+SHA1-Digest: uNDhUXw3HCbB0vHPOgOi3H/OSDo=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_czech.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: res/anim/design_snackbar_in.xml
+SHA1-Digest: QPiYcwJRp7LvVEneHabhK9QbisA=
+
+Name: res/drawable-nodpi-v4/ic_action_refresh_light.png
+SHA1-Digest: hcK1zQgmwb+JUC6nmV7+8V/7YBs=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hungarian.txt
+SHA1-Digest: kpJ0pEDOyFBEu6wl4QdynsUq6jE=
+
+Name: res/layout/fragment_take_document_photo_content.xml
+SHA1-Digest: ZPDqtsyMeQynTpz8zU41O4Dz4KU=
+
+Name: org/joda/time/tz/data/Europe/Monaco
+SHA1-Digest: EwizXYHio6NNWMKdQwbMZ3qeQI0=
+
+Name: res/layout-v17/activity_pinprompt.xml
+SHA1-Digest: ie3Wco3qFFLKyzN+IeJ2gFDJUVU=
+
+Name: res/layout/dialog_add_phone.xml
+SHA1-Digest: 2y9VW1lcfV5KoZkVDLH62I90fFs=
+
+Name: org/joda/time/tz/data/Antarctica/Mawson
+SHA1-Digest: NuGvvOccj+V94Q6eHifBrZ2mAOQ=
+
+Name: org/joda/time/tz/data/Pacific/Guam
+SHA1-Digest: F5XsiWnhTc+JrlwkxwSz3y5wktg=
+
+Name: res/drawable-hdpi-v4/cc_back.png
+SHA1-Digest: ovpQN4oZuBAbbEDjdeIPsVmUtK4=
+
+Name: res/drawable-nodpi-v4/right_drawable_button_selected_normal.9.pn
+ g
+SHA1-Digest: XnqqduO8oDOAiThoY4XV0MZk9ss=
+
+Name: org/joda/time/tz/data/Europe/Vilnius
+SHA1-Digest: cUvZpV3bb6r497txFU6KDxz6Ep4=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_french.txt
+SHA1-Digest: CrDzmQQb/nDj6G9KGuej8e+uHIU=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: res/drawable/account_multisig_vault.xml
+SHA1-Digest: NwIxxsyeR2HPeG96ukJPUXlSNio=
+
+Name: org/joda/time/tz/data/Etc/GMT-8
+SHA1-Digest: 81U0RauFcxtUXN8omPXPc5EHJqQ=
+
+Name: org/joda/time/tz/data/Etc/GMT-9
+SHA1-Digest: vaQ/lWHEfAm7t4UeZoAjZkJKRBc=
+
+Name: org/joda/time/tz/data/Europe/Gibraltar
+SHA1-Digest: XwkZu0+oBT399i7DFkyVSxUdlm0=
+
+Name: org/joda/time/tz/data/Pacific/Gambier
+SHA1-Digest: eBcXZwE9mVgPZg8NhtRyNNK7QhY=
+
+Name: org/joda/time/tz/data/Etc/GMT-6
+SHA1-Digest: fGOiDdBngcxpTXauTbasFA3s+9A=
+
+Name: org/joda/time/tz/data/Etc/GMT-7
+SHA1-Digest: nJlmbqRjcmoMmAQIyJTNw1PBAAI=
+
+Name: org/joda/time/tz/data/Africa/Johannesburg
+SHA1-Digest: hhFvNxR83DjOWwbQopiVFH8RNl8=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 0tNMOXXmuQbid1TzI7vwe4GNLsE=
+
+Name: res/drawable-nodpi-v4/tab_unselected_pressed_coinbase.9.png
+SHA1-Digest: fKYsW+4nW8lUhO16CHovF8K1qzI=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 6EhOa4/oB8DfxfsC8xA0CtqQOKA=
+
+Name: resources.arsc
+SHA1-Digest: i+L1wrCpzcKmGIpDWJWzWfcbs78=
+
+Name: res/layout-v17/list_item_payment_method.xml
+SHA1-Digest: Gy253Now2CVmFFSzzz2rl+AjKPc=
+
+Name: org/joda/time/tz/data/Pacific/Fiji
+SHA1-Digest: 5rnZDEHpdulPwQyezSAoGgfQp/I=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: LVSNyw7X6tB9DukmioIVl33ZyuQ=
+
+Name: org/joda/time/tz/data/America/Rankin_Inlet
+SHA1-Digest: NHg78EdjZix56gTvP7pmsqNikJ8=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: urO61Hm8iUUgfpKvVTlbZTRGGzE=
+
+Name: res/drawable-nodpi-v4/switch_currency.png
+SHA1-Digest: K0I0f2FlTPUA28nJrkYm3WW3kxE=
+
+Name: org/joda/time/tz/data/America/Tortola
+SHA1-Digest: gSjNkrqAv8TDfJKtodmnzX7k4e4=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_approx_common.txt
+SHA1-Digest: Hxjkq50d1HJRTfhnGsjVmtUwQ38=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: tpEM52vWcakmOwaErjJ4ZPrPYyg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: ZKYQRM+6FnZ8NFfqxj2cRG8euKk=
+
+Name: org/joda/time/tz/data/Europe/Helsinki
+SHA1-Digest: TlYHkUSrp+o/k1mEAre4GQyRg0A=
+
+Name: res/layout/fragment_payment_method_verification.xml
+SHA1-Digest: kann8BscY1m5M3wSJz16peLgZrw=
+
+Name: org/joda/time/tz/data/Asia/Kolkata
+SHA1-Digest: YlSfBYdS7vMZykVbb1ZrZzL0DQk=
+
+Name: org/joda/time/tz/data/Africa/Blantyre
+SHA1-Digest: BZ67aKp8vDEu6pYIx75RVhoOU2s=
+
+Name: res/layout-large-land-v4/fragment_jumio_choose_country.xml
+SHA1-Digest: 9+vgqUlu0mbAgm1P4NN45V5q1Iw=
+
+Name: res/menu/notifications_menu.xml
+SHA1-Digest: 6bVna24eCtL0eApA3gzkSONzewk=
+
+Name: org/joda/time/tz/data/Etc/GMT-4
+SHA1-Digest: gTKWSf6nZaHU1TE66DqFSq+o+e0=
+
+Name: org/joda/time/tz/data/Etc/GMT-5
+SHA1-Digest: vkGsNiEJ23npZm/jigyZaYhfm40=
+
+Name: org/joda/time/tz/data/Etc/GMT-2
+SHA1-Digest: 099ynBi6n19QQkEM17YWJzN5igU=
+
+Name: org/joda/time/tz/data/Etc/GMT-3
+SHA1-Digest: pL80CIXxOEj6vLkv/0lYqEGaDEE=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: O8Z06QMHIiY6mn0VcP1u0gFV31s=
+
+Name: org/joda/time/tz/data/Etc/GMT-1
+SHA1-Digest: 0Eso5B0X2EANWQr79ieetIuw1KY=
+
+Name: org/joda/time/tz/data/America/New_York
+SHA1-Digest: ogVIOyidsqCJr2roj1pQFqm5Jv0=
+
+Name: org/joda/time/tz/data/Etc/GMT+8
+SHA1-Digest: kBou47cyljM49KJdGqrz8TVYQRY=
+
+Name: org/joda/time/tz/data/Etc/GMT+9
+SHA1-Digest: 4Pnj65rzxHCN4EsbSJxjv6AvIJk=
+
+Name: org/joda/time/tz/data/Etc/GMT+6
+SHA1-Digest: WD0mGvjIrO9FLEe/2bNrrpklo2w=
+
+Name: org/joda/time/tz/data/Etc/GMT+7
+SHA1-Digest: 5rS6GcH4vJ95Q99Wqrw+l/isWso=
+
+Name: org/joda/time/tz/data/Etc/GMT+4
+SHA1-Digest: zZeYBqqMpqAmtVwFcp2B2GdvxyM=
+
+Name: org/joda/time/tz/data/Etc/GMT+5
+SHA1-Digest: W0tZNNh4LrVLKs886GV27kp82lM=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: tdbpGRMh8KHxMYAIK8x8FwOqXzM=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: EtaLmWRRD0iKRGJC+aVk7ZZNtTw=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: a075XT8rSWdOZCMB+Gat25W9eh8=
+
+Name: org/joda/time/tz/data/Asia/Bishkek
+SHA1-Digest: s8lpHXL8TfAzgmRQ2JtObl/kKKc=
+
+Name: res/drawable-nodpi-v4/ic_bank_bofa.png
+SHA1-Digest: pxX/WXDvTJjebFqtrpWNWVRvKjc=
+
+Name: org/joda/time/tz/data/Africa/Kampala
+SHA1-Digest: aa+RFnzs68H2GA8br/r/UyjFfrs=
+
+Name: res/drawable-nodpi-v4/com_mixpanel_android_square_selected.9.png
+SHA1-Digest: yEG/FHDLgKH1ddLuMC+vD6afDU4=
+
+Name: org/joda/time/tz/data/Asia/Hong_Kong
+SHA1-Digest: +3hEmnogah2VepBd3tDak4Uh/wc=
+
+Name: res/drawable-xxhdpi-v4/fab_bg_normal.png
+SHA1-Digest: yBtGTEbL58FQLZBPLkdLk9W94nA=
+
+Name: org/joda/time/tz/data/America/Yakutat
+SHA1-Digest: RvJwcDIaJg9nOlwW6PFBGNUTC2Y=
+
+Name: res/layout-large-land-v4/fragment_jumio_document_scan.xml
+SHA1-Digest: DVikNybBiYGQc4m33MwUA0eFhaQ=
+
+Name: org/joda/time/tz/data/America/Nassau
+SHA1-Digest: xC9M4iy033PT+wwR1hsH4OyIb2w=
+
+Name: res/layout-large-land-v4/fragment_my_address.xml
+SHA1-Digest: OVpgzzymW3rGmQz5Ol23ged9u74=
+
+Name: res/anim/pin_stop_enter.xml
+SHA1-Digest: 3H9wdjJXR15u8VJMPyAsRV6tGZo=
+
+Name: res/drawable-xxhdpi-v4/com_mixpanel_android_arrowleft_faded.png
+SHA1-Digest: 0nf7f74LbpBDOrrVYFCVlj9BsS0=
+
+Name: res/drawable/right_caret.png
+SHA1-Digest: ja1kUQEHoG/ZmMbkLLbtybrF5b0=
+
+Name: org/joda/time/tz/data/Australia/Lindeman
+SHA1-Digest: 7EJ0kyXovvinPpFJP3lNk1ICJgU=
+
+Name: res/drawable-nodpi-v4/widget_balance_preview.png
+SHA1-Digest: hZosJiri4ikSQKviOe+TsXu8fLI=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_russian.txt
+SHA1-Digest: ln5mpI7m/dYz8po1m2pe5V1t//k=
+
+Name: res/xml-v17/balance_appwidget_provider.xml
+SHA1-Digest: qBySWqp0L2h5zcIxQD3BooIXRL0=
+
+Name: org/joda/time/tz/data/Europe/Vaduz
+SHA1-Digest: MPXdHbQA2g0UxRY+Uq2SaoOOgCo=
+
+Name: res/layout/design_navigation_item_subheader.xml
+SHA1-Digest: 7Ma6udCiyJY/VskwftY0hLX/9wg=
+
+Name: org/joda/time/tz/data/Europe/Athens
+SHA1-Digest: ULho2ySytuR0Axra1cYrojEEqSI=
+
+Name: res/drawable-nodpi-v4/appwidget_balance_bg.9.png
+SHA1-Digest: ArI4z3qFUMVTwf9i7WAJk0CndsA=
+
+Name: res/drawable-nodpi-v4/ic_payment_error.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/Antarctica/Macquarie
+SHA1-Digest: JeswdKfIXHN/u7J37BET9hmcli8=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: syztTgt7/mxPLFQZjKJPNUjuirY=
+
+Name: org/joda/time/tz/data/America/Noronha
+SHA1-Digest: PFjHp0/tVuzdjH7Kkn84Nrs5nfs=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: bRj1VtphY6uBpf6lW7kaUSr9O08=
+
+Name: res/drawable-nodpi-v4/ic_checkmark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-nodpi-v4/device_confirmation.png
+SHA1-Digest: ZGrC4YjMJWiIrke0iDJH2S3Ky3k=
+
+Name: META-INF/DEPENDENCIES
+SHA1-Digest: Mvs+8f+kAj8dBuFGJBlw2BdUZys=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: NRcHxLdsX/Th2xTrioD1KYFYeK8=
+
+Name: org/joda/time/tz/data/America/Blanc-Sablon
+SHA1-Digest: BxRYxTy6CbPGlZlFV94PFcxxR/o=
+
+Name: res/drawable-nodpi-v4/ic_deposited_bitcoin_dark.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/layout-v17/abc_alert_dialog_material.xml
+SHA1-Digest: M3KLSeygjhAeCd/YxhO58WU30H0=
+
+Name: res/layout-v17/fragment_wyoming.xml
+SHA1-Digest: ++Q2HcaTR3owZJufWCcgYlMwYK8=
+
+Name: res/drawable-hdpi-v4/visa.png
+SHA1-Digest: GyNYQ5yC7UadYPZyXHR+bBnUQ44=
+
+Name: res/drawable-nodpi-v4/i_d_icon_gray.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/America/Sitka
+SHA1-Digest: I3cE27W4GFxIeICoog0Ff3jsa7E=
+
+Name: fabric/com.crashlytics.sdk.android.answers.properties
+SHA1-Digest: UaLTzQdDwzbWF6lDprT52ZdEgK8=
+
+Name: res/drawable-nodpi-v4/ic_docveri_license.png
+SHA1-Digest: XvZAmeIXvEzSb4j11x7zzgZq5Iw=
+
+Name: res/drawable-nodpi-v4/payment_icon_blue.png
+SHA1-Digest: vut9v02NK5/fkvCGwjSLdDrd8UE=
+
+Name: res/drawable-nodpi-v4/currency_eur.png
+SHA1-Digest: bEPi/wYm6CY1P2+uJB+TddESuso=
+
+Name: res/drawable-nodpi-v4/currency_usd.png
+SHA1-Digest: Rsg1z5DDvcrbm7ec0HtRfWEy9Zg=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: RwOTCkvoy8JfKjFQZXnNiOHbxpQ=
+
+Name: org/joda/time/tz/data/Antarctica/Casey
+SHA1-Digest: 2S50vBn+Xi6oPQsSf46kxoeTKds=
+
+Name: res/layout/com_mixpanel_android_middle_choice_answer.xml
+SHA1-Digest: JTjHSaYi5sJl1bnKQK40rW1ApSI=
+
+Name: res/drawable/button_primary.xml
+SHA1-Digest: B9ei1V1oHd0DKxEsq541DMRqfjw=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: res/layout-v17/activity_main_drawer_profile.xml
+SHA1-Digest: hA5u+jvQGcYtIqJJlpaSl3YuGJs=
+
+Name: org/joda/time/tz/data/America/Resolute
+SHA1-Digest: GaJ8409uW9JmHBT/4l14ZEpBWYE=
+
+Name: org/joda/time/tz/data/Asia/Shanghai
+SHA1-Digest: tFphrvXEHRtY6OkFAfoPwbyLpj4=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: PIrE1bETED2AcFA+Z0PCJDOewO4=
+
+Name: res/layout-v17/fragment_identity_verification_content.xml
+SHA1-Digest: AonVsb341+npu+u6ypxEdm2nkqY=
+
+Name: org/joda/time/tz/data/America/Chicago
+SHA1-Digest: YcaLhqjL84b4DuHIsO1KcRExHJk=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: s9/qxuNt34tuDKZEbu3WbQxLGWs=
+
+Name: org/joda/time/tz/data/America/Cayman
+SHA1-Digest: w1vnMxwpNmGlVPJ62Z5YsEio0/M=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: NdBd5wlMLy/yNmcs71lpwiAvUZ8=
+
+Name: res/layout/design_layout_snackbar_include.xml
+SHA1-Digest: H89lYYqvqJAY6cLzC+kb3X2ht0g=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 1dQmPH4BF7Otx7V4njYiASwi5/k=
+
+Name: res/layout/fragment_acceptable_documents.xml
+SHA1-Digest: 9CurRCFeh7LKyexjPS34tVHvys8=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: vSkwVEeNKQvNuMjBCN3pedABO8U=
+
+Name: org/joda/time/tz/data/America/Swift_Current
+SHA1-Digest: 0upC5rUWL01Fn8KQenIaCIZ40oQ=
+
+Name: org/joda/time/format/messages.properties
+SHA1-Digest: 0IcWGaAktcX//ExOfdhQI5SSPqE=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: +hkZ/Ra8e3BFpVYHZYj6/IfghuU=
+
+Name: res/drawable/com_mixpanel_android_cta_button_highlight.xml
+SHA1-Digest: gpScdX0/KhsM1e/80SRWNv9Xxo8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_spanish.txt
+SHA1-Digest: uTGxICniFcGE+85pnK+pGH1Xzt8=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: 8e4/VCdlafdwu7YiOfk9Yr8TJIQ=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: ViBAeXy25MYIV57zAu6Fs/HihgU=
+
+Name: res/drawable/com_mixpanel_android_choice_first_states.xml
+SHA1-Digest: 776NNoQ7OVoaWsfHRmPvyzZoNw8=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: 0HGQv6g02Kce2QkJ7RbpMIYVvXY=
+
+Name: res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: wyVY1u/Vb2qez4fUWrFEL5DsW/w=
+
+Name: res/layout/fragment_deposit_content.xml
+SHA1-Digest: FS3MXqZioCmiiV9zQ7yinobwQyo=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: F/Xscca6LJWe90KDf3oKMNDdyhE=
+
+Name: res/drawable/price_range_text_color.xml
+SHA1-Digest: tXQPnSVkJMGARc3Nhv5wJz4nsNI=
+
+Name: res/drawable-nodpi-v4/qr_flash_icon.png
+SHA1-Digest: mK/aAtRKbD96lHnwT1GDN7yKfqI=
+
+Name: org/joda/time/tz/data/America/Argentina/Salta
+SHA1-Digest: CXf10ozraMnSmimBdvWm73pheIY=
+
+Name: org/joda/time/tz/data/Pacific/Port_Moresby
+SHA1-Digest: QtAQstXsPm2XMNWwopy2MiAeOtY=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: vBwm0ihe3tJu932F0b7IvAec1Ho=
+
+Name: org/joda/time/tz/data/America/Indiana/Petersburg
+SHA1-Digest: EqKM3tS+e//QkpjJafJuQhXqQ6I=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Luis
+SHA1-Digest: P0o8Y3y89BQ+OhdOagHVqTTUPRM=
+
+Name: res/drawable-nodpi-v4/menu_buy_selected.png
+SHA1-Digest: FAqBlQDFF6ZrAEOJqFekPycUTbM=
+
+Name: org/joda/time/tz/data/America/El_Salvador
+SHA1-Digest: GZT84dxuz4rAPklTCFhN0ZsmygE=
+
+Name: org/joda/time/tz/data/America/Miquelon
+SHA1-Digest: oHenIEtX7kSt0BKFWsVp6+Sz0/U=
+
+Name: res/layout/dialog_cdv_in_progress.xml
+SHA1-Digest: RkP6nUQr6zk6Pg/sORthWU3lL9A=
+
+Name: res/layout/com_mixpanel_android_activity_notification_full.xml
+SHA1-Digest: c2oPoKbqUYJQVodI0d/TL4qVWT8=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6eRtpYyE2B45gWd2aZtCG4kO5FM=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: qRi0Z7m8zSxTZklK9xSdgATWCCs=
+
+Name: org/joda/time/tz/data/Asia/Kuching
+SHA1-Digest: h1120Kkhp1cY8u+MTBKbOxWebl0=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_polish.txt
+SHA1-Digest: bnV3hR/TM8/nCLUXvfXHWUmvShI=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_english.txt
+SHA1-Digest: CHRv59odKbwWuNzWNtwmYNxOEH4=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_approx_common.txt
+SHA1-Digest: c9AqKhHVO0VPlbeLnJTrKdy/gSs=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_portuguese.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/joda/time/tz/data/America/Regina
+SHA1-Digest: /a9kRbRx95OblnrP/r0wKjxsKsA=
+
+Name: res/anim/shake.xml
+SHA1-Digest: lEP8+V/vgmd84Ofuz6KR8vXwXXE=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: z9gFaal0BgHdAVLHtKJQz3YEnAE=
+
+Name: org/joda/time/tz/data/Pacific/Galapagos
+SHA1-Digest: tBoSbYbJBpFqcjIvgfK23dM5WRc=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: 6atuuQZ5y9g6HJYusCOBbJJhPvo=
+
+Name: org/joda/time/tz/data/Pacific/Johnston
+SHA1-Digest: V6UJncznY+JETJHs3i+8Ku4siLk=
+
+Name: org/joda/time/tz/data/Etc/GMT+2
+SHA1-Digest: QY0Xw+pJBZYnKgl+kjOAcI7sA/E=
+
+Name: org/joda/time/tz/data/Etc/GMT+3
+SHA1-Digest: yjzaYbVl95z1MuGHbUf2Ol/k558=
+
+Name: org/joda/time/tz/data/Asia/Aqtau
+SHA1-Digest: pNJCzFS6sE5fr900l3ZV8uwuOQU=
+
+Name: org/joda/time/tz/data/Etc/GMT+1
+SHA1-Digest: ZE5JP0oi7Ef/aFOH1Mxcc1vtz3E=
+
+Name: assets/Roboto-Bold.ttf
+SHA1-Digest: bLtXuiNVz0QuBomYmP9a9VhnED4=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: BLQq1kPx0/JPxPxgp/MrxD6Ft1Q=
+
+Name: res/drawable-nodpi-v4/ic_send.png
+SHA1-Digest: XJbaazY+NR1xvX5Y/GuwEbIx8i8=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_italian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/raw/beep.ogg
+SHA1-Digest: GlIsg8mvi6v0saqDdV7ZN0KoFcY=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_romanian.txt
+SHA1-Digest: c2FG81GO6lTa5eTZpNvoIjKLPfw=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: RlASjFlsAOIfgzOVaMJeKCTDJ3o=
+
+Name: org/joda/time/tz/data/Asia/Ashgabat
+SHA1-Digest: U0a7rfPVcnFUyZqBdGn6vNztejQ=
+
+Name: org/joda/time/tz/data/Europe/Samara
+SHA1-Digest: nK6Q5ev9VhAMGUg/oDE4EDvr+HY=
+
+Name: res/drawable-nodpi-v4/sell_verification.png
+SHA1-Digest: YV+lHFh49XsXUuUEuP8yM+iT9I8=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_polish.txt
+SHA1-Digest: d7PswPXB40uZY4D8wXcuG7osFGk=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: YsHF4VJihRr1oEZ76cu42zsHjek=
+
+Name: res/layout/activity_login_2fa.xml
+SHA1-Digest: t7fkr8oL5E1ihqrZ0OEY9mZEPk0=
+
+Name: res/xml/transactions_appwidget_provider.xml
+SHA1-Digest: bRjB5EEIrdR0LdiiOuR2zwyxIHQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: XLry23W3UCMpOPhli1Oij+WH1x4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: OBH4hLkDJ7tyFICiDb9yXbQUU0M=
+
+Name: org/joda/time/tz/data/Europe/Rome
+SHA1-Digest: tf5UHqD0GzWYQUkz9v/UMmO0U+Q=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_arrowright_faded.png
+SHA1-Digest: ADHLkW0sQF5iR30gNfYshyMrIvc=
+
+Name: org/joda/time/tz/data/America/Mexico_City
+SHA1-Digest: iiKP1bSL0/AeP/wOkiIDA1LH/9g=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-nodpi-v4/add_bank_small.png
+SHA1-Digest: bAOc6f85H8C5ZS0cXIlLz/uIGog=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_any.txt
+SHA1-Digest: vWwi2b+VubaLe+ABmPkjsT7L2f4=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: sx8MulCwoLgPjrSZfuaaFvEppcE=
+
+Name: res/drawable-nodpi-v4/currency_eur_notification.png
+SHA1-Digest: gWft5gMFzbOD0JoX9Rh9+K4mQbM=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_english.txt
+SHA1-Digest: WdrL/vp21NUtryKaVCYaAfnUY9U=
+
+Name: res/drawable-nodpi-v4/payment_icon_blue_1.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-nodpi-v4/id_licence_back.png
+SHA1-Digest: LYKeJds042ZDrYeUZAE2OmI+LL8=
+
+Name: org/joda/time/tz/data/America/Manaus
+SHA1-Digest: nCHI9l6p8zMwE9q7KiI6OklrJ7o=
+
+Name: res/drawable-nodpi-v4/rounded_rectangle.9.png
+SHA1-Digest: fNt2wwyhJtz8B194eqCYqDrAvhY=
+
+Name: res/drawable/menu_sell.xml
+SHA1-Digest: RI16ZXshXPBMkg1gDMG2TFvDnGY=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_portuguese.txt
+SHA1-Digest: wGpv/4nTHPd+c4HkTvDnN2PUYOU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: res/drawable-nodpi-v4/pending_01.png
+SHA1-Digest: CK96sXVthBqLY1TbCTM+UM66ZUo=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greeklatin.txt
+SHA1-Digest: KM44dvGlJjA1G1+QMxAorjQfVZo=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: YcDKa0kXSGCqvr7JtJZ+cKz+YyY=
+
+Name: org/joda/time/tz/data/America/Argentina/Cordoba
+SHA1-Digest: pzn2DRUjXwhqukUou8oDVosifuY=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_german.txt
+SHA1-Digest: 8OQ3Mr8EiI5iVkuC2MaQtTxYiBY=
+
+Name: org/joda/time/tz/data/Europe/Zurich
+SHA1-Digest: 0eFA1v8dFrk6HsmVg2QI/1CqjVk=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_hebrew.txt
+SHA1-Digest: G0Yn8vlBmcqKqvsNdi9pfDl8Mbs=
+
+Name: res/layout/design_layout_tab_text.xml
+SHA1-Digest: hGylEWtLV6PowlIJAnKyrFqhGEo=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Center
+SHA1-Digest: NaLMsewMuq/Ruj8412nD6zc6MP0=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: a2PqqMawE/5F/kuBuWS4K8kdtOo=
+
+Name: res/layout/fragment_add_payment_method.xml
+SHA1-Digest: OnunBGQY9CnqvA/6Nr5XvbV5eCQ=
+
+Name: res/layout/fragment_my_address.xml
+SHA1-Digest: siH8IjNKy9EEY/wQj14w+YlEYdg=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: AEtucgE23w85/isDYqNTWlxruFg=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_english.txt
+SHA1-Digest: WdrL/vp21NUtryKaVCYaAfnUY9U=
+
+Name: org/joda/time/tz/data/America/Antigua
+SHA1-Digest: DzjMNAIqU7JWJ6ArH2pyef9Sizs=
+
+Name: org/joda/time/tz/data/Asia/Kuwait
+SHA1-Digest: Otm/wjy/hz02N2hqfdmeHr6Br6U=
+
+Name: org/joda/time/tz/data/Africa/Banjul
+SHA1-Digest: N2JTnWWhJu+26dsczqymG/NqZAA=
+
+Name: org/joda/time/tz/data/America/Kentucky/Monticello
+SHA1-Digest: H320+X+n1tdUpg50Gcr8X3w2hPc=
+
+Name: org/joda/time/tz/data/Indian/Comoro
+SHA1-Digest: qbQ+Qc/FQMwL5pGcEO4dK/d0XYM=
+
+Name: org/joda/time/tz/data/America/Indiana/Winamac
+SHA1-Digest: N34sUwXhi8ia7QE8J96O+FaWKpw=
+
+Name: res/drawable-nodpi-v4/payment_icon_gray.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: srU1La0aKxKcB1CLvKiSYa09NHU=
+
+Name: res/drawable/appwidget_button_center.xml
+SHA1-Digest: TOJqJtQ2vzI1LAaWlxsHlzMJuPY=
+
+Name: res/layout/design_navigation_menu_item.xml
+SHA1-Digest: tKqlBBuXusK/kLnZwiuu4zYlSrs=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: YGKzBC2egPjXZcnnNNBeHpoZeHM=
+
+Name: org/joda/time/tz/data/Asia/Colombo
+SHA1-Digest: ZD+1ZTjg/QyXCFfk9ceCn9RQwyk=
+
+Name: res/layout/activity_manage_accounts.xml
+SHA1-Digest: ZaqAqeXbfMaw7iXhHRrrb01rchw=
+
+Name: org/joda/time/tz/data/Europe/Tallinn
+SHA1-Digest: 8MkRpKVZXZfZYdIrY3a47fD2+DA=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: cK/LCW7Y07tXQ8e5BdotU64US0I=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_logo.png
+SHA1-Digest: +QFq4htAQEht4GzZ8PhOJ2/uaoI=
+
+Name: res/drawable-nodpi-v4/btn_cab_done_default_coinbase.9.png
+SHA1-Digest: Jb4a11cMQBxAwEcV16G//yMLiFs=
+
+Name: org/joda/time/tz/data/Asia/Taipei
+SHA1-Digest: 1mzXI0j1Izk3sJTbImfTzSBXfSM=
+
+Name: res/layout/dialog_confirm_transfer.xml
+SHA1-Digest: U8H4aFe4OX5JgjG1EJJcK77VFXE=
+
+Name: res/layout/fragment_identity_verification_content.xml
+SHA1-Digest: 6eaSdphRNV7KGLmeu9bIBtH+jRM=
+
+Name: org/joda/time/tz/data/Africa/Accra
+SHA1-Digest: uDC8/zrQMstkys4TAyxzNPg03rI=
+
+Name: res/drawable-nodpi-v4/ic_deposited_bitcoin.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: org/joda/time/tz/data/America/Metlakatla
+SHA1-Digest: PAqLF7KGHIWs3pFBooFIUkXCyPI=
+
+Name: org/joda/time/tz/data/Africa/Lome
+SHA1-Digest: DkEcwAGnpoKmdaFyS6vmr5EutEo=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: j03DPBFzsrv0MgPWX+LN1jrs+lA=
+
+Name: res/drawable-nodpi-v4/right_drawable_button_deselected_pressed.9
+ .png
+SHA1-Digest: dtTbGMkFOsIROqplXnQq4IRIURc=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: Zj1YE4I/aNMmHr4LVwFo4H/yZ5U=
+
+Name: res/drawable/com_mixpanel_android_nocolor_list.xml
+SHA1-Digest: v6URk8yj2xgb+DppWnLu9skR/c4=
+
+Name: res/drawable/flag_circle.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v17/list_item_contact_suggestion.xml
+SHA1-Digest: SevgLKLPiR0suX65jA5bu1h4IrM=
+
+Name: res/drawable-nodpi-v4/id_flag_shadow.png
+SHA1-Digest: SLEUGgyU65Ix3waWwMxpfHFAHtA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: uNbXimDHpOQyw8x18qTqrxMKGBo=
+
+Name: res/drawable-nodpi-v4/menu_charts_selected.png
+SHA1-Digest: wBU9rlWq03K55Kx93ZjQkiPQwbM=
+
+Name: res/drawable-nodpi-v4/menu_payment_methods_selected.png
+SHA1-Digest: 7ofQIM94rHMPdGZgofDUhPXTmn4=
+
+Name: res/drawable-nodpi-v4/ic_docveri_passport.png
+SHA1-Digest: S8hvUf6OaD3WyptL4ghqtnfI4PU=
+
+Name: res/anim/pin_stop_exit.xml
+SHA1-Digest: 1BlLxHgiKyWAKXQnpVW8yxD5cmI=
+
+Name: res/layout/dialog_qrcode.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: org/joda/time/tz/data/America/Port_of_Spain
+SHA1-Digest: tPX57tjxhQyL1YxjO83JBFUR1Ng=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: res/layout-large-land-v4/fragment_transactions.xml
+SHA1-Digest: yvJW21REWP2d20m/P9hrfdxn3V8=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_german.txt
+SHA1-Digest: MxrOjj0j10k/YbNQybQuDJBum3c=
+
+Name: org/joda/time/tz/data/Asia/Tehran
+SHA1-Digest: nWb3E8dk+gSM0qbYlh8e3fZ7RZQ=
+
+Name: org/joda/time/tz/data/Asia/Bahrain
+SHA1-Digest: 2E6EgAUwP3Sl+DwaTm0s5CnZtIc=
+
+Name: res/xml/price_appwidget_provider.xml
+SHA1-Digest: Ldl7CVvlmz88LhOVaVLy9vV00b8=
+
+Name: res/drawable-mdpi-v4/com_mixpanel_android_square_nodropshadow.9.
+ png
+SHA1-Digest: wfBZcWEFWeWrsdFA/TfbJEvP+2M=
+
+Name: res/drawable-nodpi-v4/buysell_instant.png
+SHA1-Digest: r9Xlb8GJsq/Hy+sw0T4/dMkcrGg=
+
+Name: res/drawable-nodpi-v4/i_d_icon_gray_2.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/layout/fragment_transactions_footer.xml
+SHA1-Digest: BKlneawaMmkctcjiXWCJu3mZ3tU=
+
+Name: res/drawable-nodpi-v4/plus.png
+SHA1-Digest: d8ze2I/jVB1aAVCxBxSPrWXcfVc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: fabric/com.crashlytics.sdk.android.crashlytics.properties
+SHA1-Digest: dqaMmhr+gfBh8WGpLUgnpaoN8aA=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_french.txt
+SHA1-Digest: FzpQ+GbWmzaOeTszrpAHMAbmuII=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005
+ .png
+SHA1-Digest: TdzAFNg4ycPCAcJ8yYIT8wvN194=
+
+Name: res/layout/dialog_invite_friends.xml
+SHA1-Digest: fpoTz6obGopq7G2jFjHZp8Vh4yI=
+
+Name: org/joda/time/tz/data/America/Argentina/Tucuman
+SHA1-Digest: QAEb7TdPdZVE38SFdwCwxyjS+uU=
+
+Name: res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: n4jwcaXknjoRCAtaJ1oSyKotNaw=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_russian.txt
+SHA1-Digest: lulM+eX+omlYPVagYcZ7S+1OOAg=
+
+Name: org/joda/time/tz/data/Africa/Nouakchott
+SHA1-Digest: AotZx5b1AvyvLwqshF8tMyPEtrw=
+
+Name: res/layout/activity_state_disclosure.xml
+SHA1-Digest: 8h4o4u0KwB9xacTifJS67MGPP1M=
+
+Name: org/joda/time/tz/data/America/Danmarkshavn
+SHA1-Digest: oi9XCkMzD8QUgwnYX6PbVbbS8n8=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA1-Digest: VikGrClarpkvTVwTS9DEpzyZFsI=
+
+Name: res/layout/fragment_transfer_type.xml
+SHA1-Digest: Q66bzJnQ4AzKZ5gdtIAAy2LvdGU=
+
+Name: res/drawable-nodpi-v4/bottom_shadow.9.png
+SHA1-Digest: xi0oQ3tULKfEr864HsGMgQMTaUc=
+
+Name: com/google/thirdparty/publicsuffix/PublicSuffixPatterns.gwt.xml
+SHA1-Digest: CZGMQclJdq2CCCn/JwSWNUmymDc=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: cZeeKYYQoRE11HuW93xInf8XqyM=
+
+Name: org/joda/time/tz/data/Asia/Aqtobe
+SHA1-Digest: rDkvitaQMlyROcsi41Y+wE87S2o=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: eeP2CewYhyNSgGVytLjdvmT9+uY=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: Em+RG3PBsy1WmstVYnpHur7/d2o=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: UYrvwqdYiBQibIGsP1CUFIPzGn8=
+
+Name: res/drawable/abc_dialog_material_background_light.xml
+SHA1-Digest: DbONqZ8SqH1FKNIQEcITFt2SAWM=
+
+Name: org/joda/time/tz/data/Australia/Perth
+SHA1-Digest: lXYGdkggvmpVDXV6gmssGg2BSbg=
+
+Name: res/layout-large-land-v4/fragment_buysell.xml
+SHA1-Digest: PdGF0BvPhdPgyvIIfD9CQxwl4zA=
+
+Name: org/joda/time/tz/data/America/Grand_Turk
+SHA1-Digest: 05pgj4637uDD/T9QwxozI8VhAYs=
+
+Name: org/joda/time/tz/data/America/Sao_Paulo
+SHA1-Digest: njKbQwlKA+449dzH0F4SsYWVZYI=
+
+Name: org/joda/time/tz/data/Africa/Lubumbashi
+SHA1-Digest: GOfSxM69Qz0f444QU6ClK9SNEl4=
+
+Name: org/joda/time/tz/data/Europe/London
+SHA1-Digest: AeS3Qkvc/sxmxfZQY5/HvP2qf14=
+
+Name: org/joda/time/tz/data/Asia/Qatar
+SHA1-Digest: Ls9pdGj4Q2PcMrt6T8Z0D+PSsAc=
+
+Name: res/drawable/com_mixpanel_android_choice_last_states.xml
+SHA1-Digest: tUknA5FReM2mCFnhcC+RnT/JLlM=
+
+Name: org/joda/time/tz/data/Asia/Seoul
+SHA1-Digest: XwVJq6c0AMW+HxKq3lEPEM82n6Q=
+
+Name: org/joda/time/tz/data/WET
+SHA1-Digest: R1zp1EoTLvbwKcNwtxOd7SHsq5w=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: O6x52IgsWeKV4Xdu5U2H2IxbVgc=
+
+Name: org/joda/time/tz/data/America/Atikokan
+SHA1-Digest: o/L0YCMVIrlH5fMQOs0ZF/1+enU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: I2JJHnuKjt9jtF8C76fBatEScaE=
+
+Name: org/joda/time/tz/data/CST6CDT
+SHA1-Digest: TQd/hsdSJXo7AWkMLpl6CnkDlCY=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: EYfXWBiFkD5pE+x4VQkg8UKkBDw=
+
+Name: org/joda/time/tz/data/Africa/Bissau
+SHA1-Digest: 8+6AzUdM1fr0lK9OH5hu0vdaB74=
+
+Name: org/joda/time/tz/data/Africa/Nairobi
+SHA1-Digest: 5cpCBjQivzCq0QEP9xaNTC8qjC8=
+
+Name: res/layout/fragment_florida.xml
+SHA1-Digest: lPGdYM0q8NRSZmeBlJ8fGTKQWb8=
+
+Name: org/joda/time/tz/data/Asia/Kashgar
+SHA1-Digest: YcGaNU1VDT0zYMW2fhrBGlBIby0=
+
+Name: res/layout-v17/widget_balance.xml
+SHA1-Digest: tUvAIIgkmynxtf0XDZIvfxL4+YY=
+
+Name: res/drawable-nodpi-v4/img_cheque.png
+SHA1-Digest: g07OKdyEa1lFHNBMNsZz6+Te5NY=
+
+Name: res/drawable/button_underline.xml
+SHA1-Digest: Q/kpPWlrSP4UBPCLVQaYtXgg3wg=
+
+Name: org/joda/time/format/messages_pt.properties
+SHA1-Digest: moOoIKQxqjrUD5kkCFGG4FAMCvQ=
+
+Name: org/joda/time/tz/data/Asia/Jakarta
+SHA1-Digest: FXnXDXOqiYPEL06ntXn+4bnGLlw=
+
+Name: res/layout-v17/drawer_listitem.xml
+SHA1-Digest: qUMfpSFPgS2kF8Fb5TbcUZ43CmE=
+
+Name: org/joda/time/tz/data/America/Costa_Rica
+SHA1-Digest: eXklHhflUqJLphR7M/jqCe+aSUs=
+
+Name: res/layout-v17/list_item_price_alert.xml
+SHA1-Digest: XUuqnmoqXZ53N/n+MwoMJJbZhx0=
+
+Name: res/layout/list_item_price_alert.xml
+SHA1-Digest: zvx2CDl8Xb7pl19YJQccRbKUhEw=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: p6f18Ml4sp356MEP+FJX+xfZEUc=
+
+Name: org/joda/time/tz/data/Europe/Warsaw
+SHA1-Digest: HMP63T3ZcL4J9G0CkMBBF7cvUMM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-nodpi-v4/triangle_upsidedown.png
+SHA1-Digest: WZiuTjGu5Yn4zChFJuFe3Z9HNTk=
+
+Name: org/joda/time/tz/data/Asia/Anadyr
+SHA1-Digest: gsYUV560CfyhLacr5N378BehaUw=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_portuguese.txt
+SHA1-Digest: t/2/p6TUuJNClF3XDM5XMY3oNJ8=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: vq3AaVX19jU0c0v1npZsAQOh+CI=
+
+Name: res/layout/fragment_pricechart.xml
+SHA1-Digest: egz5upsfcrDyus542R7UhDn8ENU=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: igV6Z9qyPsoUBNkEZPzj+DDt0kE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/layout/activity_with_fragment.xml
+SHA1-Digest: 9qfvEIrQWiNq8yKw1lLSnY8pP8E=
+
+Name: res/drawable-nodpi-v4/notification_chart.png
+SHA1-Digest: O558RjzzaTay4tWmwbubhCaFzmM=
+
+Name: res/layout/fragment_buysell_content.xml
+SHA1-Digest: hP1OZ1KeT8ChA+WrnGO8gFc0hBA=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: NrEGClY641EfvHXtY4n1ZGpEMx0=
+
+Name: res/drawable-mdpi-v4/amex_back.png
+SHA1-Digest: pBH6y1k4CEFvEMnmyaRYX/2y3uk=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_romanian.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: gjBGCmII8XLlMBwPi/vAnb2huQ8=
+
+Name: res/drawable-nodpi-v4/progress_secondary_coinbase.9.png
+SHA1-Digest: cd2+Egidu6B8BsLse8R759xjkRQ=
+
+Name: res/drawable-nodpi-v4/ic_multisig_vault_blue.png
+SHA1-Digest: MQrnkHoGU+D8GhKzMLa6ZsGhBRE=
+
+Name: res/anim/design_fab_out.xml
+SHA1-Digest: eqyMleghgi0F32G8QHJUnftDRAc=
+
+Name: org/joda/time/tz/data/America/La_Paz
+SHA1-Digest: IxgDeiTtBiAo3oebJoXTQJkVT4k=
+
+Name: org/joda/time/format/messages_de.properties
+SHA1-Digest: AhVF02id0G65iy46T2zmq0re1wg=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: yP2hhhdWfqPQ6VTBFpcZM+5I8sg=
+
+Name: res/layout/fragment_my_address_content.xml
+SHA1-Digest: DKR80s4/NCH/kys+aS4tgpLvErA=
+
+Name: org/joda/time/tz/data/America/Indiana/Marengo
+SHA1-Digest: 4IcxrmlspumvztB+ne/6qEaGKoM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: cvp+pWujiXpQMYoa2y9EetK0U4s=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_any.txt
+SHA1-Digest: F6UqRYZVkvnEX5jlZfcsZj24WJM=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.
+ png
+SHA1-Digest: IL+CVRaU8e6508PLcaiJwuRr+AM=
+
+Name: res/drawable-xhdpi-v4/fab_bg_normal.png
+SHA1-Digest: bWoQvU9Xzn4K16tzi9aqBoBq0J4=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+SHA1-Digest: ZmICAFoCZUqAcxhJFOHv8kxXF88=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 53DYKltMU34zhaYZHtlNZkme+Co=
+
+Name: res/drawable-nodpi-v4/swipe_delete.png
+SHA1-Digest: Ir52wANN+EPsTr9NJMQDkjOPU0c=
+
+Name: assets/Roboto-Thin.ttf
+SHA1-Digest: 9xzNVj+VzMGHz0/oEodEXpH3Ehs=
+
+Name: res/layout-v17/widget_transactions.xml
+SHA1-Digest: rXorpxZsfApB4J07JlnHNFOAwzs=
+
+Name: res/layout/list_header_suggestions.xml
+SHA1-Digest: xOszJ3LAE7o5MK58NOGjmt7QzYY=
+
+Name: res/drawable-nodpi-v4/coinbase_white.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-nodpi-v4/ic_transferred_bitcoin.png
+SHA1-Digest: SUqcLI9U6PLmyvbqYNiAEv7xu+U=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: res/drawable/menu_charts.xml
+SHA1-Digest: +t1LXxlVA42Fw+LGdgyU/WFjtCc=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_french.txt
+SHA1-Digest: o5S4BN9+movhRfKv/CPmwVWMk0s=
+
+Name: res/layout/fragment_plaid_account_login.xml
+SHA1-Digest: rTPxDARIT81+aQ6BPRaSqdRtsMY=
+
+Name: res/drawable-nodpi-v4/left_drawable_button_deselected_normal.9.p
+ ng
+SHA1-Digest: 4cdt7e07vXmcXpF4A+esUVqxgkI=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: ScIgi8J9nz/mj+rEl2ptzIDBHtE=
+
+Name: org/joda/time/tz/data/America/Matamoros
+SHA1-Digest: 1dcZjDwomBjGnSRIMmJfo6HBsXU=
+
+Name: org/joda/time/tz/data/America/Belize
+SHA1-Digest: YVfR/5JXqDSnIDVIpBNcIlI0o4g=
+
+Name: res/drawable-hdpi-v4/com_mixpanel_android_arrowleft.png
+SHA1-Digest: RvTBb6OdQQhS+z15Icu55GP687g=
+
+Name: res/layout/com_mixpanel_android_activity_survey.xml
+SHA1-Digest: 7O2FnItyHofmUbjeCW5m/AD2YpQ=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: res/drawable/pin_circle_entered.xml
+SHA1-Digest: eDosC/ZUbaplOXq2vDtf/z6KcHo=
+
+Name: org/joda/time/tz/data/Africa/Lusaka
+SHA1-Digest: d8+EF4+eXqqIfqvfgYvHeqiDj9I=
+
+Name: org/joda/time/tz/data/Africa/Porto-Novo
+SHA1-Digest: rd+U4IvYgfIJ3Pv2t2K/fNhS3PM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: p/gPu8ipt5NUpeLsftSoCjOY118=
+
+Name: res/drawable-hdpi-v4/unknown_cc.png
+SHA1-Digest: 0427faO9+pKtvEF0kUzBf9gKsJE=
+
+Name: res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: 5Vi4+Jn1tMhhrZnGNmAUFX8JqSE=
+
+Name: org/joda/time/tz/data/America/Eirunepe
+SHA1-Digest: Lk9JqCC7hBhagb3kFcuHFgSgHaM=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: 1JQW5PaIm8QYdCxB98Rsn+U0Hcc=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: Goj79xYi41d5Ug2oovkSjYvLbAI=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: h7hNXJrcbvKMv9bbGrTrvd0dOgs=
+
+Name: org/joda/time/tz/data/Indian/Mahe
+SHA1-Digest: Lw38omuNnhshIzfd70p4MgkQZ5E=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: TLfjxp5bknlrmh6zJTSYD2AfmTo=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: fJDemyYkG1ADa8kfTcfiXUcM7jY=
+
+Name: res/drawable-nodpi-v4/buysell_wallet.png
+SHA1-Digest: KBqQmTxggR99Hm3/VVKNqsxPnZE=
+
+Name: res/drawable/design_fab_background.xml
+SHA1-Digest: 2IXtIQ8BMr6/gZ9iOW0d/IwZH6A=
+
+Name: res/drawable-xhdpi-v4/fab_bg_mini.png
+SHA1-Digest: QqupplbKXOs+TNzK1Bt9uayICac=
+
+Name: res/layout/design_layout_tab_icon.xml
+SHA1-Digest: 1oW2wUEHsS3deIrUBKUEwpNALgo=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: GSwXxUepaZIe9mSM6287NIy5n7Y=
+
+Name: res/drawable-nodpi-v4/identity_transactions.png
+SHA1-Digest: iIepYCJZUlOnfYAqmGAcI4wm088=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: ENn3FUb05m3F0Uj6epIkDxisaoI=
+
+Name: res/layout/fragment_charts_account_empty.xml
+SHA1-Digest: ZQsfYKbLWiYYg9tjcbrNU6Y4Shg=
+
+Name: org/joda/time/tz/data/America/St_Lucia
+SHA1-Digest: DnY3t52ok/arvcj7ByycNVAhzD4=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: QfpcSdSZHMZJtyvdOvxgAoeFBBk=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_french.txt
+SHA1-Digest: q9sgIysKftSjudOa4wXU3BLc/4Y=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: iP8qRXkY+XNmRoVEr+A6b2fLfF4=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: GsthqrHWAGWm2J+TqT9Cl9Xcu7A=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: nBcs4vWsGm0R7SaBgIC3w5JFu5Y=
+
+Name: org/joda/time/tz/data/America/Indiana/Tell_City
+SHA1-Digest: rAt2PJpqa7kYw49+aW3UyhK9kdg=
+
+Name: res/drawable/com_mixpanel_android_choice_middle_states.xml
+SHA1-Digest: itvOFsAqALLeWyFmhnc+qFq+UbE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: bCfalDf3dtwVG4mH7KjMYlR/m8c=
+
+Name: res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+SHA1-Digest: QSpXwRq5YHl8dXrrKk4gh6yCRd0=
+
+Name: res/drawable-xhdpi-v4/unknown_cc.png
+SHA1-Digest: Ytaj5Nprd/3s8QcyHx3av8ysvWI=
+
+Name: org/joda/time/tz/data/Europe/Lisbon
+SHA1-Digest: QE+rCAXclFqcG07Wx+yAipm/EWc=
+
+Name: res/drawable-nodpi-v4/appwidget_inner_focused_c.9.png
+SHA1-Digest: fwyMqG0tAg8bPov1DN/41vluPrA=
+
+Name: res/layout-large-land-v4/fragment_transfer_send.xml
+SHA1-Digest: XC9BO/fgGsnLN9Uy/4POApyTTEc=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: H53d9SOkoWezKsVvcOALraOdTFo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: org/joda/time/tz/data/America/Anguilla
+SHA1-Digest: A461+rqeAbWfTnxNfWOW5kPJlMQ=
+

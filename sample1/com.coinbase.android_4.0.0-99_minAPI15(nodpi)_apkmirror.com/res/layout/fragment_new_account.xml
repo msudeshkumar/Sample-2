@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/error" android:background="@color/transactions_sync_error_calm" android:padding="10.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/transactions_refresh_error" />
+    <TextView android:textSize="20.0sp" android:textColor="@color/black" android:paddingBottom="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:layout_marginRight="16.0dip" android:text="@string/new_wallet_account" />
+    <EditText android:textSize="16.0sp" android:id="@id/new_wallet_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginRight="14.0dip" android:layout_marginBottom="10.0dip" android:hint="@string/wallet_name_hint" android:inputType="text" />
+    <Button android:id="@id/new_wallet_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:text="@string/create_account" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+</LinearLayout>

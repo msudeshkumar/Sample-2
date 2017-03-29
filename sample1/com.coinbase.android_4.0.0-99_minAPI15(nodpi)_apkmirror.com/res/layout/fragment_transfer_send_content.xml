@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/transfer_send_money" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/transfer_money_recipient_container" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="65.0dip">
+        <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/primary" android:id="@id/transfer_money_recipient_label" android:layout_width="@dimen/transfer_send_label_width" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/transfer_send_recipient_label" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/transfer_money_contact" android:background="@drawable/transfer_send_contact_background" android:layout_width="wrap_content" android:layout_height="30.0dip">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/transfer_money_contact_avatar" android:layout_width="30.0dip" android:layout_height="fill_parent" />
+            <TextView android:textColor="@android:color/black" android:layout_gravity="center_vertical" android:id="@id/transfer_money_contact_name" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+            <ImageButton android:layout_gravity="center_vertical" android:id="@id/transfer_money_contact_clear" android:background="@null" android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="15.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_cross" android:scaleType="centerInside" />
+        </LinearLayout>
+        <View android:id="@id/transfer_money_contact_spacer" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <EditText android:textSize="18.0sp" android:textColor="#ff000000" android:id="@id/transfer_money_recipient" android:layout_width="0.0dip" android:layout_height="wrap_content" android:hint="@string/transfer_recipient" android:layout_weight="1.0" android:inputType="textEmailAddress" />
+        <ImageView android:id="@id/transfer_money_qr_scan" android:background="@color/white" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:src="@drawable/qr_scan_grey" />
+    </LinearLayout>
+    <View android:id="@id/transfer_divider_1" android:background="#ffeeeeee" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="-5.0dip" android:layout_below="@id/transfer_money_recipient_container" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/transfer_money_notes_container" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/transfer_divider_1">
+        <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/primary" android:id="@id/transfer_money_notes_label" android:layout_width="@dimen/transfer_send_label_width" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:text="@string/transfer_send_notes_label" />
+        <EditText android:id="@id/transfer_money_notes" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:hint="@string/transfer_notes" android:inputType="textMultiLine" />
+    </LinearLayout>
+    <View android:id="@id/transfer_divider_2" android:background="#ffeeeeee" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="-5.0dip" android:layout_below="@id/transfer_money_notes_container" />
+    <ListView android:id="@id/suggested_recepients_list" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/transfer_divider_2" />
+</RelativeLayout>

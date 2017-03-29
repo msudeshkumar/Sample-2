@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:id="@id/container_layout" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/billing_address_list_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ProgressBar android:id="@id/billing_address_progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" />
+    <LinearLayout android:gravity="right" android:orientation="horizontal" android:id="@id/linearLayout3" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="@dimen/billing_address_list_button_text_size" android:textColor="@color/button_grey_neutral" android:id="@id/cancel_button" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="@string/cancel" style="?android:attr/borderlessButtonStyle" />
+        <Button android:textSize="@dimen/billing_address_list_button_text_size" android:textColor="@color/fab_green" android:id="@id/new_address_button" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="@string/new_address" style="?android:attr/borderlessButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

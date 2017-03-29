@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="@dimen/margin_default" android:paddingTop="30.0dip" android:paddingRight="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/plaid_login_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_double" android:adjustViewBounds="true" />
+    <LinearLayout android:orientation="vertical" android:id="@id/plaid_account_login_form" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <EditText android:id="@id/plaid_login_username" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/username" android:inputType="textNoSuggestions" />
+        <EditText android:id="@id/plaid_login_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:hint="@string/password" android:inputType="textPassword" />
+        <Button android:id="@id/plaid_login_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/plaid_login_manual" android:padding="@dimen/margin_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/add_account_details_manually" />
+        <android.support.v7.widget.Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/plaid_login_protection_details" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/plaid_account_pin_form" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:id="@id/plaid_login_pin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/pin_number" android:inputType="numberPassword" />
+        <Button android:id="@id/plaid_pin_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/plaid_send_mfa" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textStyle="bold" android:textColor="@color/text_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/send_mfa" />
+        <Spinner android:id="@id/plaid_mfa_spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" />
+        <Button android:id="@id/plaid_send_mfa_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/plaid_submit_mfa" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textStyle="bold" android:textColor="@color/text_dark" android:gravity="center" android:id="@id/plaid_submit_mfa_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" android:text="@string/submit_mfa" />
+        <LinearLayout android:orientation="vertical" android:id="@id/plaid_mfa_questions_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" />
+        <Button android:id="@id/plaid_submit_mfa_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/plaid_choose_account_form" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Spinner android:id="@id/plaid_choose_account_spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" />
+        <Button android:id="@id/plaid_account_chooser_submit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/btn_continue" android:filterTouchesWhenObscured="true" style="@style/PrimaryButton" />
+    </LinearLayout>
+    <include layout="@layout/plaid_login_all_done" />
+    <include layout="@layout/buy_bitcoin" />
+</LinearLayout>

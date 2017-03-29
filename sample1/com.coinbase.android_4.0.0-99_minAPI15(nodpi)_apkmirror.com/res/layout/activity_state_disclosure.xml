@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/primary" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/nav_bar_layout" android:layout_width="fill_parent" android:layout_height="56.0dip">
+        <ImageView android:id="@id/back_image_view" android:padding="@dimen/margin_default" android:focusable="false" android:clickable="true" android:layout_width="56.0dip" android:layout_height="56.0dip" android:src="@drawable/back_arrow" />
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:id="@id/title_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/back_image_view" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <include android:id="@id/state_selector_container" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/signup_form_horizontal_margin" android:layout_marginTop="@dimen/signup_form_vertical_margin" android:layout_marginRight="@dimen/signup_form_horizontal_margin" android:layout_below="@id/nav_bar_layout" layout="@layout/fragment_select_state" />
+    <ViewStub android:id="@id/wyoming_viewstub" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/signup_form_horizontal_margin" android:layout_marginTop="@dimen/signup_form_vertical_margin" android:layout_marginRight="@dimen/signup_form_horizontal_margin" android:layout_below="@id/nav_bar_layout" layout="@layout/fragment_wyoming" />
+    <ViewStub android:id="@id/wyoming_locked_viewstub" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/signup_form_horizontal_margin" android:layout_marginTop="@dimen/signup_form_vertical_margin" android:layout_marginRight="@dimen/signup_form_horizontal_margin" android:layout_below="@id/nav_bar_layout" layout="@layout/fragment_wyoming_locked" />
+    <ViewStub android:id="@id/florida_viewstub" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/nav_bar_layout" layout="@layout/fragment_florida" />
+    <ViewStub android:id="@id/new_york_viewstub" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/signup_form_horizontal_margin" android:layout_marginTop="@dimen/signup_form_vertical_margin" android:layout_marginRight="@dimen/signup_form_horizontal_margin" android:layout_below="@id/nav_bar_layout" layout="@layout/fragment_new_york" />
+</RelativeLayout>

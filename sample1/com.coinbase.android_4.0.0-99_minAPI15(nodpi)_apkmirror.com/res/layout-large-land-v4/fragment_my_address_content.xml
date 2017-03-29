@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.coinbase.zxing.client.android.ScanTabsWidget android:gravity="center" android:layout_gravity="top" android:id="@id/scan_widget" android:padding="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingBottom="@dimen/margin_default" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="50.0dip">
+            <ImageView android:id="@id/qrcode" android:layout_width="400.0dip" android:layout_height="400.0dip" android:layout_margin="@dimen/margin_default" android:adjustViewBounds="true" android:contentDescription="@string/my_address" />
+            <TextView android:gravity="center" android:id="@id/qrcode_text" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_small" android:layout_marginRight="@dimen/margin_small" />
+            <TextView android:gravity="center" android:id="@id/explaination" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_small" android:layout_marginTop="@dimen/margin_default" android:layout_marginRight="@dimen/margin_small" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
