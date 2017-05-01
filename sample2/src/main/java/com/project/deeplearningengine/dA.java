@@ -1,7 +1,8 @@
-package com.project.android.deeplearningengine;
+package com.project.deeplearningengine;
+
+import static com.project.deeplearningengine.utils.*;
 
 import java.util.Random;
-import static com.project.android.deeplearningengine.utils.*;
 
 public class dA {
     public int n_visible;

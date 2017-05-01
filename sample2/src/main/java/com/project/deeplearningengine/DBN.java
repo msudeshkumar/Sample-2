@@ -1,21 +1,22 @@
-package com.project.android.deeplearningengine;
+package com.project.deeplearningengine;
+
+import static com.project.deeplearningengine.utils.*;
 
 import java.util.Random;
-import static com.project.android.deeplearningengine.utils.*;
 
-public class SdA {
+public class DBN {
     public int N;
     public int n_ins;
     public int[] hidden_layer_sizes;
     public int n_outs;
     public int n_layers;
     public HiddenLayerDiscrete[] sigmoid_layers;
-    public dA[] dA_layers;
+    public RBM[] rbm_layers;
     public LogisticRegressionDiscrete log_layer;
     public Random rng;
 
 
-    public SdA(int N, int n_ins, int[] hidden_layer_sizes, int n_outs, int n_layers, Random rng) {
+    public DBN(int N, int n_ins, int[] hidden_layer_sizes, int n_outs, int n_layers, Random rng) {
         int input_size;
 
         this.N = N;
@@ -25,7 +26,7 @@ public class SdA {
         this.n_layers = n_layers;
 
         this.sigmoid_layers = new HiddenLayerDiscrete[n_layers];
-        this.dA_layers = new dA[n_layers];
+        this.rbm_layers = new RBM[n_layers];
 
         if(rng == null)	this.rng = new Random(1234);
         else this.rng = rng;
@@ -41,15 +42,15 @@ public class SdA {
             // construct sigmoid_layer
             this.sigmoid_layers[i] = new HiddenLayerDiscrete(this.N, input_size, this.hidden_layer_sizes[i], null, null, rng);
 
-            // construct dA_layer
-            this.dA_layers[i] = new dA(this.N, input_size, this.hidden_layer_sizes[i], this.sigmoid_layers[i].W, this.sigmoid_layers[i].b, null, rng);
+            // construct rbm_layer
+            this.rbm_layers[i] = new RBM(this.N, input_size, this.hidden_layer_sizes[i], this.sigmoid_layers[i].W, this.sigmoid_layers[i].b, null, rng);
         }
 
         // layer for output using Logistic Regression
         this.log_layer = new LogisticRegressionDiscrete(this.N, this.hidden_layer_sizes[this.n_layers-1], this.n_outs);
     }
 
-    public void pretrain(int[][] train_X, double lr, double corruption_level, int epochs) {
+    public void pretrain(int[][] train_X, double lr, int k, int epochs) {
         int[] layer_input = new int[0];
         int prev_layer_input_size;
         int[] prev_layer_input;
@@ -76,7 +77,7 @@ public class SdA {
                         }
                     }
 
-                    dA_layers[i].train(layer_input, lr, corruption_level);
+                    rbm_layers[i].contrastive_divergence(layer_input, lr, k);
                 }
             }
         }
@@ -150,73 +151,58 @@ public class SdA {
         log_layer.softmax(y);
     }
 
-
-    private static void test_sda() {
+    private static void test_dbn(int[][] trainX, int[][] trainY, int[][] testX) {
         Random rng = new Random(123);
 
         double pretrain_lr = 0.1;
-        double corruption_level = 0.3;
         int pretraining_epochs = 1000;
+        int k = 1;
         double finetune_lr = 0.1;
         int finetune_epochs = 500;
 
-        int train_N = 10;
-        int test_N = 4;
-        int n_ins = 28;
-        int n_outs = 2;
-        int[] hidden_layer_sizes = {15, 15};
+        int train_N;
+        train_N = trainX.length;
+        //System.out.println(train_N);
+        //train_N = 9;
+        int test_N;
+        test_N = testX.length;
+        //System.out.println(test_N);
+        //test_N = 1;
+        int n_ins;
+        n_ins = trainX[0].length;
+        //System.out.println(n_ins);
+        //n_ins = 6;
+        int n_outs;
+        n_outs = trainY[0].length;
+        //System.out.println(n_outs);
+        //n_outs = 2;
+        int[] hidden_layer_sizes = {3, 3};
         int n_layers = hidden_layer_sizes.length;
 
         // training data
-        int[][] train_X = {
-                {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
-                {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1},
-                {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1},
-                {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1},
-                {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1}
-        };
+        int[][] train_X = trainX;
 
-        int[][] train_Y = {
-                {1, 0},
-                {1, 0},
-                {1, 0},
-                {1, 0},
-                {1, 0},
-                {0, 1},
-                {0, 1},
-                {0, 1},
-                {0, 1},
-                {0, 1}
-        };
+        int[][] train_Y = trainY;
 
-        // construct SdA
-        SdA sda = new SdA(train_N, n_ins, hidden_layer_sizes, n_outs, n_layers, rng);
+
+        // construct DNN.DBN
+        DBN dbn = new DBN(train_N, n_ins, hidden_layer_sizes, n_outs, n_layers, rng);
 
         // pretrain
-        sda.pretrain(train_X, pretrain_lr, corruption_level, pretraining_epochs);
+        dbn.pretrain(train_X, pretrain_lr, k, pretraining_epochs);
 
         // finetune
-        sda.finetune(train_X, train_Y, finetune_lr, finetune_epochs);
+        dbn.finetune(train_X, train_Y, finetune_lr, finetune_epochs);
 
 
         // test data
-        int[][] test_X = {
-                {1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
-                {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1},
-                {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1}
-        };
+        int[][] test_X = testX;
 
         double[][] test_Y = new double[test_N][n_outs];
 
         // test
         for(int i=0; i<test_N; i++) {
-            sda.predict(test_X[i], test_Y[i]);
+            dbn.predict(test_X[i], test_Y[i]);
             for(int j=0; j<n_outs; j++) {
                 System.out.print(test_Y[i][j] + " ");
             }
@@ -224,7 +210,34 @@ public class SdA {
         }
     }
 
-    public static void main(String[] args) {
-        test_sda();
+    public static void deepEngine(int[][] train_X, int[][] train_Y, int[][] test_X)//main(String[] args){//(int[][] train_X, int[][] train_Y, int[][] test_X) {
+    	 {
+    		 /*int[][] train_X = {
+         		{0,0,0,1,0,1},
+                 {0,0,0,1,0,1},
+                 {0,0,0,1,0,1},
+                 {0,0,0,1,0,1},
+                 {0,0,0,1,0,1},
+                 {0,0,0,1,0,1},
+                 {1,1,1,1,0,0},
+                 {1,0,1,1,0,1},
+                 {0,0,0,1,0,1}
+         };
+
+         int[][] train_Y = {
+         		 {1, 0},
+                  {1, 0},
+                  {1, 0},
+                  {1, 0},
+                  {1, 0},
+                  {1, 0},
+                  {0, 1},
+                  {0, 1},
+                  {1, 0}
+         };
+         int[][] test_X = {
+         		{1,1,1,1,0,0}
+         };*/
+        test_dbn(train_X,train_Y,test_X);
     }
 }

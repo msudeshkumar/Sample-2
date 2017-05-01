@@ -1,4 +1,4 @@
-package com.project.android.deeplearningengine;
+package com.project.deeplearningengine;
 
 import java.util.Random;
 import java.util.List;

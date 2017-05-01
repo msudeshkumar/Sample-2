@@ -1,6 +1,6 @@
 import org.python.core.PyInstance;  
 import org.python.util.PythonInterpreter;  
-
+//import com.project.android.deeplearningengine.*;
 
 public class InterpreterExample  
 {  
@@ -29,7 +29,7 @@ public class InterpreterExample
    public static void main( String gargs[] )  
    {  
       InterpreterExample ie = new InterpreterExample();  
-
+      //DBN.test_dbn();
       ie.execfile("hellopy.py");  
 
       PyInstance hello = ie.createClass("Hello", "None");  
