@@ -9,18 +9,18 @@ import java.util.ArrayList;
 public class FileExplorer {
 	static ArrayList<String> l1 = new ArrayList<String>();
 	//static String filename = "/tmp/op/smali";
-	public static List explorer(String fname)
+	public static void explorer(String fname)
 	{
-		List filenamelist = new List();
+		//List filenamelist = new List();
 		String filename = fname;
 		try
 		{
-			BufferedWriter op = new BufferedWriter(new FileWriter("/tmp/op/smalilist.txt"));
+			BufferedWriter op = new BufferedWriter(new FileWriter(filename+"/smalilist.txt"));
 			searcher(filename);
 			for(int j=0;j<l1.size();j++)
 			{
 				op.write(l1.get(j).toString());
-				filenamelist.add(l1.get(j).toString());
+				//filenamelist.add(l1.get(j).toString());
 				op.newLine();
 			}
 			op.close();
@@ -29,7 +29,7 @@ public class FileExplorer {
 		{
 			e.printStackTrace();
 		}
-		return filenamelist;
+		//return filenamelist;
 	}
 	public static void searcher(String folderarg)
 	{
@@ -41,7 +41,8 @@ public class FileExplorer {
 		    	{
 		    		if (listOfFiles[i].isFile()) 
 		    		{
-		    			l1.add(listOfFiles[i].getPath().toString()+listOfFiles[i].getName().toString());
+		    			//l1.add(listOfFiles[i].getPath().toString()+listOfFiles[i].getName().toString());
+		    			l1.add(listOfFiles[i].getPath().toString());
 		    		} 
 		    		else if (listOfFiles[i].isDirectory()) 
 		    		{
@@ -52,6 +53,19 @@ public class FileExplorer {
 		catch(Exception e)
 		{
 			e.printStackTrace();
+		}
+	}
+	public static void main(String[] args)
+	{
+		List files = new List();
+		files.add("/tmp/op/file0/smali");
+		files.add("/tmp/op/file1/smali");
+		files.add("/tmp/op/file2/smali");
+		files.add("/tmp/op/file3/smali");
+		for(int i=0;i<files.getItemCount();i++)
+		{
+			
+			FileExplorer.explorer(files.getItem(i));
 		}
 	}
 }
