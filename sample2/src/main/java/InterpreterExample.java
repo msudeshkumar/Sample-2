@@ -1,4 +1,4 @@
-import org.python.core.PyInstance;  
+/*import org.python.core.PyInstance;  
 import org.python.util.PythonInterpreter;  
 //import com.project.android.deeplearningengine.*;
 
@@ -36,4 +36,4 @@ public class InterpreterExample
 
       hello.invoke("run");  
    }  
-} 
+} */
