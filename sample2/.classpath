@@ -29,5 +29,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="/home/msudesh_kumar/Documents/apktool_2.2.2.jar/apktool_2.2.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JSAT"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
