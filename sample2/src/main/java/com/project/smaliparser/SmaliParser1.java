@@ -17,13 +17,19 @@ public class SmaliParser1 {
 		BufferedReader brfin =null;
 		for(int i=0;i<opfilepaths.getItemCount();i++)
 		{
-			System.out.println(opfilepaths.getItem(i));
+			//System.out.println(opfilepaths.getItem(i));
 			X = null;
-			FileReader fr = new FileReader(opfilepaths.getItem(i));
+			//op = null;
+			//op.flush();
+			FileReader fr = new FileReader(opfilepaths.getItem(i)+"/smalilist.txt");
 			BufferedReader br = new BufferedReader(fr);
-			op = new BufferedWriter(new FileWriter("/tmp/samp"+i+".txt"));
-			op.write(opfilepaths.getItem(i));
-			op.newLine();
+			FileWriter fw = new FileWriter(opfilepaths.getItem(i)+"/func.txt");
+			fw.flush();
+			op = new BufferedWriter(fw);
+			fw.flush();
+			op.flush();
+			//op.write(opfilepaths.getItem(i));
+			//op.newLine();
 			while((X = br.readLine())!=null)
 			{	
 				/*op.write(X);
@@ -37,9 +43,11 @@ public class SmaliParser1 {
 					//System.out.println(st);
 					//System.out.println(opfilepaths.getItem(i));
 					//op.write(opfilepaths.getItem(i));
+					op.flush();
+					fw.flush();
 					if(st.isEmpty())
 					 {
-						System.out.println("Is Empty");
+						//System.out.println("Is Empty");
 						 continue;
 					 }
 					 else if(st.trim().startsWith("# direct methods"))
@@ -74,7 +82,13 @@ public class SmaliParser1 {
 							while((st=brfin.readLine())!=null);
 					}
 				}
+				//op.flush();
 			}
+			//op = null;
+			op.flush();
+			fw.flush();
+			//op.close();
+			//op.
 			//FileReader fr2 = new FileReader(br.readLine());
 			//BufferedReader br2 = new BufferedReader(fr2);
 			//System.out.println(br2.readLine());
@@ -83,9 +97,9 @@ public class SmaliParser1 {
 	public static void main(String[] Args) throws IOException
 	{
 		List l1 = new List();
-		l1.add("/tmp/op/file0/smali/smalilist.txt/");
-		l1.add("/tmp/op/file1/smali/smalilist.txt/");
-		l1.add("/tmp/op/file2/smali/smalilist.txt/");
+		l1.add("/tmp/op/file0/smali");
+		l1.add("/tmp/op/file1/smali");
+		l1.add("/tmp/op/file2/smali");
 		//l1.add("/tmp/op/file3/smali/smalilist.txt/");
 		smaliparse(l1);
 	}

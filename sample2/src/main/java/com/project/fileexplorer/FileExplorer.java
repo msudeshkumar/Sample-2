@@ -12,10 +12,14 @@ public class FileExplorer {
 	public static void explorer(String fname)
 	{
 		//List filenamelist = new List();
+		l1.clear();
 		String filename = fname;
 		try
 		{
-			BufferedWriter op = new BufferedWriter(new FileWriter(filename+"/smalilist.txt"));
+			FileWriter fr = new FileWriter(filename+"/smalilist.txt");
+			fr.flush();
+			BufferedWriter op = new BufferedWriter(fr);
+			op.flush();
 			searcher(filename);
 			for(int j=0;j<l1.size();j++)
 			{
@@ -23,6 +27,9 @@ public class FileExplorer {
 				//filenamelist.add(l1.get(j).toString());
 				op.newLine();
 			}
+			fr.flush();
+			//fr.close();
+			op.flush();
 			op.close();
 		}
 		catch(Exception e)
