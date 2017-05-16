@@ -19,14 +19,15 @@ public class maintrial1 {
 		String testpath = args[2];*/
 		String trainpath = "/home/msudesh_kumar/Documents/apkfiles2";
 		String testpath = null;
+		String X = null;
 		List files = new List();
 		List apktoolfiles = new List();
 		//List<int>
-		int[][] train_X_perm = {};
-		int[][] train_X_func = {};
-		int[][] train_X = {};
-		int[][] train_Y = {};
-		int[][] test_X  = {};
+		int[][] train_X_perm = new int[6][6];
+		int[][] train_X_func = new int[6][6];
+		int[][] train_X = new int[6][6];
+		int[][] train_Y = new int[6][6];
+		int[][] test_X  = new int[6][6];
 		files = ApkFileExplorer.apkexplorer(trainpath);
 		apktoolfiles = Apktool.ApktoolExec(files);
 		for(int i=0;i<apktoolfiles.getItemCount();i++)
@@ -38,24 +39,42 @@ public class maintrial1 {
 		{
 			AndroidManifestParser.parse(apktoolfiles.getItem(j));
 		}
-		for(int k=0;k<apktoolfiles.getItemCount();k++)
+		System.out.println("Done 1");
+		for(int k=0,h=0;k<apktoolfiles.getItemCount();k++)
+		//for(int k=0;k<6;k++)
 		{
-			train_X_perm[k] = PermissionExtraction.permissionExtractor(apktoolfiles.getItem(k));
+			train_X_perm[h++] = PermissionExtraction.permissionExtractor(apktoolfiles.getItem(k));
 		}
-		for(int k=0;k<apktoolfiles.getItemCount();k++)
+		System.out.println("Done 2");
+		for(int k=0,h=0;k<apktoolfiles.getItemCount();k++)
+		//for(int k=0;k<6;k++)
 		{
-			train_X_func[k] = APIFeatureExtractor.apiFeatureExtractor(apktoolfiles.getItem(k));
+			train_X_func[h++] = APIFeatureExtractor.apiFeatureExtractor(apktoolfiles.getItem(k));
 		}
+		System.out.println("Done 3");
 		for(int l=0;l<apktoolfiles.getItemCount();l++)
 		{
 			train_X[l] = combine(train_X_perm[l],train_X_func[l]);
 		}
+		System.out.println("Done 4");
 		for(int m=0;m<files.getItemCount();m++)
 		{
-			if(files.getItem(m).trim().substring((files.getItem(m).indexOf('{')), (files.getItem(m).indexOf('}')+1))=="{**malware**}")
+			X = files.getItem(m);
+			//X.
+			//System.out.println(files.getItem(m));
+			//System.out.println(
+			//System.out.println(
+			//int i1 = files.getItem(m).indexOf("{");
+			//int i2 = files.getItem(m).indexOf("}");
+			//System.out.println(i1);
+			//System.out.println(i2+1);
+			//if(files.getItem(m).substring((files.getItem(m).indexOf("{")), ((files.getItem(m).indexOf("}"))+1)).compareTo("{**malware**}")==0)
+			//if(X.substring(i1, i2+1).compareTo("{**malware**}")==0)
+			if(X.contains("{**malware**}"))
 			{
 				//train_Y[m] = {1,0};
 				//Arrays.fill(train_Y[m][0],1);
+				System.out.println(X);
 				train_Y[m][0] = 1;
 				train_Y[m][1] = 0;
 			}
@@ -65,14 +84,25 @@ public class maintrial1 {
 				train_Y[m][1] = 1;
 			}
 		}
+		System.out.println("Done 5");
 		for(int x=0;x<train_X.length;x++)
 		{
-			System.out.println(train_X.toString());
+			for(int x1=0;x1<train_X[x].length;x1++)
+			{
+				System.out.print("["+train_X[x][x1]+"]");
+			}
+			System.out.println();
 		}
-		for(int y=0;y<train_X.length;y++)
+		System.out.println("Done 6");
+		for(int y=0;y<train_Y.length;y++)
 		{
-			System.out.println(train_Y.toString());
+			for(int y1=0;y1<train_Y[y].length;y1++)
+			{
+				System.out.print("["+train_Y[y][y1]+"]");
+			}
+			System.out.println();
 		}
+		System.out.println("Done 7");
 	}
 	public static int[] combine(int[] a, int[] b){
         int length = a.length + b.length;

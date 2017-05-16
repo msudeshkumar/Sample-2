@@ -30,9 +30,9 @@ public class Apktool {
 	{
 		List l =new List();
 		List l1 = new List();
-		l.add("/home/msudesh_kumar/Documents/apkFiles/com.sec.android.app.camera.shootingmode.dual_3.011-16_minAPI23(nodpi)_apkmirror.com.apk");
-		l.add("/home/msudesh_kumar/Documents/apkFiles/com.sec.android.sidesync.source_3.1.0.1963037-124_minAPI19(nodpi)_apkmirror.com.apk");
-		l.add("/home/msudesh_kumar/Documents/apkFiles/com.coinbase.android_4.0.0-99_minAPI15(nodpi)_apkmirror.com.apk");
+		l.add("/home/msudesh_kumar/Documents/apkfiles2/com.sec.android.app.camera.shootingmode.dual_3.011-16_minAPI23(nodpi)_apkmirror.com.apk");
+		l.add("/home/msudesh_kumar/Documents/apkfiles2/com.sec.android.sidesync.source_3.1.0.1963037-124_minAPI19(nodpi)_apkmirror.com.apk");
+		l.add("/home/msudesh_kumar/Documents/apkfiles2/com.coinbase.android_4.0.0-99_minAPI15(nodpi)_apkmirror.com.apk");
 		l1 = ApktoolExec(l);
 		for(int j=0;j<l1.getItemCount();j++)
 		{

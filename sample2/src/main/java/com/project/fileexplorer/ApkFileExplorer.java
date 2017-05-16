@@ -34,7 +34,8 @@ public class ApkFileExplorer {
 		    	{
 		    		if (listOfFiles[i].isFile()) 
 		    		{
-		    			l2.add(listOfFiles[i].getPath().toString()+listOfFiles[i].getName().toString());
+		    			l2.add(listOfFiles[i].getPath().toString());
+		    			//System.out.println(listOfFiles[i].getPath().toString()+listOfFiles[i].getName().toString());
 		    		} 
 		    		else if (listOfFiles[i].isDirectory()) 
 		    		{
