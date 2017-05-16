@@ -12,6 +12,7 @@ import com.project.apktool.Apktool;
 import com.project.smaliparser.SmaliParser1;
 import com.project.androidmanifestparser.AndroidManifestParser;
 import com.project.featureextraction.*;
+import com.project.deeplearningengine.DBN;
 public class maintrial1 {
 	public static void main(String[] args) throws IOException
 	{
@@ -23,11 +24,15 @@ public class maintrial1 {
 		List files = new List();
 		List apktoolfiles = new List();
 		//List<int>
-		int[][] train_X_perm = new int[6][6];
-		int[][] train_X_func = new int[6][6];
-		int[][] train_X = new int[6][6];
-		int[][] train_Y = new int[6][6];
-		int[][] test_X  = new int[6][6];
+		int[][] train_X_perm = new int[8][6];
+		int[][] train_X_func = new int[8][6];
+		int[][] train_X = new int[8][12];
+		int[][] train_Y = new int[8][2];
+		//int[][] test_X  = new int[2][6];
+		int[][] test_X = {
+         		{1,1,1,1,0,0,0,0,1,0,1,1},
+         		{1,1,1,1,0,0,0,0,1,0,1,0}
+         };
 		files = ApkFileExplorer.apkexplorer(trainpath);
 		apktoolfiles = Apktool.ApktoolExec(files);
 		for(int i=0;i<apktoolfiles.getItemCount();i++)
@@ -103,6 +108,8 @@ public class maintrial1 {
 			System.out.println();
 		}
 		System.out.println("Done 7");
+		DBN.deepEngine(train_X, train_Y, test_X);
+		//DBN()
 	}
 	public static int[] combine(int[] a, int[] b){
         int length = a.length + b.length;
