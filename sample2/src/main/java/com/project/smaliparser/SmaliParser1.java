@@ -21,9 +21,9 @@ public class SmaliParser1 {
 			X = null;
 			//op = null;
 			//op.flush();
-			FileReader fr = new FileReader(opfilepaths.getItem(i)+"/smalilist.txt");
+			FileReader fr = new FileReader(opfilepaths.getItem(i)+"/smali/smalilist.txt");
 			BufferedReader br = new BufferedReader(fr);
-			FileWriter fw = new FileWriter(opfilepaths.getItem(i)+"/func.txt");
+			FileWriter fw = new FileWriter(opfilepaths.getItem(i)+"/smali/func.txt");
 			fw.flush();
 			op = new BufferedWriter(fw);
 			fw.flush();
@@ -97,9 +97,9 @@ public class SmaliParser1 {
 	public static void main(String[] Args) throws IOException
 	{
 		List l1 = new List();
-		l1.add("/tmp/op/file0/smali");
-		l1.add("/tmp/op/file1/smali");
-		l1.add("/tmp/op/file2/smali");
+		l1.add("/tmp/op/file0");
+		l1.add("/tmp/op/file1");
+		l1.add("/tmp/op/file2");
 		//l1.add("/tmp/op/file3/smali/smalilist.txt/");
 		smaliparse(l1);
 	}

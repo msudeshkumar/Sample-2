@@ -9,11 +9,11 @@ import java.util.ArrayList;
 public class FileExplorer {
 	static ArrayList<String> l1 = new ArrayList<String>();
 	//static String filename = "/tmp/op/smali";
-	public static void explorer(String fname)
+	public static List explorer(String fname)
 	{
-		//List filenamelist = new List();
+		List filenamelist = new List();
 		l1.clear();
-		String filename = fname;
+		String filename = fname+"/smali";
 		try
 		{
 			FileWriter fr = new FileWriter(filename+"/smalilist.txt");
@@ -23,8 +23,8 @@ public class FileExplorer {
 			searcher(filename);
 			for(int j=0;j<l1.size();j++)
 			{
+				filenamelist.add(l1.get(j).toString());
 				op.write(l1.get(j).toString());
-				//filenamelist.add(l1.get(j).toString());
 				op.newLine();
 			}
 			fr.flush();
@@ -36,7 +36,7 @@ public class FileExplorer {
 		{
 			e.printStackTrace();
 		}
-		//return filenamelist;
+		return filenamelist;
 	}
 	public static void searcher(String folderarg)
 	{
@@ -65,14 +65,19 @@ public class FileExplorer {
 	public static void main(String[] args)
 	{
 		List files = new List();
-		files.add("/tmp/op/file0/smali");
-		files.add("/tmp/op/file1/smali");
-		files.add("/tmp/op/file2/smali");
-		files.add("/tmp/op/file3/smali");
+		List l = new List();
+		files.add("/tmp/op/file0");
+		files.add("/tmp/op/file1");
+		files.add("/tmp/op/file2");
+		files.add("/tmp/op/file3");
 		for(int i=0;i<files.getItemCount();i++)
 		{
+			l = FileExplorer.explorer(files.getItem(i));
+			for(int j=0;j<l.getItemCount();j++)
+			{
+				System.out.println(l.getItem(j));
+			}
 			
-			FileExplorer.explorer(files.getItem(i));
 		}
 	}
 }

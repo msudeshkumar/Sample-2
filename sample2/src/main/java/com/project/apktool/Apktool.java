@@ -26,7 +26,7 @@ public class Apktool {
 		}
 		return apklist;
 	}
-	/*public static void main(String[] args)
+	public static void main(String[] args)
 	{
 		List l =new List();
 		List l1 = new List();
@@ -38,6 +38,6 @@ public class Apktool {
 		{
 			System.out.println(l1.getItem(j));
 		}
-	}*/
+	}
 
 }

@@ -47,4 +47,11 @@ public class ApkFileExplorer {
 			e.printStackTrace();
 		}
 	}
+	public static void main(String[] args)
+	{
+		String fpath = "/home/msudesh_kumar/Documents/apkfiles2";
+		List l = apkexplorer(fpath);
+		for(int i = 0; i<l.getItemCount();i++)
+		System.out.println(l.getItem(i));
+	}
 }

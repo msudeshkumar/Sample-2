@@ -4,6 +4,8 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+
+import java.awt.List;
 import java.io.*;
 import javax.xml.parsers.*;
 
@@ -12,9 +14,9 @@ public class AndroidManifestParser {
 	{
 		try
 		{
-			BufferedWriter output = new BufferedWriter(new FileWriter("/tmp/op/perm.txt"));
+			BufferedWriter output = new BufferedWriter(new FileWriter(filepath+"/perm.txt"));
 			int i=0;
-			File input = new File(filepath);
+			File input = new File(filepath+"/AndroidManifest.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(input);
@@ -33,6 +35,17 @@ public class AndroidManifestParser {
 		{
 			// TODO: handle exception
 			e.printStackTrace();
+		}
+	}
+	public static void main(String[] Args) throws IOException
+	{
+		List l1 = new List();
+		l1.add("/tmp/op/file0");
+		l1.add("/tmp/op/file1");
+		l1.add("/tmp/op/file2");
+		for(int i=0;i<l1.getItemCount();i++)
+		{
+			parse(l1.getItem(i));
 		}
 	}
 }
