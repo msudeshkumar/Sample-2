@@ -11,19 +11,19 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class APIFeatureExtractor {
-	public static void apiFeatureExtractor(List filepath) throws IOException
+	public static int[] apiFeatureExtractor(String filepath) throws IOException
 	{
-		List fpaths = filepath;
+		String fpaths = filepath;
 		String X;
 		String feac = null;
 		int[] fea = {0,0,0,0,0,0};
 		BufferedWriter op = null;
 		int flag1 =0, flag2 =0;
-		for(int i=0;i<filepath.getItemCount();i++)
+		for(int i=0;i<fpaths.length();i++)
 		{
-			FileReader fr = new FileReader(fpaths.getItem(i)+"/smali/func.txt");
+			FileReader fr = new FileReader(fpaths+"/smali/func.txt");
 			BufferedReader br = new BufferedReader(fr);
-			FileWriter fw = new FileWriter(fpaths.getItem(i)+"/APIFeatures.txt");
+			FileWriter fw = new FileWriter(fpaths+"/APIFeatures.txt");
 			//System.out.println(fpaths.getItem(i)+"/APIFeatures.txt");
 			op = new BufferedWriter(fw);
 			while((X=br.readLine())!=null)
@@ -73,23 +73,33 @@ public class APIFeatureExtractor {
 				}
 			}
 			feac = Arrays.toString(fea);
-			System.out.println(feac);
+			//System.out.println(feac);
 			op.write(feac);
 			//op.newLine();
 			op.close();
 		}
 		//feac = fea.toString();
-		
+		return fea;
 		
 	}
 	public static void main(String[] Args) throws IOException
 	{
 		List l1 = new List();
+		int[] i1 = {};
 		l1.add("/tmp/op/file0");
 		l1.add("/tmp/op/file1");
 		l1.add("/tmp/op/file2");
 		//l1.add("/tmp/op/file3/smali/smalilist.txt/");
-		apiFeatureExtractor(l1);
+		for(int i=0;i<l1.getItemCount();i++)
+		{
+			i1 = null;
+			i1 = apiFeatureExtractor(l1.getItem(i));
+			for(int j=0;j<i1.length;j++)
+			{
+				System.out.println(i1[j]);
+			}
+		}
+		
 	}
 
 }
