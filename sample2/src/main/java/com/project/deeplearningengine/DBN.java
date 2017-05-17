@@ -151,7 +151,7 @@ public class DBN {
         log_layer.softmax(y);
     }
 
-    private static void test_dbn(int[][] trainX, int[][] trainY, int[][] testX) {
+    private static int[][] test_dbn(int[][] trainX, int[][] trainY, int[][] testX) {
         Random rng = new Random(123);
 
         double pretrain_lr = 0.1;
@@ -183,6 +183,8 @@ public class DBN {
         int[][] train_X = trainX;
 
         int[][] train_Y = trainY;
+        
+        int[][] res = new int[testX.length][2];
 
 
         // construct DNN.DBN
@@ -205,13 +207,17 @@ public class DBN {
             dbn.predict(test_X[i], test_Y[i]);
             for(int j=0; j<n_outs; j++) {
                 System.out.print(test_Y[i][j] + " ");
+                if(test_Y[i][j]<=0.5) res[i][j]=0;
+                else if(test_Y[i][j]>0.5) res[i][j]=1;
             }
             System.out.println();
         }
+        return res;
     }
 
-    public static void deepEngine(int[][] train_X, int[][] train_Y, int[][] test_X)//main(String[] args){//(int[][] train_X, int[][] train_Y, int[][] test_X) {
+    public static int[][] deepEngine(int[][] train_X, int[][] train_Y, int[][] test_X)//main(String[] args){//(int[][] train_X, int[][] train_Y, int[][] test_X) {
     	 {
+    		int[][] deepres = new int[test_X.length][2];
     		 /*int[][] train_X = {
          		{0,0,0,1,0,1},
                  {0,0,0,1,0,1},
@@ -238,6 +244,7 @@ public class DBN {
          int[][] test_X = {
          		{1,1,1,1,0,0}
          };*/
-        test_dbn(train_X,train_Y,test_X);
+        deepres = test_dbn(train_X,train_Y,test_X);
+        return deepres;
     }
 }

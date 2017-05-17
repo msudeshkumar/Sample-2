@@ -57,6 +57,7 @@ public class SmaliParser1 {
 							 	{
 							 		//System.out.println(" direct  Function Call:"+st.trim().substring(st.indexOf("},")-2).trim());
 							 		op.write(st.trim().substring(st.indexOf("},")-2).trim());
+							 		//op.write(st.trim().substring((st.indexOf("},")-2),(st.indexOf(";"))).trim());
 							 		//op.write(opfilepaths.getItem(i));
 							 		op.newLine();
 							 	}
@@ -64,6 +65,7 @@ public class SmaliParser1 {
 							 	{
 							 		//System.out.println(" virtual Function Call:"+st.trim().substring(st.indexOf("},")-2).trim());
 							 		op.write(st.trim().substring(st.indexOf("},")-2).trim());
+							 		//op.write(st.trim().substring((st.indexOf("},")-2),(st.indexOf(";"))).trim());
 							 		//op.write(opfilepaths.getItem(i));
 							 		op.newLine();
 							 	}
@@ -71,6 +73,7 @@ public class SmaliParser1 {
 							 	{
 							 		//System.out.println(" interface Function Call:"+st.trim().substring(st.indexOf("},")-2).trim());
 							 		op.write(st.trim().substring(st.indexOf("},")-2).trim());
+							 		//op.write(st.trim().substring((st.indexOf("},")-2),(st.indexOf(";"))).trim());
 							 		//op.write(opfilepaths.getItem(i));
 							 		op.newLine();
 							 	}
@@ -97,9 +100,12 @@ public class SmaliParser1 {
 	public static void main(String[] Args) throws IOException
 	{
 		List l1 = new List();
-		l1.add("/tmp/op/file0");
+		/*l1.add("/tmp/op/file0");
 		l1.add("/tmp/op/file1");
-		l1.add("/tmp/op/file2");
+		l1.add("/tmp/op/file2");*/
+		l1.add("/tmp/op/file-com.HelloWorld_v1.0_apkpure");
+		l1.add("/tmp/op/file-com.paget96.lspeed_1.4.6-beta2-90_minAPI15(nodpi)_apkmirror");
+		l1.add("/tmp/op/file-com.sec.android.sidesync.source_3.1.0.1963037-124_minAPI19(nodpi)_apkmirror");
 		//l1.add("/tmp/op/file3/smali/smalilist.txt/");
 		smaliparse(l1);
 	}

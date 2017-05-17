@@ -15,7 +15,7 @@ public class PermissionExtraction {
 		String fpaths = filepath;
 		String X = null;
 		String feac = null;
-		int[] fea = {0,0,0,0,0,0};
+		int[] fea = {0,0,0,0,0,0,0};
 		BufferedWriter op = null;
 		for(int i=0;i<fpaths.length();i++)
 		{
@@ -35,11 +35,11 @@ public class PermissionExtraction {
 				{
 					fea[0] = 1;
 				}
-				if(X.compareTo("android.permission.RECEIVE_BOOT_COMPLETED")==0)
+				if(X.compareTo("android.permission.READ_PHONE_STATE")==0)
 				{
 					fea[1] = 1;
 				}
-				if(X.compareTo("android.permission.INTERACT_ACROSS_USERS_FULL")==0)
+				if(X.compareTo("android.permission.SEND_SMS")==0)
 				{
 					fea[2] = 1;
 				}
@@ -51,9 +51,13 @@ public class PermissionExtraction {
 				{
 					fea[4] = 1;
 				}
-				if(X.compareTo("com.sec.android.app.camera.permission.SHOOTING_MODE")==0)
+				if(X.compareTo("android.permission.RECORD_AUDIO")==0)
 				{
 					fea[5] = 1;
+				}
+				if(X.compareTo("android.permission.READ_CONTACTS")==0)
+				{
+					fea[6] = 1;
 				}
 			}
 			feac = Arrays.toString(fea);

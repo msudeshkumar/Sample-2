@@ -9,6 +9,7 @@ public class ApkFileExplorer {
 	public static List apkexplorer(String apkfname)
 	{
 		List apkfilenamelist = new List();
+		apkfilenamelist.removeAll();
 		String apkfoldername = apkfname;
 		try
 		{
@@ -26,6 +27,7 @@ public class ApkFileExplorer {
 	}
 	public static void apksearcher(String apkfolderarg)
 	{
+		l2.clear();
 		try
 		{ 
 			File folder = new File(apkfolderarg);
@@ -51,8 +53,12 @@ public class ApkFileExplorer {
 	public static void main(String[] args)
 	{
 		String fpath = "/home/msudesh_kumar/Documents/apkfiles2";
+		String tfpath = "/home/msudesh_kumar/Documents/tapkfiles2";
 		List l = apkexplorer(fpath);
 		for(int i = 0; i<l.getItemCount();i++)
 		System.out.println(l.getItem(i));
+		List l2 = apkexplorer(tfpath);
+		for(int i = 0; i<l2.getItemCount();i++)
+		System.out.println(l2.getItem(i));
 	}
 }
