@@ -154,7 +154,7 @@ public class maintrial1 {
 		}
 		for(int m=0;m<tfiles.getItemCount();m++)
 		{
-			X = files.getItem(m);
+			X = tfiles.getItem(m);
 			if(X.contains("{**malware**}"))
 			{
 				//train_Y[m] = {1,0};
