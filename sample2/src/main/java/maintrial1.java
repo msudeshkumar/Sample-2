@@ -16,15 +16,15 @@ import com.project.androidmanifestparser.AndroidManifestParser;
 import com.project.featureextraction.*;
 import com.project.deeplearningengine.DBN;
 import com.project.machinelearningengine.*;
-import jsat.classifiers.DataPoint;
-import jsat.linear.Vec;
+//import jsat.classifiers.DataPoint;
+//import jsat.linear.Vec;
 public class maintrial1 {
 	public static void main(String[] args) throws IOException
 	{
 		/*String trainpath = args[1];
 		String testpath = args[2];*/
-		String trainpath = "/home/msudesh_kumar/Documents/apkfiles2";
-		String testpath = "/home/msudesh_kumar/Documents/tapkfiles2";
+		String trainpath = "/home/msudesh_kumar/Documents/apkfiles3";
+		String testpath = "/home/msudesh_kumar/Documents/tapkfiles3";
 		String X = null;
 		List files = new List();
 		files.removeAll();
@@ -55,11 +55,13 @@ public class maintrial1 {
 		int[][] mres = null;
 		int mcor=0;
 		int dcor=0;
+		long totalTime = 0;
 		//int[][] test_X  = new int[2][6];
 		/*int[][] test_X = {
          		{1,1,1,1,0,0,0,0,1,0,1,1},
          		{1,1,1,1,0,0,0,0,1,0,1,0}
          };*/
+		long startTime = System.currentTimeMillis();
 		files = ApkFileExplorer.apkexplorer(trainpath);
 		for(int f=0;f<files.getItemCount();f++)
 		{
@@ -242,7 +244,7 @@ public class maintrial1 {
 		br.write("@data");
 		br.newLine();
 		br.newLine();
-		String Z = null;
+		//String Z = null;
 		for(int a=0;a<train_X.length;a++)
 		{
 			for(int b=0;b<train_X[a].length;b++)
@@ -340,9 +342,9 @@ public class maintrial1 {
 		for(int c=0; c<test_Y.length;c++)
 		{
 			//System.out.println(mres[c].toString());
-			System.out.println(Arrays.toString(mres[c]));
+			System.out.println("Pred: "+Arrays.toString(mres[c]));
 			//System.out.println(test_Y[c].toString());
-			System.out.println(Arrays.toString(test_Y[c]));
+			System.out.println("Act: "+Arrays.toString(test_Y[c]));
 			if(((Arrays.toString(mres[c])).compareTo(Arrays.toString(test_Y[c])))==0)
 			{
 				mcor++;
@@ -357,9 +359,9 @@ public class maintrial1 {
 		for(int c=0; c<test_Y.length;c++)
 		{
 			//System.out.println(mres[c].toString());
-			System.out.println(Arrays.toString(dres[c]));
+			System.out.println("Pred: "+Arrays.toString(dres[c]));
 			//System.out.println(test_Y[c].toString());
-			System.out.println(Arrays.toString(test_Y[c]));
+			System.out.println("Act: "+Arrays.toString(test_Y[c]));
 			if(((Arrays.toString(dres[c])).compareTo(Arrays.toString(test_Y[c])))==0)
 			{
 				dcor++;
@@ -372,6 +374,9 @@ public class maintrial1 {
 		//System.out.println(((double)(dcor/test_Y.length))*100+"%");
 		System.out.println(dac+"%");
 		System.out.println("-----------------------------------------------------------------------------------");
+		long endTime   = System.currentTimeMillis();
+		totalTime = endTime - startTime;
+		System.out.println(((totalTime/1000)/60));
 	}
 	public static int[] combine(int[] a, int[] b){
         int length = a.length + b.length;
