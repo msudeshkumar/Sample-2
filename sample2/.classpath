@@ -30,5 +30,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/home/msudesh_kumar/Documents/apktool_2.2.2.jar/apktool_2.2.2.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/JSAT"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

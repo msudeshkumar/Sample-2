@@ -23,8 +23,8 @@ public class maintrial1 {
 	{
 		/*String trainpath = args[1];
 		String testpath = args[2];*/
-		String trainpath = "/home/msudesh_kumar/Documents/apkfiles3";
-		String testpath = "/home/msudesh_kumar/Documents/tapkfiles3";
+		String trainpath = "/home/msudesh_kumar/Documents/apkfiles8";
+		String testpath = "/home/msudesh_kumar/Documents/tapkfiles8";
 		String X = null;
 		List files = new List();
 		files.removeAll();
@@ -350,12 +350,7 @@ public class maintrial1 {
 				mcor++;
 			}
 		}
-		System.out.println(mcor);
-		System.out.println(test_Y.length);
-		System.out.print("Machine Learning Accuracy = ");
-		double mac = ((double)mcor/(double)test_Y.length)*100;
-		//System.out.println(((double)(mcor/(test_Y.length)))*100+"%");
-		System.out.println(mac+"%");
+		System.out.println("-----------------------------------------------------------------------------------");
 		for(int c=0; c<test_Y.length;c++)
 		{
 			//System.out.println(mres[c].toString());
@@ -367,6 +362,12 @@ public class maintrial1 {
 				dcor++;
 			}
 		}
+		System.out.println(mcor);
+		System.out.println(test_Y.length);
+		System.out.print("Machine Learning Accuracy = ");
+		double mac = ((double)mcor/(double)test_Y.length)*100;
+		//System.out.println(((double)(mcor/(test_Y.length)))*100+"%");
+		System.out.println(mac+"%");
 		System.out.println(dcor);
 		System.out.println(test_Y.length);
 		System.out.print("Deep Learning Accuracy = ");
@@ -376,7 +377,7 @@ public class maintrial1 {
 		System.out.println("-----------------------------------------------------------------------------------");
 		long endTime   = System.currentTimeMillis();
 		totalTime = endTime - startTime;
-		System.out.println(((totalTime/1000)/60));
+		System.out.println(((totalTime/1000)/60)+" Minutes");
 	}
 	public static int[] combine(int[] a, int[] b){
         int length = a.length + b.length;
